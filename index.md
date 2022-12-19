@@ -13,8 +13,10 @@ sections:
       dropdown:
         title: What are you looking for?
         options:
-          - title: Build a business case for SEA
-            url: /customers-demand/
-          - title: Reasons to choose Singapore
-            url: ""
+          - title: Information about SEA markets
+            url: /market/
+          - title: Customers and demand in SEA
+            url: /customer-demand/
+          - title: How other have done it
+            url: /case-studies/
 ---
