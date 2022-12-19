@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Title
+description: An Isomer site of the Singapore Government
+image: /images/edb-logo.svg
 permalink: /
 notification: A PIX Prototype
 sections:
@@ -20,3 +20,4 @@ sections:
           - title: How others have done it
             url: /case-studies/
 ---
+
