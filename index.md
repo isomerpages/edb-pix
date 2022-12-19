@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Navigate Southeast Asia
-description: This is a PIX prototype
+description: This is a prototype website for testing
 image: /images/edb-logo.svg
 permalink: /
 notification: A PIX Prototype
@@ -20,6 +20,7 @@ sections:
           - title: How others have done it
             url: /case-studies/
 ---
+
 
 
 
