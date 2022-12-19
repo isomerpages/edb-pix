@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Title
-description: An Isomer site of the Singapore Government
+title: Navigate Southeast Asia
+description: A PIX test site
 image: /images/edb-logo.svg
 permalink: /
 notification: A PIX Prototype
@@ -20,4 +20,5 @@ sections:
           - title: How others have done it
             url: /case-studies/
 ---
+
 
