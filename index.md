@@ -10,13 +10,11 @@ sections:
       title: Grow your business in Southeast Asia
       subtitle: How Singapore can be your launchpad to the region
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
-      key_highlights:
-        - title: Why Southeast Asia has strong prospects
-          description: Find out more
-          url: https://google.com
-        - title: Why Singapore is the right place to grow your business
-          description: Find out more
-          url: https://gmail.com
+      dropdown:
+        title: Hero Dropdown Title
+        options:
+          - title: Build a business case for SEA
+            url: ""
+          - title: Reasons to choose Singapore
+            url: ""
 ---
