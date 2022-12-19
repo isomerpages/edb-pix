@@ -4,7 +4,7 @@ title: Navigate Southeast Asia
 description: This is a prototype site for testing
 image: /images/edb-logo.svg
 permalink: /
-notification: A PIX Prototype
+notification: This is a prototype site for testing
 sections:
   - hero:
       title: Grow your business in Southeast Asia
@@ -20,8 +20,3 @@ sections:
           - title: How others have done it
             url: /case-studies/
 ---
-
-
-
-
-
