@@ -11,7 +11,7 @@ sections:
       subtitle: How Singapore can be your launchpad to the region
       background: /images/hero-banner.png
       dropdown:
-        title: Hero Dropdown Title
+        title: What are you looking for?
         options:
           - title: Build a business case for SEA
             url: /customers-demand/
