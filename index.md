@@ -17,6 +17,6 @@ sections:
             url: /market/
           - title: Customers and demand in SEA
             url: /customer-demand/
-          - title: How other have done it
+          - title: How others have done it
             url: /case-studies/
 ---
