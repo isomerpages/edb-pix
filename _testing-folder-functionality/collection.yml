@@ -2,4 +2,5 @@ collections:
   testing-folder-functionality:
     output: true
     order:
+      - Testing page functionality 2.md
       - Testing page functionality.md
