@@ -13,7 +13,7 @@ Unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, to
 <div>Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</div>
 
 
-![Testing the insert image functionality](/images/favicon-isomer.ico)
+![Testing the insert image functionality](/images/favicon-isomer.ico) 
 <center><small>Need to figure out how to make image smaller</small></center>
 
 
