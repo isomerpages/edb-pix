@@ -2,3 +2,5 @@ logo: /images/edb-logo.svg
 links:
   - title: Contact Us
     url: /contact-us/
+  - title: Testing folder functionality
+    collection: testing-folder-functionality
