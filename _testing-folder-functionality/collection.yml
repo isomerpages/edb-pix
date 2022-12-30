@@ -1,4 +1,5 @@
 collections:
   testing-folder-functionality:
     output: true
-    order: []
+    order:
+      - Testing page functionality.md
