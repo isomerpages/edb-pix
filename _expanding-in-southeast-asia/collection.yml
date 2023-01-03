@@ -1,4 +1,5 @@
 collections:
   expanding-in-southeast-asia:
     output: true
-    order: []
+    order:
+      - Singapore as a Gateway to SEA.md
