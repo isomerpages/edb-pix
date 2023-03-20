@@ -16,4 +16,6 @@ sections:
         options:
           - title: Set up in Singapore
             url: /set-up/
+          - title: Learn more about my industry ecosystem
+            url: industry-ecosystem
 ---
