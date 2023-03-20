@@ -38,9 +38,12 @@ Singapore is home to many of the world’s global companies across several indus
 [LVMH](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/lvmh.html)<br>
 [McKinsey & Company ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/mckinsey-company.html)<br>
 [MediaTek](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/mediatek.html)<br>
+[Medtronic](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/medtronic.html)<br>
 [Memstar](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/memstar.html)<br>
 [Merck Sharpe & Dohme (MSD) ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/merck-sharp-dohme.html)<br>
 [Micron Technology](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/micron-technology.html)<br>
 [Mitsui Chemicals](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/mitsui-chemicals.html)<br>
 [National Oilwell Varco ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/national-oilwell-varco.html)<br>
 [Nestle](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/nestle.html)<br>
+[Philips Lighting](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/philips-lighting.html)<br>
+[Procter & Gamble (P&G) ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/procter-and-gamble-cb.html)<br>
