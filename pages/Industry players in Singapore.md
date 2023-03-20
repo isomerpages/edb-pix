@@ -69,6 +69,6 @@ Singapore is home to many of the world’s global companies across several indus
 [Zendesk](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/zendesk.html)<br>
 
 <h4>Others</h4>
-<b>Manufacturing</b>
 
+<b>Manufacturing</b><br>
 [Advanced Manufacturing Brochure](https://www.edb.gov.sg/content/dam/edb-en/our-industries/key-activities/advanced-manufacturing/AM-Brochure.pdf)
