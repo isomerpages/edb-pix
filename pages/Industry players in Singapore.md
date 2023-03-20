@@ -62,3 +62,8 @@ Singapore is home to many of the world’s global companies across several indus
 [Solvay](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/solvay.html)<br>
 [Spire Global](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/spire-global.html)<br>
 [Suez Water Technologies and Solutions](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/suez-water-technologies-and-solutions.html)<br>
+[Surbana Jurong](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/surbana-jurong.html)<br>
+[Technip FMC](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/technipfmc.html)<br>
+[Thermo Fisher Scientific ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/thermo-fisher-scientific.html)<br>
+[Wilmar](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/wilmar.html)<br>
+[Zendesk](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/zendesk.html)<br>
