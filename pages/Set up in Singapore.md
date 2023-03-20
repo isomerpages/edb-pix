@@ -3,13 +3,14 @@ title: Set up in Singapore
 permalink: /set-up/
 description: Set up in Singapore
 ---
-**You would need the following in order to do business in Singapore:**
-*  **Corporate Pass (Corp Pass)**
-*   **Business Registration Number**
+<span style="background-color: #FFFF00">**You would need the following in order to do business in Singapore:**
+	
+*  <span style="background-color: #FFFF00">**Corporate Pass (Corp Pass)**
+*   <span style="background-color: #FFFF00">**Business Registration Number**</span>
 
-<p>
+
 As one of the world’s easiest places to do business, setting up in Singapore is seamless and efficient. Whether you are a corporate or individual investor, here are some key processes to know as you start your investment journey with Singapore.
-</p>
+
 
 <h1> Incorporating in Singapore</h1>
 
@@ -40,7 +41,7 @@ A representative office can be registered in Singapore as a temporary arrangemen
 <b>Legal</b><br>
 [Legal Services Regulatory Authority](https://eservices.mlaw.gov.sg/LSRA/lsra-home)
 
-<b>All other industries (Manufacturing, international trading, wholesale, trade and trade-related business sectors</b><br>
+<b>All other industries (Manufacturing, international trading, wholesale, trade and trade-related business sectors)</b><br>
 [Enterprise Singapore](https://www.enterprisesg.gov.sg/e-services/representative-office/representative-office)
 
 <h5>3. Address key business needs</h5>
