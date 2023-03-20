@@ -1,0 +1,4 @@
+collections:
+  hire-my-team:
+    output: true
+    order: []
