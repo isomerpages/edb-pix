@@ -52,4 +52,9 @@ Singapore is home to many of the world’s global companies across several indus
 [PwC Singapore](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/pwc-singapore.html)<br>
 [REC](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/rec.html)<br>
 [Rohde & Schwarz ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/rohde-and-schwarz.html)<br>
-
+[SAP](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/sap.html)<br>
+[SATS](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/sats.html)<br>
+[Schlumberger](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/schlumberger.html)<br>
+[Singapore Centre for 3D Printing](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/singapore-centre-for-3d-printing-sc3dp.html)<br>
+[Singapore Power Group](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/singapore-power-group.html)<br>
+[Smith & Nephew](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/smith-and-nephew.html)<br>
