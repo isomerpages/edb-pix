@@ -67,3 +67,8 @@ Singapore is home to many of the world’s global companies across several indus
 [Thermo Fisher Scientific ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/thermo-fisher-scientific.html)<br>
 [Wilmar](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/wilmar.html)<br>
 [Zendesk](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/zendesk.html)<br>
+
+<h4>Others</h4>
+<b>Manufacturing</b>
+
+[Advanced Manufacturing Brochure](https://www.edb.gov.sg/content/dam/edb-en/our-industries/key-activities/advanced-manufacturing/AM-Brochure.pdf)
