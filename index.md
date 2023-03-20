@@ -13,8 +13,8 @@ sections:
       dropdown:
         title: What are you looking for?
         options:
-          - title: Information about SEA markets
-            url: /market/
+          - title: Set up in Singapore
+            url: /set-up/
           - title: Customers and demand in SEA
             url: /customers-demand/
           - title: How others have done it
