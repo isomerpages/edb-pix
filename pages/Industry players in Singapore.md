@@ -12,3 +12,4 @@ Singapore is home to many of the world’s global companies across several indus
 [Amgen Singapore Manufacturing ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/amgen-singapore-manufacturing.html)<br>
 [Applied Materials](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/applied-materials.html)<br>
 [Atkins Acuity](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/atkins-acuity.html)<br>
+[Baker Hughes](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/baker-hughes.html)<br>
