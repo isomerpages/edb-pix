@@ -7,16 +7,13 @@ permalink: /
 notification: This is a prototype site for testing
 sections:
   - hero:
-      title: Grow your business in Southeast Asia
-      subtitle: How Singapore can be your launchpad to the region
+      title: NAV
+      subtitle: (BETA) NAV is a digital companion designed for companies with little
+        to no presence in Singapore to grow their business in Singapore. ***
       background: /images/hero-banner.png
       dropdown:
         title: What are you looking for?
         options:
           - title: Set up in Singapore
             url: /set-up/
-          - title: Customers and demand in SEA
-            url: /customers-demand/
-          - title: How others have done it
-            url: /case-studies/
 ---
