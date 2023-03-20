@@ -45,5 +45,11 @@ Singapore is home to many of the world’s global companies across several indus
 [Mitsui Chemicals](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/mitsui-chemicals.html)<br>
 [National Oilwell Varco ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/national-oilwell-varco.html)<br>
 [Nestle](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/nestle.html)<br>
+[Networked Trade Platform](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/ntp.html)<br>
 [Philips Lighting](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/philips-lighting.html)<br>
 [Procter & Gamble (P&G) ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/procter-and-gamble-cb.html)<br>
+[PSA Corporation](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/psa-corporation.html)<br>
+[PwC Singapore](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/pwc-singapore.html)<br>
+[REC](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/rec.html)<br>
+[Rohde & Schwarz ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/rohde-and-schwarz.html)<br>
+
