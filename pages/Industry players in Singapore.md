@@ -35,6 +35,9 @@ Singapore is home to many of the world’s global companies across several indus
 [Infineon Technologies ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/infineon-technologies.html)<br>
 [Kantar](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/Kantar.html)<br>
 [Lucasfilm Singapore](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/lucasfilm-singapore.html)<br>
+[LVMH](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/lvmh.html)<br>
 [McKinsey & Company ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/mckinsey-company.html)<br>
 [Memstar](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/memstar.html)<br>
+[Merck Sharpe & Dohme (MSD) ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/merck-sharp-dohme.html)<br>
+[Mitsui Chemicals](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/mitsui-chemicals.html)<br>
 [Nestle](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/nestle.html)<br>
