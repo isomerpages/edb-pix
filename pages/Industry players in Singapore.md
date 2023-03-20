@@ -25,5 +25,8 @@ Singapore is home to many of the world’s global companies across several indus
 [Dentsu Aegis](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/dentsu-aegis-ci.html)<br>
 [DHL](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/dhl-l.html)<br>
 [Evonik](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/evonik.html)<br>
+[GlaxoSmithKline](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/gsk.html)<br>
+[Google](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/google.html)<br>
+[Grab](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/grab.html)<br>
 [Halliburton](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/halliburton.html)<br>
-[Henkel](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/henkel.html)
+[Henkel](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/henkel.html)<br>
