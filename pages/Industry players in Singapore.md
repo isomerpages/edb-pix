@@ -36,4 +36,5 @@ Singapore is home to many of the world’s global companies across several indus
 [Kantar](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/Kantar.html)<br>
 [Lucasfilm Singapore](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/lucasfilm-singapore.html)<br>
 [McKinsey & Company ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/mckinsey-company.html)<br>
+[Memstar](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/memstar.html)<br>
 [Nestle](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/nestle.html)<br>
