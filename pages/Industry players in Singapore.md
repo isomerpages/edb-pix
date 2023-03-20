@@ -39,5 +39,7 @@ Singapore is home to many of the world’s global companies across several indus
 [McKinsey & Company ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/mckinsey-company.html)<br>
 [Memstar](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/memstar.html)<br>
 [Merck Sharpe & Dohme (MSD) ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/merck-sharp-dohme.html)<br>
+[Micron Technology](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/micron-technology.html)<br>
 [Mitsui Chemicals](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/mitsui-chemicals.html)<br>
+[National Oilwell Varco ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/national-oilwell-varco.html)<br>
 [Nestle](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/nestle.html)<br>
