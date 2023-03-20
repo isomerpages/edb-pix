@@ -30,3 +30,5 @@ Singapore is home to many of the world’s global companies across several indus
 [Grab](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/grab.html)<br>
 [Halliburton](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/halliburton.html)<br>
 [Henkel](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/henkel.html)<br>
+[HOPE Technik](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/hope-technik.html)<br>
+[Infineon Technologies ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/infineon-technologies.html)
