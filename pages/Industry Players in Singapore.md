@@ -5,7 +5,6 @@ description: Learn more about my industry ecosystem
 ---
 Singapore is home to many of the world’s global companies across several industries. Read on to learn more about how they have established activities and operations in Singapore for their business in Asia and beyond.
 
-<span style="background-color: #FFFF00"><b>TO ORG BY INDUSTRY</b></span>
 
 <b>Aerospace</b><br>
 [Airbus](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/airbus.html)<br>
