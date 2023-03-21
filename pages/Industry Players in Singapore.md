@@ -65,6 +65,8 @@ Singapore is home to many of the world’s global companies across several indus
 
 <b>Pharmaceuticals & Biotechnology</b><br>
 
+
+
 [3M Smart Urban Solutions Lab](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/3m-smart-urban-solutions-lab.html)<br>
 [AECOM](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/aecom.html)<br>
 [Amgen Singapore Manufacturing ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/amgen-singapore-manufacturing.html)<br>
