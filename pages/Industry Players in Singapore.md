@@ -71,25 +71,27 @@ Singapore is home to many of the world’s global companies across several indus
 [Merck Sharpe & Dohme (MSD) ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/merck-sharp-dohme.html)<br>
 
 <b>Precision Engineering</b><br>
+[Applied Materials](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/applied-materials.html)<br>
+[HOPE Technik](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/hope-technik.html)<br>
+[Singapore Centre for 3D Printing](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/singapore-centre-for-3d-printing-sc3dp.html)<br>
+[Centre for Assistive and Robotics Technologies (CHART) ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/centre-for-healthcare-assistive-and-robotics-technologies.html)<br>
+[Rohde & Schwarz ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/rohde-and-schwarz.html)<br>
+
+
 
 
 [3M Smart Urban Solutions Lab](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/3m-smart-urban-solutions-lab.html)<br>
 [AECOM](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/aecom.html)<br>
-[Applied Materials](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/applied-materials.html)<br>
 [Asahi Glass Company](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/asahi-glass-company.html)<br>
 [Atkins Acuity](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/atkins-acuity.html)<br>
 [Bolloré Global Innovation Centre ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/bollore-global-innovation-centre.html)<br>
-[Centre for Assistive and Robotics Technologies (CHART) ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/centre-for-healthcare-assistive-and-robotics-technologies.html)<br>
 [Clifford Chance](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/clifford-chance.html)<br>
-[HOPE Technik](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/hope-technik.html)<br>
 [Kantar](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/Kantar.html)<br>
 [McKinsey & Company ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/mckinsey-company.html)<br>
 [Memstar](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/memstar.html)<br>
 [Philips Lighting](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/philips-lighting.html)<br>
 [PwC Singapore](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/pwc-singapore.html)<br>
 [REC](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/rec.html)<br>
-[Rohde & Schwarz ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/rohde-and-schwarz.html)<br>
-[Singapore Centre for 3D Printing](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/singapore-centre-for-3d-printing-sc3dp.html)<br>
 [Singapore Power Group](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/singapore-power-group.html)<br>
 [Suez Water Technologies and Solutions](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/suez-water-technologies-and-solutions.html)<br>
 [Surbana Jurong](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/surbana-jurong.html)<br>
