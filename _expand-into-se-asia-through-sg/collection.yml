@@ -1,4 +1,5 @@
 collections:
   expand-into-se-asia-through-sg:
     output: true
-    order: []
+    order:
+      - Find out how to grow in Southeast Asia from Singapore.md
