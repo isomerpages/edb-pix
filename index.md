@@ -18,4 +18,6 @@ sections:
             url: /set-up/
           - title: Learn more about my industry ecosystem
             url: industry-ecosystem
+          - title: Expand into Southeast Asia through Singapore
+            url: expand
 ---
