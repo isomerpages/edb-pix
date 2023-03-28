@@ -2,5 +2,5 @@ collections:
   expand-into-se-asia-through-sg:
     output: true
     order:
-      - Learn more about Southeast Asia's markets.md
       - Find out how to grow in Southeast Asia from Singapore.md
+      - Learn more about Southeast Asia's markets.md
