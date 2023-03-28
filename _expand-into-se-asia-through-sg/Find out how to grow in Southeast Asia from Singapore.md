@@ -66,6 +66,8 @@ This guide covers: 
  
 [View Singapore's Tech Ecosystem](https://www.edb.gov.sg/en/setting-up-in-singapore/business-guides/singapore-tech-ecosystem.html)<br>
 
+<br>
+
 <b>Enterprise SaaS in Southeast Asia: Actionable Insights for Customer Acquisition and Retention</b><br>
 This guide covers: 
 
@@ -78,3 +80,25 @@ This guide covers: 
 *   Which partners and events should SaaS providers focus on to build networks and deal-flow?<br>
 
 [View Enterprise SaaS in Southeast Asia: Actionable Insights for Customer Acquisition and Retention ](https://www.edb.gov.sg/en/setting-up-in-singapore/business-guides/enterprise-saas-in-southeast-asia-actionable-insights-for-customer-acquisition-and-retention.html)<br>
+
+<br>
+
+<b>Setting Up Your Tech Startup in Singapore</b><br>
+This guide covers: 
+
+*   How to choose the right business structure for your startup 
+    
+*   Which channels to use to recruit fresh and experienced talent 
+    
+*   Which events to participate in for networking 
+    
+*   How to leverage both public and private funding to accelerate growth<br>
+
+[View Setting Up Your Tech Startup in Singapore ](https://www.edb.gov.sg/en/setting-up-in-singapore/business-guides/setting-up-your-tech-startup-in-singapore.html)<br>
+
+<br>
+
+<b>Leveraging Block71 to Accelerate Your Access to SEA</b><br>
+Chern Sun from BLOCK71 will share with us an overview of the tech ecosystem's VCs, Incubators and Accelerators, Resources for Startups, Importance of Product Fit and Network of BLOCK71s around SEA to help tech startups access new markets.<br>
+
+[View Leveraging Block71 to Accelerate Your Access to SEA ](https://edbsingapore.thinkific.com/courses/block71-leveraging-singapore-s-largest-tech-startup-hub-to-accelerate-your-access-to-sea)<br>
