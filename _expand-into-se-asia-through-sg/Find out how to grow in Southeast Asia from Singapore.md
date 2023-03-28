@@ -64,4 +64,17 @@ This guide covers: 
     
 *   How you can scale even faster and what your next steps are<br>
  
-[View Singapore's Tech Ecosystem](https://www.edb.gov.sg/en/setting-up-in-singapore/business-guides/singapore-tech-ecosystem.html)
+[View Singapore's Tech Ecosystem](https://www.edb.gov.sg/en/setting-up-in-singapore/business-guides/singapore-tech-ecosystem.html)<br>
+
+<b>Enterprise SaaS in Southeast Asia: Actionable Insights for Customer Acquisition and Retention</b><br>
+This guide covers: 
+
+*   What is the addressable market for Enterprise SaaS segments in SEA? 
+    
+*   To what extent should multinational companies adapt their customer acquisition strategies from their home markets to SEA? 
+    
+*   How should business development representatives approach cultural nuances of the region for sales? 
+    
+*   Which partners and events should SaaS providers focus on to build networks and deal-flow?<br>
+
+
