@@ -42,4 +42,12 @@ Jay, a special advisor at Glints, will be giving an overview of the talent lands
 [View Exploring Differentiated Talent Across SEA](https://edbsingapore.thinkific.com/courses/glints-exploring-differentiated-talent-across-sea)<br>
 
 <h5>Regional Control Tower</h5><br>
-<b>
+<b>Participating in the Southeast Asia Manufacturing Alliance</b><br>
+Learn about the Southeast Asia Manufacturing Alliance, a tripartite agreement between EDB, ESG and private sector partners to promote a network of industrial parks to manufacturers who are interested to invest in both Singapore and the region.	<br>
+
+[View Participating in the Southeast Asia Manufacturing Alliance](https://edbsingapore.thinkific.com/courses/participating-sma)<br>
+
+<b>Using Nongsa as Your Digital Bridge to SEA</b><br>
+Suresh Sukumar from EDB Singapore's Regional Partnerships Division will talk about Nongsa Digital Park , an emerging digital cluster in Batam, and how it offers convenient and cost-efficient tech solutions for companies expanding in SEA.<br>
+
+[View Using Nongsa as Your DIgital Bridge to SEA](https://edbsingapore.thinkific.com/courses/nongsa-your-digital-bridge-to-sea)<br>
