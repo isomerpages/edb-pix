@@ -1,4 +1,5 @@
 collections:
   hire-my-team:
     output: true
-    order: []
+    order:
+      - Learn more about hiring talent in Singapore.md
