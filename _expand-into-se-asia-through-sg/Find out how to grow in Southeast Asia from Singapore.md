@@ -17,8 +17,9 @@ From FinTech to fast-moving consumer goods, opportunities are abound in Southeas
 <br>
 <br>
 
-<h4>Find out more through these resources</h4>
+<h3>Find out more through these resources</h3>
 <br>
+
 <b>A SEA of Opportunities</b><br>
 Looking to Southeast Asia for new business opportunities? This guide is your starting point for entering the region’s diverse and fast-growing markets. Discover how Singapore can be your partner in leading your next phase of growth in SEA.
 <br>
