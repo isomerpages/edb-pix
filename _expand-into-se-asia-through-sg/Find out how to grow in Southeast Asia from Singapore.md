@@ -76,3 +76,5 @@ This guide covers: 
 *   How should business development representatives approach cultural nuances of the region for sales? 
     
 *   Which partners and events should SaaS providers focus on to build networks and deal-flow?<br>
+
+[View Enterprise SaaS in Southeast Asia: Actionable Insights for Customer Acquisition and Retention ](https://www.edb.gov.sg/en/setting-up-in-singapore/business-guides/enterprise-saas-in-southeast-asia-actionable-insights-for-customer-acquisition-and-retention.html)<br>
