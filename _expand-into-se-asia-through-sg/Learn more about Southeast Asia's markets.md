@@ -7,8 +7,8 @@ Business opportunities in Southeast Asia have increased dramatically, with the r
 
 
 
-| Column 1 | Column 2 | Column 3 |
+|  |  | |
 | -------- | -------- | -------- |
-| Market Size |675 million people with the third largest population after China and India. |United Nations, Department of Economic and Social Affairs Population Division, “World Population Prospects 2022”|
-Market Size | 4th largest economy in the world by 2030 | US-ASEAN Business Council, “ASEAN Matters for America, America Matters for ASEAN”| 
-Digital Growth | Total internet users expected to reach 575 million by 2030
+| <b>Market Size</b> |675 million people with the third largest population after China and India. |United Nations, Department of Economic and Social Affairs Population Division, “World Population Prospects 2022”|
+<b>Market Size</b> | 4th largest economy in the world by 2030 | US-ASEAN Business Council, “ASEAN Matters for America, America Matters for ASEAN”| 
+<b>Digital Growth</b> | Total internet users expected to reach 575 million by 2030
