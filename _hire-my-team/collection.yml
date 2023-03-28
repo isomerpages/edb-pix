@@ -2,4 +2,5 @@ collections:
   hire-my-team:
     output: true
     order:
+      - View a summary of work passes in Singapore.md
       - Learn more about hiring talent in Singapore.md
