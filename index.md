@@ -20,4 +20,6 @@ sections:
             url: industry-ecosystem
           - title: Expand into Southeast Asia through Singapore
             url: /expand/grow-into-sea/
+          - title: Hire my team
+            url: /hire/hiring-talent/
 ---
