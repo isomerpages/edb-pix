@@ -21,6 +21,6 @@ Learn more about each Southeast Asian country through the following country guid
 
 |  |  |  |
 | -------- | -------- | -------- |
-| [Cambodia](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/cambodia/market-profile)  | [Indonesia](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/indonesia/market-profile)  | [Malaysia](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/malaysia/market-profile)  |
-| [Myanmar](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/myanmar/market-profile) | [Philippines](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/philippines/market-profile) |[Thailand](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/thailand/market-profile) |
-| [Vietnam](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/vietnam/market-profile)  |  |  |
+| [Cambodia](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/cambodia/market-profile)<br> | [Indonesia](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/indonesia/market-profile)<br> | [Malaysia](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/malaysia/market-profile)<br>  |
+| [Myanmar](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/myanmar/market-profile)<br> | [Philippines](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/philippines/market-profile)<br> |[Thailand](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/thailand/market-profile)<br> |
+| [Vietnam](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/vietnam/market-profile)<br>  |  |  |
