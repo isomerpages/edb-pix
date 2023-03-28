@@ -51,3 +51,17 @@ Learn about the Southeast Asia Manufacturing Alliance, a tripartite agreement be
 Suresh Sukumar from EDB Singapore's Regional Partnerships Division will talk about Nongsa Digital Park , an emerging digital cluster in Batam, and how it offers convenient and cost-efficient tech solutions for companies expanding in SEA.<br>
 
 [View Using Nongsa as Your DIgital Bridge to SEA](https://edbsingapore.thinkific.com/courses/nongsa-your-digital-bridge-to-sea)<br>
+
+<h5>Tech Ecosystem</h5><br>
+<b> Singapore’s Tech Ecosystem</b><br>
+This guide covers: 
+
+*   Why Southeast Asia offers unparalleled growth opportunities, and how Singapore provides the perfect launchpad for the region 
+    
+*   Which potential collaborators and ecosystem partners are already here 
+    
+*   Where to find your customers, and your talent 
+    
+*   How you can scale even faster and what your next steps are<br>
+ 
+[View Singapore's Tech Ecosystem](https://www.edb.gov.sg/en/setting-up-in-singapore/business-guides/singapore-tech-ecosystem.html)
