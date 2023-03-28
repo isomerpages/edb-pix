@@ -3,3 +3,12 @@ title: View a summary of work passes in Singapore
 permalink: /hire/work-pass-summary/
 description: View a summary of work passes in Singapore
 ---
+
+
+| | <b>Employment Pass</b> | <b>ONE Pass</b> | <b>Personalised Employment Pass</b>| <b>Tech Pass</b> | <b>EntrePass</b> | <b>S Pass</b> |
+| -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| <b>For Who</b>     | Foreign professionals, managers and executives    | Top talent in business, arts and culture, sports, as well as academia and research    |High-earning Employment Pass holders or overseas foreign professionals    | Established tech entrepreneurs, leaders or technical experts     | Eligible foreign entrepreneurs who are keen to operate a business in Singapore that is venture-backed or possesses innovative technologies    |Skilled workers who meet the eligibility criteria    |
+| <b>Read more about eligibility and how to apply</b>     | [View Overseas Networks Expertise Pass](https://www.mom.gov.sg/passes-and-permits/employment-pass )    | Top talent in business, arts and culture, sports, as well as academia and research    |High-earning Employment Pass holders or overseas foreign professionals    | Established tech entrepreneurs, leaders or technical experts     | Eligible foreign entrepreneurs who are keen to operate a business in Singapore that is venture-backed or possesses innovative technologies    |Skilled workers who meet the eligibility criteria    |
+
+
+
