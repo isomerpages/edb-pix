@@ -43,8 +43,8 @@ Singapore’s universities are well regarded globally, with the National Univers
     
 *   [Singapore Management University (SMU)](https://www.smu.edu.sg/)
     
-*   Singapore University of Technology and Design (SUTD) 
+*   [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/)
 
-*   Singapore Institute of Technology (SIT)
+*  [Singapore Institute of Technology (SIT)](https://www.singaporetech.edu.sg/)
     
-*   Singapore University of Social Sciences (SUSS)
+*   [Singapore University of Social Sciences (SUSS)](https://www.suss.edu.sg/)
