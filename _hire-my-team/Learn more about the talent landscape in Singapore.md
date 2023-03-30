@@ -24,4 +24,13 @@ Workforce Singapore (WSG) is a statutory board under the Ministry of Manpower th
 
 WSG, in partnership with key stakeholders, also addresses the needs of enterprises by providing support to help them transform and remain competitive, while developing a future-ready talent pipeline to support industry growth, and match the right people to the right jobs.<br>
 
-[View Workforce Singapore (WSG)](https://www.ssg-wsg.gov.sg/)
+[View Workforce Singapore (WSG)](https://www.ssg-wsg.gov.sg/)<br>
+
+<br>
+
+<h5>Post-Secondary and Tertiaty Education Institutes</h5>
+Singapore’s host of post-secondary and tertiary education institutes supplies a steady stream of graduates to the local workforce every year. These education institutions also support the workforce’s lifelong learning pursuits through modular and industry-relevant courses.  
+
+Universities 
+
+Singapore’s universities are well regarded globally, with the National University of Singapore (NUS) and Nanyang Technological University (NTU) taking the 11th and 19th places respectively in the 2023 QS World University Rankings.
