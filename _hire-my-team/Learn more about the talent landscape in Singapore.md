@@ -39,7 +39,7 @@ Singapore’s universities are well regarded globally, with the National Univers
 
 *   [National University of Singapore (NUS)](https://nus.edu.sg/)
     
-*   Nanyang Technological University (NTU) 
+*   [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/)
     
 *   Singapore Management University (SMU) 
     
