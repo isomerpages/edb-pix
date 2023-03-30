@@ -29,8 +29,22 @@ WSG, in partnership with key stakeholders, also addresses the needs of enterpris
 <br>
 
 <h5>Post-Secondary and Tertiaty Education Institutes</h5>
-Singapore’s host of post-secondary and tertiary education institutes supplies a steady stream of graduates to the local workforce every year. These education institutions also support the workforce’s lifelong learning pursuits through modular and industry-relevant courses.  
 
-Universities 
+Singapore’s host of post-secondary and tertiary education institutes supplies a steady stream of graduates to the local workforce every year. These education institutions also support the workforce’s lifelong learning pursuits through modular and industry-relevant courses. <br>
+<br>
+
+<b>Universities</b>
 
 Singapore’s universities are well regarded globally, with the National University of Singapore (NUS) and Nanyang Technological University (NTU) taking the 11th and 19th places respectively in the 2023 QS World University Rankings.
+
+*   National University of Singapore (NUS) 
+    
+*   Nanyang Technological University (NTU) 
+    
+*   Singapore Management University (SMU) 
+    
+*   Singapore University of Technology and Design (SUTD) 
+
+*   Singapore Institute of Technology (SIT)
+    
+*   Singapore University of Social Sciences (SUSS)
