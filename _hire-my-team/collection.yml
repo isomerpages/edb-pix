@@ -2,6 +2,6 @@ collections:
   hire-my-team:
     output: true
     order:
-      - Learn more about living and working in Singapore.md
       - Learn more about hiring talent in Singapore.md
       - View a summary of work passes in Singapore.md
+      - Learn more about living and working in Singapore.md
