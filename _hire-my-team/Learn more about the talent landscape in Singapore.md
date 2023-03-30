@@ -64,3 +64,15 @@ Singapore’s polytechnics offer full-time and part-time programmes leading to d
 *   [Singapore Polytechnic (SP)](https://www.sp.edu.sg/)
     
 *   [Temasek Polytechnic (TP)](https://www.tp.edu.sg/)
+
+<br>
+
+<b>Institutes of Technical Education (ITEs)</b><br>
+
+ITEs offer full-time and part-time courses leading to vocational certificates for a wide range of industries.&nbsp;&nbsp;
+
+*    [ITE College Central](https://www.ite.edu.sg/colleges/ite-college-central)&nbsp;&nbsp;
+    
+*   [ITE College East ](https://www.ite.edu.sg/colleges/ite-college-east)&nbsp;&nbsp;
+    
+*   [ITE College West ](https://www.ite.edu.sg/colleges/ite-college-west)
