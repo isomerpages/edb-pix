@@ -37,7 +37,7 @@ Singapore’s host of post-secondary and tertiary education institutes supplies 
 
 Singapore’s universities are well regarded globally, with the National University of Singapore (NUS) and Nanyang Technological University (NTU) taking the 11th and 19th places respectively in the 2023 QS World University Rankings.
 
-*   National University of Singapore (NUS) 
+*   [National University of Singapore (NUS)](https://nus.edu.sg/)
     
 *   Nanyang Technological University (NTU) 
     
