@@ -16,6 +16,15 @@ Business opportunities in Southeast Asia have increased dramatically, with the r
 <b>Investments in Southeast Asia</b> |134% growth in manufacturing Foreign Direct Investment to Southeast Asia (worth US$44.7 billion) in 2022. US$70 billion projected investment in Southeast Asia private equity (2019 – 2023)||  |  |  
 <br>
 
+
+
+
+|  |  | 
+| -------- | -------- | 
+| Text     | Text     | 
+| Text     | Text     | 
+| Text     | Text     | 
+
 <h4>Country Guides</h4><br>
 Learn more about each Southeast Asian country through the following country guides.<br>
 
