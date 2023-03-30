@@ -48,3 +48,19 @@ Singapore’s universities are well regarded globally, with the National Univers
 *  [Singapore Institute of Technology (SIT)](https://www.singaporetech.edu.sg/)
     
 *   [Singapore University of Social Sciences (SUSS)](https://www.suss.edu.sg/)
+ 
+<br>
+<br>
+<b>Polytechnics</b> 
+
+Singapore’s polytechnics offer full-time and part-time programmes leading to diplomas in disciplines such as business, chemical and bio-sciences, communications, design, digital media, engineering and manufacturing.<br>
+
+*   [Nanyang Polytechnic (NYP)](https://www.nyp.edu.sg/) 
+
+*   [Ngee Ann Polytechnic (NP)](https://www.np.edu.sg/)  
+    
+*   [Republic Polytechnic (RP)](https://www.rp.edu.sg/) 
+    
+*   [Singapore Polytechnic (SP)](https://www.sp.edu.sg/) 
+    
+*   [Temasek Polytechnic (TP)](https://www.tp.edu.sg/)
