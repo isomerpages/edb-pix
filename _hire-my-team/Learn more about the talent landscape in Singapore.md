@@ -9,11 +9,19 @@ Find out more about the government agencies and education institutes involved in
 
 <br>
 
-<b>SkillsFuture Singapore (SSG)</b>
+<h5>SkillsFuture Singapore (SSG)</h5>
 
 SkillsFuture Singapore (SSG) is a statutory board under the Ministry of Education (MOE). It drives and coordinates the implementation of the national SkillsFuture movement, promotes a culture and holistic system of lifelong learning through the pursuit of skills mastery, and strengthens the ecosystem of quality education and training in Singapore. 
 
 SSG strengthens the adult training infrastructure by taking on all existing functions of the Committee for Private Education (CPE), as well as guiding the Institute for Adult Learning (IAL) to enhance the capabilities and professionalism of adult educators. SSG plays a key role in the quality assurance for private education institutions and adult training centres. Together with educational institutions and training partners, SSG ensures that students and working adults have access to high quality, industry-relevant training throughout life. SSG also brings together synergies in continuing education and training (CET) and pre-employment training (PET), so skills requirements will continue to meet the demands of different sectors of the economy.<br>
 <br>
 [View SkillsFuture Singapore (SSG)](https://www.ssg-wsg.gov.sg/)<br>
+<br>
 
+<h5>Workforce Singapore (WSG)</h5>
+
+Workforce Singapore (WSG) is a statutory board under the Ministry of Manpower that oversees the transformation of the local workforce and industry to meet ongoing economic challenges. WSG promotes the development, competitiveness, inclusiveness, and employability of all levels of the workforce to ensure all sectors of the economy are supported by a strong, inclusive Singaporean core. 
+
+WSG, in partnership with key stakeholders, also addresses the needs of enterprises by providing support to help them transform and remain competitive, while developing a future-ready talent pipeline to support industry growth, and match the right people to the right jobs.<br>
+
+[View Workforce Singapore (WSG)](https://www.ssg-wsg.gov.sg/)
