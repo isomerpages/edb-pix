@@ -87,9 +87,14 @@ on the ease of setting up his business in Singapore</b>
 	
 <br>
 
+
+| <b>What would you like to get done next?</b> | 
+| -------- | 
+| [Hire my team](/configuration/hire/hiring-talent/)  |
+| [Expand into Southeast Asia through Singapore](/configuration/expand/hiring-talent/)  |
+| [Learn more about my industry ecosystem](/configuration/industry-ecosystem/hiring-talent/)  |
+| [Understand how the Singapore government can support me](/configuration/sg-gov-support/)  |
 	
-<b>What would you like to get done next?</b>
-[I'm a link within the site](/configuration/navbar/overview/)
 
 [Back to top](#incorporating-in-singapore)
 	</span></span>
