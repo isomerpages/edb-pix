@@ -26,6 +26,4 @@ This guide covers:&nbsp;
 
 [View Guide to Hiring Your Dream Tech Team in Singapore](https://www.edb.gov.sg/en/setting-up-in-singapore/business-guides/guide-to-hiring-your-dream-tech-team-in-singapore.html)<br>
 <br>
-<br>
 
-[Back to top](#guide-to-hiring-in-singapore)
