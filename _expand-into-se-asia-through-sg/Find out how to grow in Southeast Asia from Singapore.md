@@ -3,8 +3,6 @@ title: Find out how to grow in Southeast Asia from Singapore
 permalink: /expand/grow-into-sea/
 description: Find out how to grow in Southeast Asia from Singapore
 ---
-
-
 From FinTech to fast-moving consumer goods, opportunities are abound in Southeast Asia’s booming industries. These thriving Southeast Asia markets are accessible to you from Singapore.
 
 
@@ -16,7 +14,6 @@ From FinTech to fast-moving consumer goods, opportunities are abound in Southeas
 | <b>#1 Tech innovation hub outside of Silicon Valley</b>  | Benefit from Southeast Asia’s digital economic boom. Singapore hosts 80 of the world’s top 100 tech companies, and accounts for two-thirds of Southeast Asia’s total venture capital funding.  | 
 | |  |
 
-<br>
 <br>
 
 <h3>Find out more through these resources</h3>
@@ -62,20 +59,20 @@ Learn about the Southeast Asia Manufacturing Alliance, a tripartite agreement be
 <br>
 
 <b>Using Nongsa as Your Digital Bridge to SEA</b><br>
-Suresh Sukumar from EDB Singapore's Regional Partnerships Division will talk about Nongsa Digital Park , an emerging digital cluster in Batam, and how it offers convenient and cost-efficient tech solutions for companies expanding in SEA.<br>
+Suresh Sukumar from EDB Singapore's Regional Partnerships Division will talk about Nongsa Digital Park, an emerging digital cluster in Batam, and how it offers convenient and cost-efficient tech solutions for companies expanding in SEA.<br>
 
 [View Using Nongsa as Your DIgital Bridge to SEA](https://edbsingapore.thinkific.com/courses/nongsa-your-digital-bridge-to-sea)<br>
 <br>
 
 <h5>Tech Ecosystem</h5><br>
 <b> Singapore’s Tech Ecosystem</b><br>
-This guide covers: 
+This guide covers:&nbsp;
 
-*   Why Southeast Asia offers unparalleled growth opportunities, and how Singapore provides the perfect launchpad for the region 
+*   Why Southeast Asia offers unparalleled growth opportunities, and how Singapore provides the perfect launchpad for the region&nbsp;
     
-*   Which potential collaborators and ecosystem partners are already here 
+*   Which potential collaborators and ecosystem partners are already here&nbsp;
     
-*   Where to find your customers, and your talent 
+*   Where to find your customers, and your talent&nbsp;
     
 *   How you can scale even faster and what your next steps are<br>
  
@@ -84,13 +81,13 @@ This guide covers: 
 <br>
 
 <b>Enterprise SaaS in Southeast Asia: Actionable Insights for Customer Acquisition and Retention</b><br>
-This guide covers: 
+This guide covers:&nbsp;
 
-*   What is the addressable market for Enterprise SaaS segments in SEA? 
+*   What is the addressable market for Enterprise SaaS segments in SEA?&nbsp;
     
-*   To what extent should multinational companies adapt their customer acquisition strategies from their home markets to SEA? 
+*   To what extent should multinational companies adapt their customer acquisition strategies from their home markets to SEA?&nbsp;
     
-*   How should business development representatives approach cultural nuances of the region for sales? 
+*   How should business development representatives approach cultural nuances of the region for sales?&nbsp;
     
 *   Which partners and events should SaaS providers focus on to build networks and deal-flow?<br>
 
@@ -99,13 +96,13 @@ This guide covers: 
 <br>
 
 <b>Setting Up Your Tech Startup in Singapore</b><br>
-This guide covers: 
+This guide covers:&nbsp;
 
-*   How to choose the right business structure for your startup 
+*   How to choose the right business structure for your startup&nbsp;
     
-*   Which channels to use to recruit fresh and experienced talent 
+*   Which channels to use to recruit fresh and experienced talent&nbsp;
     
-*   Which events to participate in for networking 
+*   Which events to participate in for networking&nbsp;
     
 *   How to leverage both public and private funding to accelerate growth<br>
 
