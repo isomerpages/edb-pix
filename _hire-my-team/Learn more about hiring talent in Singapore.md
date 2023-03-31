@@ -4,7 +4,6 @@ permalink: /hire/hiring-talent/
 description: Learn more about hiring talent in Singapore
 ---
 Download these guides for comprehensive information about hiring in Singapore and hiring tech talent<br>
-<br>
 
 ##### Guide to Hiring in Singapore
 This guide covers:&nbsp;
