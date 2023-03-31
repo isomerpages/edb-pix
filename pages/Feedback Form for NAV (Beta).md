@@ -3,7 +3,6 @@ title: Feedback Form for NAV (Beta)
 permalink: /feedback/
 description: Feedback Form for NAV (Beta)
 ---
-```
 <div style="font-family: Sans-Serif;
     font-size: 15px;
     color: #000;
@@ -24,4 +23,3 @@ description: Feedback Form for NAV (Beta)
     padding-top: 5px;">
   Powered by <a style="color: #999" href="https://form.gov.sg">Form</a>
 </div>
-```
