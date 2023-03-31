@@ -12,7 +12,7 @@ description: Set up in Singapore
 As one of the world’s easiest places to do business, setting up in Singapore is seamless and efficient. Whether you are a corporate or individual investor, here are some key processes to know as you start your investment journey with Singapore.
 
 
-<h1> Incorporating in Singapore</h1>
+# Incorporating in Singapore
 
 <h3>1. Choose your business structure</h3>
 
@@ -83,4 +83,6 @@ The GlP accords PR status to investors with a substantial business track record 
 
 
 <b>Jatin Khosla (left), Co-Founder and CEO of startup Konigle
-on the ease of setting up his business in Singapore</b></span></span>
+on the ease of setting up his business in Singapore</b></span></span><br>
+
+[Back to top](#incorporating-in-singapore)
