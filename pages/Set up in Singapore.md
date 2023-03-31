@@ -91,7 +91,7 @@ on the ease of setting up his business in Singapore</b>
 | <b>What would you like to get done next?</b> | 
 | -------- | 
 | [Hire my team](/configuration/hire/hiring-talent/)  |
-| [Expand into Southeast Asia through Singapore](/configuration/expand/hiring-talent/)  |
+| [Expand into Southeast Asia through Singapore](/configuration/expand/grow-into-sea/  |
 | [Learn more about my industry ecosystem](/configuration/industry-ecosystem/hiring-talent/)  |
 | [Understand how the Singapore government can support me](/configuration/sg-gov-support/)  |
 	
