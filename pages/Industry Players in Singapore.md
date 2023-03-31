@@ -3,7 +3,8 @@ title: Industry Players in Singapore
 permalink: /industry-ecosystem/
 description: Learn more about my industry ecosystem
 ---
-Singapore is home to many of the world’s global companies across several industries. Read on to learn more about how they have established activities and operations in Singapore for their business in Asia and beyond.
+Singapore is home to many of the world’s global companies across several industries. Read on to learn more about how they have established activities and operations in Singapore for their business in Asia and beyond.<br>
+
 
 
 <b>Aerospace</b><br>
@@ -15,7 +16,7 @@ Singapore is home to many of the world’s global companies across several indus
 [Coca-Cola](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/coca-cola.html)<br>
 [Givaudan](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/givaudan.html)<br>
 [Nestle](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/nestle.html)<br>
-[Procter & Gamble (P&G) ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/procter-and-gamble-cb.html)<br>
+[Procter &amp; Gamble (P&amp;G) ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/procter-and-gamble-cb.html)<br>
 
 <b>Creative Industries</b><br>
 [Dentsu Aegis](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/dentsu-aegis-ci.html)<br>
@@ -27,20 +28,20 @@ Singapore is home to many of the world’s global companies across several indus
 [MediaTek](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/mediatek.html)<br>
 [Micron Technology](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/micron-technology.html)<br>
 
-<b>Energy & Chemicals</b><br>
+<b>Energy &amp; Chemicals</b><br>
 [3M](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/3m.html)<br>
 [Chevron Oronite](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/chevron-oronite.html)<br>
 [Evonik](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/evonik.html)<br>
 [Mitsui Chemicals](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/mitsui-chemicals.html)<br>
 [Solvay](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/solvay.html)<br>
 
-<b>Information & Communications Technology</b><br>
+<b>Information &amp; Communications Technology</b><br>
 [Google](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/google.html)<br>
 [Grab](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/grab.html)<br>
 [SAP](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/sap.html)<br>
 [Zendesk](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/zendesk.html)<br>
 
-<b>Logistics & Supply Chain Management</b><br>
+<b>Logistics &amp; Supply Chain Management</b><br>
 [DHL](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/dhl-l.html)<br>
 [Henkel](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/henkel.html)<br>
 [Networked Trade Platform](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/ntp.html)<br>
@@ -50,40 +51,40 @@ Singapore is home to many of the world’s global companies across several indus
 <b>Medical Technology</b><br>
 [Becton Dickinson ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/becton-dickinson.html)<br>
 [Medtronic](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/medtronic.html)<br>
-[Smith & Nephew](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/smith-and-nephew.html)<br>
+[Smith &amp; Nephew](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/smith-and-nephew.html)<br>
 [Thermo Fisher Scientific ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/thermo-fisher-scientific.html)<br>
 
 <b>Natural Resources</b><br>
 [BHP Billiton ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/bhp.html)<br>
 [Wilmar](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/wilmar.html)<br>
 
-<b>Oil & Gas Equipment and Services</b><br>
+<b>Oil &amp; Gas Equipment and Services</b><br>
 [Baker Hughes](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/baker-hughes.html)<br>
 [Halliburton](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/halliburton.html)<br>
 [National Oilwell Varco ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/national-oilwell-varco.html)<br>
 [Technip FMC](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/technipfmc.html)<br>
 [Schlumberger](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/schlumberger.html)<br>
 
-<b>Pharmaceuticals & Biotechnology</b><br>
+<b>Pharmaceuticals &amp; Biotechnology</b><br>
 [Amgen Singapore Manufacturing ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/amgen-singapore-manufacturing.html)<br>
 [Chugai Pharmaceutical Co.](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/chugai-pharmaceutical-co.html)<br>
 [GlaxoSmithKline](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/gsk.html)<br>
-[Merck Sharpe & Dohme (MSD) ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/merck-sharp-dohme.html)<br>
+[Merck Sharpe &amp; Dohme (MSD) ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/merck-sharp-dohme.html)<br>
 
 <b>Precision Engineering</b><br>
 [Applied Materials](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/applied-materials.html)<br>
 [Centre for Assistive and Robotics Technologies (CHART) ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/centre-for-healthcare-assistive-and-robotics-technologies.html)<br>
 [HOPE Technik](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/hope-technik.html)<br>
-[Rohde & Schwarz ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/rohde-and-schwarz.html)<br>
+[Rohde &amp; Schwarz ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/rohde-and-schwarz.html)<br>
 [Singapore Centre for 3D Printing](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/singapore-centre-for-3d-printing-sc3dp.html)<br>
 
 <b>Professional Services</b><br>
 [Clifford Chance](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/clifford-chance.html)<br>
 [Kantar](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/Kantar.html)<br>
-[McKinsey & Company ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/mckinsey-company.html)<br>
+[McKinsey &amp; Company ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/mckinsey-company.html)<br>
 [PwC Singapore](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/pwc-singapore.html)<br>
 
-<b>Urban Solutions & Sustainability</b><br>
+<b>Urban Solutions &amp; Sustainability</b><br>
 [3M Smart Urban Solutions Lab](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/3m-smart-urban-solutions-lab.html)<br>
 [AECOM](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/aecom.html)<br>
 [Asahi Glass Company](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/asahi-glass-company.html)<br>
@@ -98,7 +99,7 @@ Singapore is home to many of the world’s global companies across several indus
 
 
 
-<h4>Others</h4>
+<h3>Others</h3>
 
 <b>Manufacturing</b><br>
 [Advanced Manufacturing Brochure](https://www.edb.gov.sg/content/dam/edb-en/our-industries/key-activities/advanced-manufacturing/AM-Brochure.pdf)<br>
