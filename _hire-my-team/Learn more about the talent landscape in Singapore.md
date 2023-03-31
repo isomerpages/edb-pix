@@ -28,9 +28,9 @@ WSG, in partnership with key stakeholders, also addresses the needs of enterpris
 
 <br>
 
-<h5>Post-Secondary and Tertiaty Education Institutes</h5>
+<h5>Post-Secondary and Tertiary Education Institutes</h5>
 
-Singapore’s host of post-secondary and tertiary education institutes supplies a steady stream of graduates to the local workforce every year. These education institutions also support the workforce’s lifelong learning pursuits through modular and industry-relevant courses.&nbsp;<br>
+Singapore’s host of post-secondary and tertiary education institutes supplies a steady stream of graduates to the local workforce every year. These education institutions also support the workforce’s lifelong learning pursuits through modular and industry-relevant courses.<br>
 <br>
 
 <b>Universities</b>
@@ -69,10 +69,10 @@ Singapore’s polytechnics offer full-time and part-time programmes leading to d
 
 <b>Institutes of Technical Education (ITEs)</b><br>
 
-ITEs offer full-time and part-time courses leading to vocational certificates for a wide range of industries.&nbsp;&nbsp;
+ITEs offer full-time and part-time courses leading to vocational certificates for a wide range of industries.
 
-*    [ITE College Central](https://www.ite.edu.sg/colleges/ite-college-central)&nbsp;&nbsp;
+*    [ITE College Central](https://www.ite.edu.sg/colleges/ite-college-central)
     
-*   [ITE College East ](https://www.ite.edu.sg/colleges/ite-college-east)&nbsp;&nbsp;
+*   [ITE College East ](https://www.ite.edu.sg/colleges/ite-college-east)
     
 *   [ITE College West ](https://www.ite.edu.sg/colleges/ite-college-west)
