@@ -6,7 +6,7 @@ description: Learn more about hiring talent in Singapore
 Download these guides for comprehensive information about hiring in Singapore and hiring tech talent<br>
 <br>
 
-<b>Guide to Hiring in Singapore</b><br>
+<h5>Guide to Hiring in Singapore</h5><br>
 This guide covers:&nbsp;
 *   How to reach talents here&nbsp;
 *   Manpower policies to note&nbsp;
@@ -18,7 +18,7 @@ This guide covers:&nbsp;
 
 <br>
 
-<b>Guide to Hiring Your Dream Tech Team in Singapore</b><br>
+<h5>Guide to Hiring Your Dream Tech Team in Singapore</h5><br>
 This guide covers:&nbsp;
 *   Why global tech talent come to Singapore&nbsp;
 *   How to reach tech talent both here and in the region, including experienced hires&nbsp;
