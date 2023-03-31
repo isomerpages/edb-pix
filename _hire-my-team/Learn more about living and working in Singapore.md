@@ -19,9 +19,8 @@ A dynamic city with the hallmarks of urban living and rich cultural heritage. Ev
 Singapore is also widely regarded as one of the safest countries in the world, with a reliable police force supported by proactive citizens. You and your family will also gain easy access to a world-class education system and a wide network of top-notch healthcare experts and facilities.<br>
 <br>
 
-Download this guide for comprehensive information about living in Singapore:
-
-<b>Guide to Living in Singapore</b>
+<b>Download this guide for comprehensive information about living in Singapore:</b>
+<h5>Guide to Living in Singapore</h5>
 
 This guide covers:
 
@@ -36,7 +35,7 @@ This guide covers:
 [View Guide to Living in Singapore](https://www.edb.gov.sg/en/setting-up-in-singapore/business-guides/guide-to-living-in-singapore.html)<br>
 <br>
 
-<b>Singapore Global Network</b><br>
+<h5>Singapore Global Network</h5><br>
 
 Curious to learn more about living and working in Singapore? Connect with a global network of over 80,000 professionals and entrepreneurs, and access exclusive events, guides and insights on building your career in Singapore.<br>
 
