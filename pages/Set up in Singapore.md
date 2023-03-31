@@ -83,6 +83,8 @@ The GlP accords PR status to investors with a substantial business track record 
 
 
 <b>Jatin Khosla (left), Co-Founder and CEO of startup Konigle
-on the ease of setting up his business in Singapore</b><br>
+on the ease of setting up his business in Singapore</b>
+	
+<br>
 
 [Back to top](#incorporating-in-singapore)</span></span>
