@@ -87,4 +87,9 @@ on the ease of setting up his business in Singapore</b>
 	
 <br>
 
-[Back to top](#incorporating-in-singapore)</span></span>
+	
+<b>What would you like to get done next?</b>
+[I'm a link within the site](/configuration/navbar/overview/)
+
+[Back to top](#incorporating-in-singapore)
+	</span></span>
