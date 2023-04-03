@@ -99,7 +99,7 @@ Singapore is home to many of the world’s global companies across several indus
 
 
 
-<h3>Others</h3>
+### Others
 
 <b>Manufacturing</b><br>
 [Advanced Manufacturing Brochure](https://www.edb.gov.sg/content/dam/edb-en/our-industries/key-activities/advanced-manufacturing/AM-Brochure.pdf)<br>
