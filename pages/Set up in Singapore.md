@@ -86,11 +86,12 @@ The GlP accords PR status to investors with a substantial business track record 
 on the ease of setting up his business in Singapore</b>
 	
 <br>
-
+<br>
 	
 
 [Back to top](#incorporating-in-singapore)<br>
 	
-<b>What would you like to do next?</b><br>
-[Hire my team](/configuration/hire/hiring-talent/)<br>
-[Expand into Southeast Asia through Singapore](/configuration/expand/grow-into-sea/)<br></span></span>
+##### What would you like to do next?<br>
+* [Hire my team](/configuration/hire/hiring-talent/)<br>
+* [Expand into Southeast Asia through Singapore](/configuration/expand/grow-into-sea/)<br>
+* [</span></span>
