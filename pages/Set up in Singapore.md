@@ -99,4 +99,4 @@ on the ease of setting up his business in Singapore</b>
 	<br>
 
 ##### How did you find this resource?
-[Give us feedback](https://form.gov.sg/642693623cb98f001239be0d)</span></span>
+[Send us your feedback](https://form.gov.sg/642693623cb98f001239be0d)</span></span>
