@@ -17,7 +17,7 @@ This guide covers:&nbsp;
 
 <br>
 
-<h5>Guide to Hiring Your Dream Tech Team in Singapore</h5><br>
+##### Guide to Hiring Your Dream Tech Team in Singapore<br>
 This guide covers:&nbsp;
 *   Why global tech talent come to Singapore&nbsp;
 *   How to reach tech talent both here and in the region, including experienced hires&nbsp;
@@ -26,4 +26,3 @@ This guide covers:&nbsp;
 
 [View Guide to Hiring Your Dream Tech Team in Singapore](https://www.edb.gov.sg/en/setting-up-in-singapore/business-guides/guide-to-hiring-your-dream-tech-team-in-singapore.html)<br>
 <br>
-
