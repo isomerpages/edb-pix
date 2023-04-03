@@ -14,7 +14,7 @@ As one of the world’s easiest places to do business, setting up in Singapore i
 
 # Incorporating in Singapore
 
-<h3>1. Choose your business structure</h3>
+### 1. Choose your business structure
 
 Business entities in Singapore are licensed and regulated by the Accounting and Corporate Regulatory Authority (ACRA).
 
@@ -24,7 +24,7 @@ There are several types of business structures that can be set up in Singapore. 
 
 <br>
 	
-<h3>2. Register your business</h3>
+### 2. Register your business
 
 Registering your business can be done online at Bizfile, ACRA’s online portal.
 	
@@ -44,7 +44,7 @@ A representative office can be registered in Singapore as a temporary arrangemen
 <b>All other industries (Manufacturing, international trading, wholesale, trade and trade-related business sectors)</b><br>
 [Enterprise Singapore](https://www.enterprisesg.gov.sg/e-services/representative-office/representative-office)
 
-<h3>3. Address key business needs</h3>
+### 3. Address key business needs
 
 Before any business can commence operations in Singapore, it is important for business owners to be aware of any regulatory compliance requirements. Subsequently, you may proceed with recruitment, financing, and property acquisition. For more details and guidelines, visit our wide range of 
 [Resources](https://www.edb.gov.sg/en/useful-links.html).
@@ -52,7 +52,7 @@ Before any business can commence operations in Singapore, it is important for bu
 New businesses in Singapore may also leverage EDB’s network of partners in the private sector, who provide a full range of business support services. For our full list of partners, visit our [Connections Concierge](https://www.edb.gov.sg/connections-concierge.html).
 
 
-<h3>4. Incentives &amp; Schemes</h3>
+### 4. Incentives &amp; Schemes
 
 To better facilitate and speed up the discussion with Singapore Government, it is recommended to prepare a business plan.<br>
 	
@@ -63,7 +63,7 @@ Foreign businesses with plans to grow through conducting high value and substant
 	
 [Learn More](https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes.html)
 
-<h3>5. Visas &amp; Immigration</h3>
+### 5. Visas &amp; Immigration
 
 Individual foreign entrepreneurs and investors who are interested in setting up a long-term base in Singapore can either apply for the EntrePass, or consider applying for Singapore Permanent Residence (PR) under the Global Investor Programme.
 
@@ -91,7 +91,8 @@ on the ease of setting up his business in Singapore</b>
 
 [Back to top](#incorporating-in-singapore)<br>
 <br>
-	<hr>
+<hr>
+	
 ##### What would you like to do next?<br>
 * [Hire my team](/homepage/hire/hiring-talent/)<br>
 * [Expand into Southeast Asia through Singapore](/homepage/expand/grow-into-sea/)<br>
