@@ -95,4 +95,4 @@ on the ease of setting up his business in Singapore</b>
 * [Hire my team](/configuration/hire/hiring-talent/)<br>
 * [Expand into Southeast Asia through Singapore](/configuration/expand/grow-into-sea/)<br>
 * [Learn more about my industry ecosystem](/configuration/industry-ecosystem/)<br>
-* [Understand how the Singapore government can support me](/configuration/sg-go-support/)</span></span>
+* [Understand how the Singapore government can support me](/configuration/sg-go-support/)<br></span></span>
