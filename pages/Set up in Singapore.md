@@ -74,8 +74,10 @@ The EntrePass is designed to facilitate the entry and stay of entrepreneurs who 
 The GlP accords PR status to investors with a substantial business track record who intend to drive the growth of their investments from Singapore. To qualify for the GIP, the applicant must either (a) invest at least S$2.5 million in a new business entity or in the expansion of an existing business operation in Singapore, or (b) invest at least S$2.5 million in a GIP fund that invests in Singapore-based companies, or (c) invest at least S$2.5 million in a new or existing Singapore-based single family office having Assets-Under-Management (AUM\*) of at least S$200 million.&nbsp;
 
 [Learn More](https://www.edb.gov.sg/en/how-we-help/global-investor-programme.html)
+	
+<br>
 
-<h3>Testimonial</h3>
+### Testimonial
 
 ![](/images/Set-up-testimonial.png)
 <br>
