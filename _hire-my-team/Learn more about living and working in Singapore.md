@@ -21,7 +21,7 @@ Singapore is also widely regarded as one of the safest countries in the world, w
 
 <b>Download this guide for comprehensive information about living in Singapore:</b>
 
-<h5>Guide to Living in Singapore</h5>
+##### Guide to Living in Singapore
 
 This guide covers:
 
@@ -36,7 +36,7 @@ This guide covers:
 [View Guide to Living in Singapore](https://www.edb.gov.sg/en/setting-up-in-singapore/business-guides/guide-to-living-in-singapore.html)<br>
 <br>
 
-<h5>Singapore Global Network</h5>
+##### Singapore Global Network
 
 Curious to learn more about living and working in Singapore? Connect with a global network of over 80,000 professionals and entrepreneurs, and access exclusive events, guides and insights on building your career in Singapore.<br>
 
