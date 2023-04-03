@@ -89,4 +89,5 @@ on the ease of setting up his business in Singapore</b>
 
 	
 
-[Back to top](#incorporating-in-singapore)</span></span>
+[Back to top](#incorporating-in-singapore)
+[</span></span>
