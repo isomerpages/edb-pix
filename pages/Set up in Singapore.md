@@ -92,10 +92,10 @@ on the ease of setting up his business in Singapore</b>
 [Back to top](#incorporating-in-singapore)<br>
 <br>
 ##### What would you like to do next?<br>
-* [Hire my team](/configuration/hire/hiring-talent/)<br>
-* [Expand into Southeast Asia through Singapore](/configuration/expand/grow-into-sea/)<br>
-* [Learn more about my industry ecosystem](/configuration/industry-ecosystem/)<br>
-* [Understand how the Singapore government can support me](/configuration/sg-go-support/)<br>
+* [Hire my team](/configuration/homepage/hire/hiring-talent/)<br>
+* [Expand into Southeast Asia through Singapore](/configuration/homepage/expand/grow-into-sea/)<br>
+* [Learn more about my industry ecosystem](/configuration/homepage/industry-ecosystem/)<br>
+* [Understand how the Singapore government can support me](/configuration/homepage/sg-go-support/)<br>
 	<br>
 
 ##### How did you find this resource?
