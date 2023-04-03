@@ -3,12 +3,6 @@ title: Set up in Singapore
 permalink: /set-up/
 description: Set up in Singapore
 ---
-<span style="background-color: #FFFF00">**You would need the following in order to do business in Singapore:**
-	
-*  <span style="background-color: #FFFF00">**Corporate Pass (Corp Pass)**
-*   <span style="background-color: #FFFF00">**Business Registration Number**</span>
-
-
 As one of the world’s easiest places to do business, setting up in Singapore is seamless and efficient. Whether you are a corporate or individual investor, here are some key processes to know as you start your investment journey with Singapore.
 
 
@@ -103,4 +97,4 @@ on the ease of setting up his business in Singapore</b>
 
 
 ##### How did you find this resource?
-[Send us your feedback](https://form.gov.sg/642693623cb98f001239be0d)</span></span>
+[Send us your feedback](https://form.gov.sg/642693623cb98f001239be0d)
