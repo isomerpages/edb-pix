@@ -95,4 +95,8 @@ on the ease of setting up his business in Singapore</b>
 * [Hire my team](/configuration/hire/hiring-talent/)<br>
 * [Expand into Southeast Asia through Singapore](/configuration/expand/grow-into-sea/)<br>
 * [Learn more about my industry ecosystem](/configuration/industry-ecosystem/)<br>
-* [Understand how the Singapore government can support me](/configuration/sg-go-support/)<br></span></span>
+* [Understand how the Singapore government can support me](/configuration/sg-go-support/)<br>
+	<br>
+
+##### How did you find this resource?
+[Give us feedback](https://form.gov.sg/642693623cb98f001239be0d)</span></span>
