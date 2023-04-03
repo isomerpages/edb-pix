@@ -92,8 +92,8 @@ on the ease of setting up his business in Singapore</b>
 [Back to top](#incorporating-in-singapore)<br>
 <br>
 ##### What would you like to do next?<br>
-* [Hire my team](/configuration/homepage/hire/hiring-talent/)<br>
-* [Expand into Southeast Asia through Singapore](/configuration/homepage/expand/grow-into-sea/)<br>
+* [Hire my team](/homepage/hire/hiring-talent/)<br>
+* [Expand into Southeast Asia through Singapore](/homepage/expand/grow-into-sea/)<br>
 * [Learn more about my industry ecosystem](/configuration/homepage/industry-ecosystem/)<br>
 * [Understand how the Singapore government can support me](/configuration/homepage/sg-go-support/)<br>
 	<br>
