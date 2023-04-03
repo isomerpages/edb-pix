@@ -99,7 +99,7 @@ on the ease of setting up his business in Singapore</b>
 * [Hire my team](/hire/hiring-talent/)<br>
 * [Expand into Southeast Asia through Singapore](/expand/grow-into-sea/)<br>
 * [Learn more about my industry ecosystem](/industry-ecosystem/)<br>
-* [Understand how the Singapore government can support me](/sg-go-support/)<br>
+* [Understand how the Singapore government can support me](/sg-gov-support/)<br>
 
 
 ##### How did you find this resource?
