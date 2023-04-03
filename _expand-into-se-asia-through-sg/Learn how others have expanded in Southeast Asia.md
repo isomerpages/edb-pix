@@ -3,7 +3,7 @@ title: Learn how others have expanded in Southeast Asia
 permalink: /expand/how-others-expanded/
 description: Learn how others have expanded in Southeast Asia
 ---
-<h3>Case studies</h3>
+<h1>Case studies</h1>
 
 <h5>Regional Expansion with Doctor Anywhere</h5>
 Lim Wai Mun, CEO, DoctorAnywhere takes us through the anatomy of a successful regional expansion<br>
