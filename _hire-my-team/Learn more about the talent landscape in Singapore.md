@@ -9,7 +9,7 @@ Find out more about the government agencies and education institutes involved in
 
 <br>
 
-<h3>SkillsFuture Singapore (SSG)</h3>
+### SkillsFuture Singapore (SSG)
 
 SkillsFuture Singapore (SSG) is a statutory board under the Ministry of Education (MOE). It drives and coordinates the implementation of the national SkillsFuture movement, promotes a culture and holistic system of lifelong learning through the pursuit of skills mastery, and strengthens the ecosystem of quality education and training in Singapore.&nbsp;
 
@@ -18,7 +18,7 @@ SSG strengthens the adult training infrastructure by taking on all existing func
 [SkillsFuture Singapore (SSG)](https://www.ssg-wsg.gov.sg/)<br>
 <br>
 
-<h3>Workforce Singapore (WSG)</h3>
+### Workforce Singapore (WSG)
 
 Workforce Singapore (WSG) is a statutory board under the Ministry of Manpower that oversees the transformation of the local workforce and industry to meet ongoing economic challenges. WSG promotes the development, competitiveness, inclusiveness, and employability of all levels of the workforce to ensure all sectors of the economy are supported by a strong, inclusive Singaporean core.&nbsp;
 
@@ -28,11 +28,11 @@ WSG, in partnership with key stakeholders, also addresses the needs of enterpris
 
 <br>
 
-<h3>Post-Secondary and Tertiary Education Institutes</h3>
+### Post-Secondary and Tertiary Education Institutes
 Singapore’s host of post-secondary and tertiary education institutes supplies a steady stream of graduates to the local workforce every year. These education institutions also support the workforce’s lifelong learning pursuits through modular and industry-relevant courses.<br>
 
 
-<h5>Universities</h5>
+##### Universities
 
 Singapore’s universities are well regarded globally, with the National University of Singapore (NUS) and Nanyang Technological University (NTU) taking the 11th and 19th places respectively in the 2023 QS World University Rankings.
 
@@ -49,7 +49,7 @@ Singapore’s universities are well regarded globally, with the National Univers
 *   [Singapore University of Social Sciences (SUSS)](https://www.suss.edu.sg/)
 
 
-<h5>Polytechnics</h5>
+##### Polytechnics
 
 Singapore’s polytechnics offer full-time and part-time programmes leading to diplomas in disciplines such as business, chemical and bio-sciences, communications, design, digital media, engineering and manufacturing.<br>
 
@@ -64,7 +64,7 @@ Singapore’s polytechnics offer full-time and part-time programmes leading to d
 *   [Temasek Polytechnic (TP)](https://www.tp.edu.sg/)
 
 
-<h5>Institutes of Technical Education (ITEs)</h5>
+##### Institutes of Technical Education (ITEs)
 
 ITEs offer full-time and part-time courses leading to vocational certificates for a wide range of industries.
 
