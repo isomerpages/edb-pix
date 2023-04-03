@@ -16,7 +16,7 @@ From FinTech to fast-moving consumer goods, opportunities are abound in Southeas
 
 <br>
 
-<h3>Find out more through these resources</h3>
+### Find out more through these resources
 
 <b>A SEA of Opportunities</b><br>
 Looking to Southeast Asia for new business opportunities? This guide is your starting point for entering the region’s diverse and fast-growing markets. Discover how Singapore can be your partner in leading your next phase of growth in SEA.
@@ -26,7 +26,7 @@ Looking to Southeast Asia for new business opportunities? This guide is your sta
 
 <br>
 
-<h5>Regional Trade Connections</h5><br>
+##### Regional Trade Connections<br>
 <b>Trade in Goods: Benefits of Free Trade Agreements</b><br>
 This guidebook, produced by the Singapore Business Federation (SBF), helps your business find the right FTA for your needs and learn how to fully enjoy the benefits of these agreements.<br>
 	
@@ -41,7 +41,7 @@ Sze Xin from EY will be sharing insights on how companies could leverage Singapo
 
 <br>
 
-<h5>Talent in SEA</h5><br>
+##### Talent in SEA<br>
 <b>Exploring Differentiated Talent Across SEA</b><br>
 Jay, a special advisor at Glints, will be giving an overview of the talent landscape across Singapore, Vietnam and Indonesia.<br>
 
@@ -49,7 +49,7 @@ Jay, a special advisor at Glints, will be giving an overview of the talent lands
 
 <br>
 
-<h5>Regional Control Tower</h5><br>
+##### Regional Control Tower<br>
 <b>Participating in the Southeast Asia Manufacturing Alliance</b><br>
 Learn about the Southeast Asia Manufacturing Alliance, a tripartite agreement between EDB, ESG and private sector partners to promote a network of industrial parks to manufacturers who are interested to invest in both Singapore and the region.	<br>
 
@@ -63,7 +63,7 @@ Suresh Sukumar from EDB Singapore's Regional Partnerships Division will talk abo
 [View Using Nongsa as Your DIgital Bridge to SEA](https://edbsingapore.thinkific.com/courses/nongsa-your-digital-bridge-to-sea)<br>
 <br>
 
-<h5>Tech Ecosystem</h5><br>
+##### Tech Ecosystem<br>
 <b> Singapore’s Tech Ecosystem</b><br>
 This guide covers:&nbsp;
 
