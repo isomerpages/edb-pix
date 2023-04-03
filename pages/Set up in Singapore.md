@@ -79,7 +79,7 @@ The GlP accords PR status to investors with a substantial business track record 
 
 ![](/images/Set-up-testimonial.png)
 <br>
-&gt; “It took us five minutes to register our company, and two days to set up here. We used a 100 per cent online application platform that allows us to upload documents and sign them digitally without any physical paperwork,”
+<blockquote>“It took us five minutes to register our company, and two days to set up here. We used a 100 per cent online application platform that allows us to upload documents and sign them digitally without any physical paperwork,”</blockquote>
 
 
 <b>Jatin Khosla (left), Co-Founder and CEO of startup Konigle
@@ -94,4 +94,5 @@ on the ease of setting up his business in Singapore</b>
 ##### What would you like to do next?<br>
 * [Hire my team](/configuration/hire/hiring-talent/)<br>
 * [Expand into Southeast Asia through Singapore](/configuration/expand/grow-into-sea/)<br>
-* [</span></span>
+* [Learn more about my industry ecosystem](/configuration/industry-ecosystem/)<br>
+* [Understand how the Singapore government can support me](/configuration/sg-go-support/)</span></span>
