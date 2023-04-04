@@ -30,3 +30,10 @@ Hear more from Juliet Zhu, Group President and CFO, Carsome Group about the four
 Join Brooks Entwistle, Senior Vice President (SVP) of Global Customer Success and Managing Director (MD) for Asia-Pacific (APAC) and Middle East and North Africa (MENA), Ripple to discover how curiosity, trust and a great craft coffee scene have established Singapore’s attractiveness as a place for entrepreneurs, investors, technical leaders and partners to mingle and create what’s next.<br>
 
 [View Ecosystem Enablers with Ripple](https://www.edb.gov.sg/en/business-insights/insights/growth-islands-ecosystem-enablers-with-ripple.html)<br>
+
+<br>
+<br>
+<hr>
+
+##### Did you find what you need?
+[Send us your feedback](https://form.gov.sg/642693623cb98f001239be0d)
