@@ -123,6 +123,7 @@ Chern Sun from BLOCK71 will share with us an overview of the tech ecosystem's VC
 
 [View Leveraging Block71 to Accelerate Your Access to SEA ](https://edbsingapore.thinkific.com/courses/block71-leveraging-singapore-s-largest-tech-startup-hub-to-accelerate-your-access-to-sea)<br>
 </details>
+{::options parse_block_html="false" /}
 <br>
 <br>
 <hr>
