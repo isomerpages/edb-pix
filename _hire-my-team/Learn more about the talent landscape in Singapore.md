@@ -73,3 +73,11 @@ ITEs offer full-time and part-time courses leading to vocational certificates fo
 *   [ITE College East ](https://www.ite.edu.sg/colleges/ite-college-east)
     
 *   [ITE College West ](https://www.ite.edu.sg/colleges/ite-college-west)
+
+
+<br>
+<br>
+<hr>
+
+##### Did you find what you need?
+[Send us your feedback](https://form.gov.sg/642693623cb98f001239be0d)
