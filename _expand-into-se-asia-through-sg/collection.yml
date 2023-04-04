@@ -2,6 +2,7 @@ collections:
   expand-into-se-asia-through-sg:
     output: true
     order:
+      - Finding partners.md
       - Test/Find partners that can help you grow your business in Southeast
         Asia.md
       - Test/Learn how others have expanded in Southeast Asia.md
