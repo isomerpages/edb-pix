@@ -82,11 +82,10 @@ on the ease of setting up his business in Singapore</b>
 <br>
 	
 
-[Back to top](#incorporating-in-singapore)<br>
+[Back to top](#incorporating-in-singapore)
+<br>
 <br>
 <hr>
-
-
 
 ##### Did you find what you need?
 [Send us your feedback](https://form.gov.sg/642693623cb98f001239be0d)
