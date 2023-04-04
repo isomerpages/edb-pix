@@ -42,7 +42,7 @@ Curious to learn more about living and working in Singapore? Connect with a glob
 
 [View Singapore Global Network](https://singaporeglobalnetwork.gov.sg/)<br>
 
-<br>
+
 <br>
 <br>
 <hr>
