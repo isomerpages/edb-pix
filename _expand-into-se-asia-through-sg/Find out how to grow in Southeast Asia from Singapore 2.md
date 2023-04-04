@@ -26,8 +26,10 @@ Looking to Southeast Asia for new business opportunities? This guide is your sta
 
 <br>
 
-##### Regional Trade Connections<br>
-<b>Trade in Goods: Benefits of Free Trade Agreements</b><br>
+ <details>
+	<summary><b>Regional Trade Connections</b></summary>
+<br>
+ <b>Trade in Goods: Benefits of Free Trade Agreements</b><br>
 This guidebook, produced by the Singapore Business Federation (SBF), helps your business find the right FTA for your needs and learn how to fully enjoy the benefits of these agreements.<br>
 	
 [View Trade in Goods: Benefits of Free Trade Agreements]( https://www.edb.gov.sg/en/business-insights/market-and-industry-reports/trade-in-goods-benefits-of-free-trade-agreements.html)<br>
@@ -38,18 +40,22 @@ This guidebook, produced by the Singapore Business Federation (SBF), helps your 
 Sze Xin from EY will be sharing insights on how companies could leverage Singapore’s FTAs to accelerate their growth in SEA.<br>
 
 [View Leveraging Singapore's Free Trade Agreements](https://edbsingapore.thinkific.com/courses/ey-leveraging-singapore-s-free-trade-agreements-ftas)<br>
-
+</details>
 <br>
-
-##### Talent in SEA<br>
+<br>
+ <details>
+	<summary><b>Talent in SEA</b></summary>
+<br>
 <b>Exploring Differentiated Talent Across SEA</b><br>
 Jay, a special advisor at Glints, will be giving an overview of the talent landscape across Singapore, Vietnam and Indonesia.<br>
 
 [View Exploring Differentiated Talent Across SEA](https://edbsingapore.thinkific.com/courses/glints-exploring-differentiated-talent-across-sea)<br>
-
+</details>
 <br>
-
-##### Regional Control Tower<br>
+<br>
+ <details>
+	<summary><b>Regional Control Tower</b></summary>
+<br>
 <b>Participating in the Southeast Asia Manufacturing Alliance</b><br>
 Learn about the Southeast Asia Manufacturing Alliance, a tripartite agreement between EDB, ESG and private sector partners to promote a network of industrial parks to manufacturers who are interested to invest in both Singapore and the region.	<br>
 
@@ -61,9 +67,12 @@ Learn about the Southeast Asia Manufacturing Alliance, a tripartite agreement be
 Suresh Sukumar from EDB Singapore's Regional Partnerships Division will talk about Nongsa Digital Park, an emerging digital cluster in Batam, and how it offers convenient and cost-efficient tech solutions for companies expanding in SEA.<br>
 
 [View Using Nongsa as Your DIgital Bridge to SEA](https://edbsingapore.thinkific.com/courses/nongsa-your-digital-bridge-to-sea)<br>
+</details>
 <br>
-
-##### Tech Ecosystem<br>
+<br>
+ <details>
+	<summary><b>Tech Ecosystem</b></summary>
+<br>
 <b> Singapore’s Tech Ecosystem</b><br>
 This guide covers:&nbsp;
 
@@ -113,3 +122,6 @@ This guide covers:&nbsp;
 Chern Sun from BLOCK71 will share with us an overview of the tech ecosystem's VCs, Incubators and Accelerators, Resources for Startups, Importance of Product Fit and Network of BLOCK71s around SEA to help tech startups access new markets.<br>
 
 [View Leveraging Block71 to Accelerate Your Access to SEA ](https://edbsingapore.thinkific.com/courses/block71-leveraging-singapore-s-largest-tech-startup-hub-to-accelerate-your-access-to-sea)<br>
+</details>
+
+
