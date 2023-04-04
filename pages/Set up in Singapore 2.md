@@ -3,6 +3,7 @@ title: Set up in Singapore 2
 permalink: /set-up-2/
 description: Set up in Singapore
 ---
+{::options parse_block_html="true" /}
 # Incorporating in Singapore
 
 <br>
@@ -120,3 +121,5 @@ on the ease of setting up his business in Singapore</b>
 
 ##### Did you find what you need?
 [Send us your feedback](https://form.gov.sg/642693623cb98f001239be0d)
+
+{::options parse_block_html="false" /}
