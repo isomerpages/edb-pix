@@ -3,9 +3,6 @@ title: Set up in Singapore
 permalink: /set-up/
 description: Set up in Singapore
 ---
-As one of the world’s easiest places to do business, setting up in Singapore is seamless and efficient. Whether you are a corporate or individual investor, here are some key processes to know as you start your investment journey with Singapore.
-
-
 # Incorporating in Singapore
 
 ### 1. Choose your business structure
@@ -88,13 +85,8 @@ on the ease of setting up his business in Singapore</b>
 [Back to top](#incorporating-in-singapore)<br>
 <br>
 <hr>
-	
-##### What would you like to do next?<br>
-* [Hire my team](/hire/hiring-talent/)<br>
-* [Expand into Southeast Asia through Singapore](/expand/grow-into-sea/)<br>
-* [Learn more about my industry ecosystem](/industry-ecosystem/)<br>
-* [Understand how the Singapore government can support me](/sg-gov-support/)<br>
 
 
-##### How did you find this resource?
+
+##### Did you find what you need?
 [Send us your feedback](https://form.gov.sg/642693623cb98f001239be0d)
