@@ -114,3 +114,10 @@ Singapore is home to many of the world’s global companies across several indus
 <b>Tech</b><br>
 [Singapore's Tech Ecosystem](https://www.edb.gov.sg/content/edb/en/setting-up-in-singapore/business-guides/singapore-tech-ecosystem.html)<br>
 [Company Highlights](https://www.edb.gov.sg/en/our-industries/company-highlights.html)<br>
+
+<br>
+<br>
+<hr>
+
+##### Did you find what you need?
+[Send us your feedback](https://form.gov.sg/642693623cb98f001239be0d)
