@@ -19,7 +19,7 @@ sections:
           - title: Hire my team
             url: /hire/hiring-talent/
           - title: Expand into Southeast Asia through Singapore
-            url: /expand/grow-into-sea/
+            url: /expand/grow-in-sea/
           - title: Learn more about my industry ecosystem
             url: /industry-ecosystem/
           - title: Understand how the Singapore government can support me
