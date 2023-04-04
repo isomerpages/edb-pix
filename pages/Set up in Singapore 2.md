@@ -10,7 +10,7 @@ description: Set up in Singapore
 <br>
 
  <details>
-<summary><b>1. Choose your business structure</b></summary>
+<summary><h3>1. Choose your business structure</h3></summary>
 
  Business entities in Singapore are licensed and regulated by the Accounting and Corporate Regulatory Authority (ACRA).
 
@@ -24,7 +24,7 @@ There are several types of business structures that can be set up in Singapore. 
 <br>
 
  <details>
-<summary><b>2. Register your business</b></summary>
+<summary><h3>2. Register your business</h3></summary>
 
 Registering your business can be done online at Bizfile, ACRA’s online portal.
 	
@@ -50,7 +50,7 @@ A representative office can be registered in Singapore as a temporary arrangemen
 <br>
 
  <details>
-<summary><b>3. Address key business needs</b></summary>
+<summary><h3>3. Address key business needs</h3></summary>
 
 Before any business can commence operations in Singapore, it is important for business owners to be aware of any regulatory compliance requirements. Subsequently, you may proceed with recruitment, financing, and property acquisition. For more details and guidelines, visit our wide range of 
 [Resources](https://www.edb.gov.sg/en/useful-links.html).
@@ -64,7 +64,7 @@ New businesses in Singapore may also leverage EDB’s network of partners in the
 <br>
 
  <details>
-<summary><b>4. Incentives &amp; Schemes</b></summary>
+<summary><h3>4. Incentives &amp; Schemes</h3></summary>
 
  
 To better facilitate and speed up the discussion with Singapore Government, it is recommended to prepare a business plan.<br>
@@ -82,7 +82,7 @@ Foreign businesses with plans to grow through conducting high value and substant
 <br>
 
  <details>
-<summary><b>5. Visas &amp; Immigration</b></summary>
+<summary><h3>5. Visas &amp; Immigration</h3></summary>
 
 Individual foreign entrepreneurs and investors who are interested in setting up a long-term base in Singapore can either apply for the EntrePass, or consider applying for Singapore Permanent Residence (PR) under the Global Investor Programme.
 
@@ -101,7 +101,7 @@ The GlP accords PR status to investors with a substantial business track record 
 
 ### Testimonial
 
-![](/images/Set-up-testimonial.png)
+![Jatin Khosla (left), Co-Founder and CEO of startup Konigle](/images/Set-up-testimonial.png)
 <br>
 <blockquote>“It took us five minutes to register our company, and two days to set up here. We used a 100 per cent online application platform that allows us to upload documents and sign them digitally without any physical paperwork,”</blockquote>
 
@@ -113,13 +113,6 @@ on the ease of setting up his business in Singapore</b>
 <br>
 	
 
-[Back to top](#incorporating-in-singapore)<br>
+[Back to top](#incorporating-in-singapore)
 <br>
-<hr>
-
-
-
-##### Did you find what you need?
-[Send us your feedback](https://form.gov.sg/642693623cb98f001239be0d)
-
-{::options parse_block_html="false" /}
+<br>
