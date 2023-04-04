@@ -113,3 +113,9 @@ This guide covers:&nbsp;
 Chern Sun from BLOCK71 will share with us an overview of the tech ecosystem's VCs, Incubators and Accelerators, Resources for Startups, Importance of Product Fit and Network of BLOCK71s around SEA to help tech startups access new markets.<br>
 
 [View Leveraging Block71 to Accelerate Your Access to SEA ](https://edbsingapore.thinkific.com/courses/block71-leveraging-singapore-s-largest-tech-startup-hub-to-accelerate-your-access-to-sea)<br>
+<br>
+<br>
+<hr>
+
+##### Did you find what you need?
+[Send us your feedback](https://form.gov.sg/642693623cb98f001239be0d)
