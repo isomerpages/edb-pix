@@ -3,12 +3,11 @@ title: Set up in Singapore 2
 permalink: /set-up-2/
 description: Set up in Singapore
 ---
-{::options parse_block_html="true" /}
 # Incorporating in Singapore
 
 <br>
 <br>
-
+{::options parse_block_html="true" /}
  <details>
 <summary><h3>1. Choose your business structure</h3></summary>
 
@@ -95,7 +94,7 @@ The GlP accords PR status to investors with a substantial business track record 
 [Learn More](https://www.edb.gov.sg/en/how-we-help/global-investor-programme.html)
 
 </details>
-
+{::options parse_block_html="false" /}
 	
 <br>
 
