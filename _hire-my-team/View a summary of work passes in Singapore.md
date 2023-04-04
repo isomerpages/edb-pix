@@ -16,3 +16,9 @@ description: View a summary of work passes in Singapore
 Read this infographic for more information about the work pass framework in Singapore<br>
 
 [View Singapore work pass framework infographic](https://www.edb.gov.sg/en/business-insights/insights/looking-to-build-your-a-team-look-no-further-than-singapore.html)
+<br>
+<br>
+<hr>
+
+##### Did you find what you need?
+[Send us your feedback](https://form.gov.sg/642693623cb98f001239be0d)
