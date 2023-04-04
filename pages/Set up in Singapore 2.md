@@ -9,7 +9,7 @@ description: Set up in Singapore
 <br>
 
  <details>
-<summary><b>1. Choose your business structure</b></summary>
+<summary><h3>1. Choose your business structure</h3></summary>
 
  Business entities in Singapore are licensed and regulated by the Accounting and Corporate Regulatory Authority (ACRA).
 
