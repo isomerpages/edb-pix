@@ -13,8 +13,10 @@ This guide covers:&nbsp;
 *   Support initiatives to develop talent
 <br>
 
-![Guide to Hiring in Singapore](/images/edb_guide_to_hiring_in_singapore.jpg)
-<img height="30%" width="30%" src="/images/edb_guide_to_hiring_in_singapore.jpg">
+
+![](/images/rsz_edb_guide_to_hiring_in_singapore.jpg)
+
+OMGGGGGGGGGGGG AAAAHHHHHH
 
 [View Guide to Hiring in Singapore](https://www.edb.gov.sg/en/setting-up-in-singapore/business-guides/guide-to-hiring-in-singapore.html)<br>
 
