@@ -10,7 +10,7 @@ description: Set up in Singapore
 <br>
 
  <details>
-<summary><h3>1. Choose your business structure</h3></summary>
+<summary><b>1. Choose your business structure</b></summary>
 
  Business entities in Singapore are licensed and regulated by the Accounting and Corporate Regulatory Authority (ACRA).
 
@@ -23,7 +23,7 @@ There are several types of business structures that can be set up in Singapore. 
 <br>
 <br>
 
-<details>
+ <details>
 <summary><b>2. Register your business</b></summary>
 
 Registering your business can be done online at Bizfile, ACRA’s online portal.
@@ -49,7 +49,7 @@ A representative office can be registered in Singapore as a temporary arrangemen
 <br>
 <br>
 
-<details>
+ <details>
 <summary><b>3. Address key business needs</b></summary>
 
 Before any business can commence operations in Singapore, it is important for business owners to be aware of any regulatory compliance requirements. Subsequently, you may proceed with recruitment, financing, and property acquisition. For more details and guidelines, visit our wide range of 
