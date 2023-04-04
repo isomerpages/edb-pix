@@ -25,7 +25,7 @@ Looking to Southeast Asia for new business opportunities? This guide is your sta
 [View A SEA of Opportunities](https://www.edb.gov.sg/en/setting-up-in-singapore/business-guides/a-sea-of-opportunities-understanding-southeast-asia.html)<br>
 
 <br>
-
+{::options parse_block_html="true" /}
  <details>
 	<summary><b>Regional Trade Connections</b></summary>
 <br>
