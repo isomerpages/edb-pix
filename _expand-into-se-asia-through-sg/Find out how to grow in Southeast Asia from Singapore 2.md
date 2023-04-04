@@ -27,40 +27,75 @@ Looking to Southeast Asia for new business opportunities? This guide is your sta
 <br>
 
 ##### Regional Trade Connections<br>
-<b>Trade in Goods: Benefits of Free Trade Agreements</b><br>
+
+<br>
+ <details>
+<summary><b>Trade in Goods: Benefits of Free Trade Agreements</b></summary>
+<br>
 This guidebook, produced by the Singapore Business Federation (SBF), helps your business find the right FTA for your needs and learn how to fully enjoy the benefits of these agreements.<br>
 	
 [View Trade in Goods: Benefits of Free Trade Agreements]( https://www.edb.gov.sg/en/business-insights/market-and-industry-reports/trade-in-goods-benefits-of-free-trade-agreements.html)<br>
 
-<br>
+</details>
 
-<b>Leveraging Singapore’s Free Trade Agreements (FTAs)</b><br>
+<br>
+<br>
+ <details>
+<summary><b>Leveraging Singapore’s Free Trade Agreements (FTAs)</b></summary>
+<br>
 Sze Xin from EY will be sharing insights on how companies could leverage Singapore’s FTAs to accelerate their growth in SEA.<br>
 
 [View Leveraging Singapore's Free Trade Agreements](https://edbsingapore.thinkific.com/courses/ey-leveraging-singapore-s-free-trade-agreements-ftas)<br>
 
+</details>
+
 <br>
 
 ##### Talent in SEA<br>
-<b>Exploring Differentiated Talent Across SEA</b><br>
+<br>
+ <details>
+<summary><b>Exploring Differentiated Talent Across SEA</b></summary>
+<br>
 Jay, a special advisor at Glints, will be giving an overview of the talent landscape across Singapore, Vietnam and Indonesia.<br>
 
 [View Exploring Differentiated Talent Across SEA](https://edbsingapore.thinkific.com/courses/glints-exploring-differentiated-talent-across-sea)<br>
 
+</details>
+
 <br>
 
 ##### Regional Control Tower<br>
-<b>Participating in the Southeast Asia Manufacturing Alliance</b><br>
+
+<br>
+ <details>
+<summary><b>Exploring Differentiated Talent Across SEA</b></summary>
+<br>
+Jay, a special advisor at Glints, will be giving an overview of the talent landscape across Singapore, Vietnam and Indonesia.<br>
+
+[View Exploring Differentiated Talent Across SEA](https://edbsingapore.thinkific.com/courses/glints-exploring-differentiated-talent-across-sea)<br>
+
+</details> 
+<br>
+
+<br>
+ <details>
+<summary><b>Participating in the Southeast Asia Manufacturing Alliance</b></summary>
+<br>
 Learn about the Southeast Asia Manufacturing Alliance, a tripartite agreement between EDB, ESG and private sector partners to promote a network of industrial parks to manufacturers who are interested to invest in both Singapore and the region.	<br>
 
 [View Participating in the Southeast Asia Manufacturing Alliance](https://edbsingapore.thinkific.com/courses/participating-sma)<br>
 
+</details> 
 <br>
-
-<b>Using Nongsa as Your Digital Bridge to SEA</b><br>
+<br>
+<details>
+<summary><b>Using Nongsa as Your Digital Bridge to SEA</b></summary>
+<br>
 Suresh Sukumar from EDB Singapore's Regional Partnerships Division will talk about Nongsa Digital Park, an emerging digital cluster in Batam, and how it offers convenient and cost-efficient tech solutions for companies expanding in SEA.<br>
 
 [View Using Nongsa as Your DIgital Bridge to SEA](https://edbsingapore.thinkific.com/courses/nongsa-your-digital-bridge-to-sea)<br>
+</details> 
+
 <br>
 
 ##### Tech Ecosystem<br>
