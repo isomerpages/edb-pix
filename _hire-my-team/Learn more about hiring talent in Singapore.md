@@ -13,16 +13,10 @@ This guide covers:&nbsp;
 *   Support initiatives to develop talent
 <br>
 
-
-![](/images/rsz_edb_guide_to_hiring_in_singapore.jpg)
-
-OMGGGGGGGGGGGG AAAAHHHHHH
-
-[View Guide to Hiring in Singapore](https://www.edb.gov.sg/en/setting-up-in-singapore/business-guides/guide-to-hiring-in-singapore.html)<br>
-
 <br>
 
 ##### Guide to Hiring Your Dream Tech Team in Singapore<br>
+
 This guide covers:&nbsp;
 *   Why global tech talent come to Singapore&nbsp;
 *   How to reach tech talent both here and in the region, including experienced hires&nbsp;
