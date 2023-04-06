@@ -5,6 +5,7 @@ description: Learn more about hiring talent in Singapore
 ---
 Download these guides for comprehensive information about hiring in Singapore and hiring tech talent<br>
 
+
 ##### Guide to Hiring in Singapore
 This guide covers:&nbsp;
 *   How to reach talents here&nbsp;
