@@ -3,7 +3,7 @@ title: Set up in Singapore
 permalink: /set-up/
 description: Set up in Singapore
 ---
-# Incorporating in Singapore
+# 5 steps to incorporating your business
 
 ### 1. Choose your business structure
 
@@ -72,7 +72,7 @@ The GlP accords PR status to investors with a substantial business track record 
 
 ![](/images/Set-up-testimonial.png)
 <br>
-&gt; “It took us five minutes to register our company, and two days to set up here. We used a 100 per cent online application platform that allows us to upload documents and sign them digitally without any physical paperwork,”
+<blockquote>“It took us five minutes to register our company, and two days to set up here. We used a 100 per cent online application platform that allows us to upload documents and sign them digitally without any physical paperwork,”</blockquote>
 
 
 <b>Jatin Khosla (left), Co-Founder and CEO of startup Konigle
@@ -82,7 +82,7 @@ on the ease of setting up his business in Singapore</b>
 <br>
 	
 
-[Back to top](#incorporating-in-singapore)
+[Back to top](#5-steps-to-incorporating-your-business)
 <br>
 <br>
 <hr>
