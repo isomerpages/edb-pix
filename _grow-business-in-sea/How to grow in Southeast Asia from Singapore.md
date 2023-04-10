@@ -47,3 +47,12 @@ Suresh Sukumar from EDB Singapore's Regional Partnerships Division will talk abo
 
 ### Access talent in Southeast Asia from Singapore
 Half of Fortune 500 companies have established their regional headquarters in Singapore, leveraging the skilled workforce and talent in Southeast Asia.<br>
+<br>
+
+<b>Exploring Differentiated Talent Across SEA</b><br>
+Jay, a special advisor at Glints, will be giving an overview of the talent landscape across Singapore, Vietnam and Indonesia.<br>
+
+[View Exploring Differentiated Talent Across SEA](https://edbsingapore.thinkific.com/courses/glints-exploring-differentiated-talent-across-sea)<br>
+<br>
+
+##### Download this guide for more comprehensive information about growing your business in Southeast Asia through Singapore
