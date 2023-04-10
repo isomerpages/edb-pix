@@ -30,5 +30,6 @@ sections:
       subtitle: " "
       description: NAV is still in development and we are working to improve it for
         users like you. We would love to hear your feedback.
-      button: Button Text
+      button: Send us your feedback
+      url: /feedback/
 ---
