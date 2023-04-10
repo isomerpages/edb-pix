@@ -3,11 +3,11 @@ title: Industry Players 2
 permalink: /industry-players-2/
 description: ""
 ---
+{::options parse_block_html="true" /}
 # Company Case Studies
 <br>
 Singapore is home to many of the world’s global companies across several industries. Read on to learn more about how they have established activities and operations in Singapore for their business in Asia and beyond.<br>
 <br>
-
  <details>
 <summary><b>Aerospace</b></summary>
 [Airbus](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/airbus.html)<br>
@@ -109,6 +109,7 @@ Singapore is home to many of the world’s global companies across several indus
 [Singapore Power Group](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/singapore-power-group.html)<br>
 [Suez Water Technologies and Solutions](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/suez-water-technologies-and-solutions.html)<br>
 [Surbana Jurong](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/surbana-jurong.html)<br>
+
 <br>
 <br>
 [Back to top](#company-case-studies)
@@ -117,3 +118,5 @@ Singapore is home to many of the world’s global companies across several indus
 
 ##### Did you find what you need?
 [Send us your feedback](https://form.gov.sg/642693623cb98f001239be0d)
+
+{::options parse_block_html="false" /}
