@@ -13,7 +13,7 @@ sections:
       dropdown:
         title: What are you looking for?
         options:
-          - title: Set up in Singapore
+          - title: Set up my business in Singapore
             url: /set-up/
           - title: Hire my team
             url: /hire/hiring-talent/
