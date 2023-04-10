@@ -3,8 +3,10 @@ title: Industry Players in Singapore
 permalink: /industry-ecosystem/
 description: Learn more about my industry ecosystem
 ---
+# Company Case Studies
+<br>
 Singapore is home to many of the world’s global companies across several industries. Read on to learn more about how they have established activities and operations in Singapore for their business in Asia and beyond.<br>
-
+<br>
 
 
 <b>Aerospace</b><br>
@@ -97,23 +99,6 @@ Singapore is home to many of the world’s global companies across several indus
 [Suez Water Technologies and Solutions](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/suez-water-technologies-and-solutions.html)<br>
 [Surbana Jurong](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/surbana-jurong.html)<br>
 
-
-
-### Others
-
-<b>Manufacturing</b><br>
-[Advanced Manufacturing Brochure](https://www.edb.gov.sg/content/dam/edb-en/our-industries/key-activities/advanced-manufacturing/AM-Brochure.pdf)<br>
-[Singapore: Your Global Partner in Manufacturing](https://www.edb.gov.sg/content/dam/edb-en/our-industries/key-activities/advanced-manufacturing/Singapore-Your-Global-Partner-in-Manufacturing.pdf)<br>
-
-<b>Aerospace</b><br>
-[Aerospace Industry Brochure](https://www.edb.gov.sg/content/dam/edb-en/our-industries/aerospace/EDB-Aerospace-Industry-Brochure.pdf)<br>
-
-<b>Chemicals</b><br>
-[Singapore Chemicals, Ingredients and Materials 2022](https://projects.gbreports.com/singapore-chemicals-ingredients-and-materials-2022-digital-version/)
-
-<b>Tech</b><br>
-[Singapore's Tech Ecosystem](https://www.edb.gov.sg/content/edb/en/setting-up-in-singapore/business-guides/singapore-tech-ecosystem.html)<br>
-[Company Highlights](https://www.edb.gov.sg/en/our-industries/company-highlights.html)<br>
 
 <br>
 <br>
