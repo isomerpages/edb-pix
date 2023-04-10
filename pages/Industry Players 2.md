@@ -10,9 +10,11 @@ Singapore is home to many of the world’s global companies across several indus
 <br>
  <details>
 <summary><b>Aerospace</b></summary>
+{::options parse_block_html="true" /}
 [Airbus](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/airbus.html)<br>
 [Rolls Royce](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/rolls-royce.html)<br>
 [Spire Global](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/spire-global.html)<br>
+{::options parse_block_html="false" /}
 </details>
 
 <br>
