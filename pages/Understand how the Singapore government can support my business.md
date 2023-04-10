@@ -1,21 +1,24 @@
 ---
 title: Understand how the Singapore government can support my business
 permalink: /sg-gov-support/
-description: "Understand how the Singapore government can support my business "
+description: Understand how the Singapore government can support my business
 ---
+# Government assistance and schemes
+
+
 ##### Government Assistance
 
-For a complete overview of government support measures and schemes for businesses in Singapore, visit the link below.&nbsp;&nbsp;
+The government offers a wide range of government support measures and schemes for businesses in Singapore. For a complete overview, visit the link below.
 
-[View GoBusiness' About Government Assistance](https://www.gobusiness.gov.sg/gov-assist/)
+[Visit GoBusiness' About Government Assistance](https://www.gobusiness.gov.sg/gov-assist/)
 
 <br>
 
 ##### EDB Incentives and Schemes
 
-To develop high-value and substantive economic activities in Singapore, EDB encourages businesses to upgrade their capabilities or expand the scope of their business operations in Singapore. Visit the link below to find out more about the incentives and schemes we offer.&nbsp;
+To develop high-value and substantive economic activities in Singapore, EDB encourages businesses to upgrade their capabilities or expand the scope of their business operations in Singapore. Visit the link below to find out more about the incentives and schemes offered by EDB, and whether your company may be eligible.
 
-[View EDB's Incentives &amp; Schemes for businesses](https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes.html)
+[Visit EDB's Incentives &amp; Schemes for businesses](https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes.html)
 <br>
 <br>
 <hr>
