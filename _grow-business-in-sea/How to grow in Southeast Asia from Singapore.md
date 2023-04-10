@@ -67,7 +67,7 @@ Looking to Southeast Asia for new business opportunities? This guide is your sta
 <br>
 
 [Back to top](#how-to-grow-in-southeast-asia-from-singapore)<br>
-<br>
+
 <hr>
 
 ##### Did you find what you need?
