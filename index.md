@@ -15,9 +15,9 @@ sections:
         options:
           - title: Set up my business in Singapore
             url: /set-up/
-          - title: Hire my team
+          - title: Hire talent in Singapore
             url: /hire/hiring-talent/
-          - title: Expand into Southeast Asia through Singapore
+          - title: Grow my business in Southeast Asia from Singapore
             url: /expand/grow-in-sea/
           - title: Learn more about my industry ecosystem
             url: /industry-ecosystem/
