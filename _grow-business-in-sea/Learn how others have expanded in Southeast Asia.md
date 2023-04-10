@@ -3,7 +3,9 @@ title: Learn how others have expanded in Southeast Asia
 permalink: /expand/case-studies/
 description: Learn how others have expanded in Southeast Asia
 ---
-# Case studies
+# Learn how others have expanded in Southeast Asia
+
+Learn more about how others have expanded their businesses in Southeast Asia through Singapore, from entering new markets to navigating regulations in the region.
 
 ##### Regional Expansion with Doctor Anywhere
 Lim Wai Mun, CEO, DoctorAnywhere takes us through the anatomy of a successful regional expansion<br>
@@ -30,8 +32,10 @@ Hear more from Juliet Zhu, Group President and CFO, Carsome Group about the four
 Join Brooks Entwistle, Senior Vice President (SVP) of Global Customer Success and Managing Director (MD) for Asia-Pacific (APAC) and Middle East and North Africa (MENA), Ripple to discover how curiosity, trust and a great craft coffee scene have established Singapore’s attractiveness as a place for entrepreneurs, investors, technical leaders and partners to mingle and create what’s next.<br>
 
 [View Ecosystem Enablers with Ripple](https://www.edb.gov.sg/en/business-insights/insights/growth-islands-ecosystem-enablers-with-ripple.html)<br>
-
 <br>
+<br>
+
+[Back to top](#learn-how-others-have-expanded-in-southeast-asia)
 <br>
 <hr>
 
