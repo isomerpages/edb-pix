@@ -40,8 +40,8 @@ sections:
       button: Send us your feedback
       url: /feedback/
   - infobar:
-      title: About EDB
-      subtitle: Who we are
+      title: WHO WE ARE
+      subtitle: NAV BY EDB
       description: "The Singapore Economic Development Board (EDB) is a government
         agency under the Ministry of Trade and Industry. Visit EDB for more
         information and resources. "
