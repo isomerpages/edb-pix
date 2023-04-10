@@ -98,9 +98,9 @@ Singapore is home to many of the world’s global companies across several indus
 [Singapore Power Group](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/singapore-power-group.html)<br>
 [Suez Water Technologies and Solutions](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/suez-water-technologies-and-solutions.html)<br>
 [Surbana Jurong](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/surbana-jurong.html)<br>
-
-
 <br>
+<br>
+[Back to top](#company-case-studies)
 <br>
 <hr>
 
