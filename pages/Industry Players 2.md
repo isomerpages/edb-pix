@@ -3,8 +3,8 @@ title: Industry Players 2
 permalink: /industry-players-2/
 description: ""
 ---
-{::options parse_block_html="true" /}
 # Company Case Studies
+{::options parse_block_html="true" /}
 <br>
 Singapore is home to many of the world’s global companies across several industries. Read on to learn more about how they have established activities and operations in Singapore for their business in Asia and beyond.<br>
 <br>
