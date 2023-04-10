@@ -19,8 +19,8 @@ sections:
             url: /hire/hiring-talent/
           - title: Grow my business in Southeast Asia from Singapore
             url: /expand/grow-in-sea/
-          - title: Learn more about my industry ecosystem
-            url: /industry-ecosystem/
+          - title: "Company case studies: how others have done it"
+            url: /case-studies/
           - title: Understand how the Singapore government can support me
             url: /sg-gov-support/
           - title: I can't find what I'm looking for
