@@ -8,22 +8,33 @@ description: ""
 Singapore is home to many of the world’s global companies across several industries. Read on to learn more about how they have established activities and operations in Singapore for their business in Asia and beyond.<br>
 <br>
 
-
-<b>Aerospace</b><br>
+ <details>
+<summary><b>Aerospace</b></summary>
 [Airbus](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/airbus.html)<br>
 [Rolls Royce](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/rolls-royce.html)<br>
 [Spire Global](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/spire-global.html)<br>
+</details>
 
-<b>Consumer Business</b><br>
+<br>
+
+<details>
+<summary><b>Consumer Business</b></summary>
 [Coca-Cola](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/coca-cola.html)<br>
 [Givaudan](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/givaudan.html)<br>
 [Nestle](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/nestle.html)<br>
 [Procter &amp; Gamble (P&amp;G) ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/procter-and-gamble-cb.html)<br>
+</details>
 
-<b>Creative Industries</b><br>
+<br>
+
+ <details>
+<summary><b>Creative Industries</b></summary>
 [Dentsu Aegis](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/dentsu-aegis-ci.html)<br>
 [Lucasfilm Singapore](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/lucasfilm-singapore.html)<br>
 [LVMH](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/lvmh.html)<br>
+</details>
+
+<br>
 
 <b>Electronic</b><br>
 [Infineon Technologies ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/infineon-technologies.html)<br>
