@@ -44,3 +44,6 @@ Suresh Sukumar from EDB Singapore's Regional Partnerships Division will talk abo
 
 [View Using Nongsa as Your DIgital Bridge to SEA](https://edbsingapore.thinkific.com/courses/nongsa-your-digital-bridge-to-sea)<br>
 <br>
+
+### Access talent in Southeast Asia from Singapore
+Half of Fortune 500 companies have established their regional headquarters in Singapore, leveraging the skilled workforce and talent in Southeast Asia.<br>
