@@ -25,4 +25,10 @@ sections:
             url: /gov-support/
           - title: I can't find what I'm looking for
             url: /feedback/
+  - infobar:
+      title: Can't find what you're looking for?
+      subtitle: " "
+      description: NAV is still in development and we are working to improve it for
+        users like you. We would love to hear your feedback.
+      button: Button Text
 ---
