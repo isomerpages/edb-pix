@@ -4,7 +4,7 @@ title: Navigate Southeast Asia
 description: This is a prototype site for testing
 image: /images/edb-logo.svg
 permalink: /
-notification: This is a prototype site for testing
+notification: This is a beta site for testing
 sections:
   - hero:
       title: NAV
@@ -39,4 +39,12 @@ sections:
         users like you. We would love to hear your feedback.
       button: Send us your feedback
       url: /feedback/
+  - infobar:
+      title: About EDB
+      subtitle: Who we are
+      description: "The Singapore Economic Development Board (EDB) is a government
+        agency under the Ministry of Trade and Industry. Visit EDB for more
+        information and resources. "
+      button: Visit EDB
+      url: https://www.edb.gov.sg/
 ---
