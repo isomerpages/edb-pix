@@ -8,8 +8,7 @@ notification: This is a prototype site for testing
 sections:
   - hero:
       title: NAV
-      subtitle: (BETA) NAV is a digital companion designed for companies with little
-        to no presence in Singapore to grow their business in Singapore. ***
+      subtitle: "Let us help you get started. Select a topic:  "
       background: /images/hero-banner.png
       dropdown:
         title: What are you looking for?
