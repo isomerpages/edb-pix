@@ -21,8 +21,8 @@ sections:
             url: /expand/grow-in-sea/
           - title: "Company case studies: how others have done it"
             url: /case-studies/
-          - title: Understand how the Singapore government can support me
-            url: /sg-gov-support/
+          - title: Government assistance and schemes
+            url: /gov-support/
           - title: I can't find what I'm looking for
             url: /feedback/
 ---
