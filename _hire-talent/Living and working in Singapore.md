@@ -3,27 +3,11 @@ title: Living and working in Singapore
 permalink: /hire/living-and-working-in-sg/
 description: Living and working in Singapore
 ---
-Singapore’s business landscape in numbers:&nbsp;
-
-*   Over 7,000 multinational corporations&nbsp;&nbsp;
-    
-*   300 venture capital and private equity funds&nbsp;&nbsp;
-    
-*   Nearly half of Asian regional HQs&nbsp;&nbsp;
-    
-*   Home to Southeast Asia’s largest concentration of unicorns&nbsp;
-
-
-A dynamic city with the hallmarks of urban living and rich cultural heritage. Every day presents a chance to savour our hawker culture, experience vibrant nightlife, and explore UNESCO heritage sites such as the Botanic Gardens.&nbsp;&nbsp;
-
-Singapore is also widely regarded as one of the safest countries in the world, with a reliable police force supported by proactive citizens. You and your family will also gain easy access to a world-class education system and a wide network of top-notch healthcare experts and facilities.<br>
-<br>
-
-<b>Download this guide for comprehensive information about living in Singapore:</b>
+# Living and working in Singapore
 
 ##### Guide to Living in Singapore
 
-This guide covers:
+<b>This guide covers:</b>
 
 *   Why Singapore is #1 for liveability in Asia&nbsp;
     
@@ -40,10 +24,20 @@ This guide covers:
 
 Curious to learn more about living and working in Singapore? Connect with a global network of over 80,000 professionals and entrepreneurs, and access exclusive events, guides and insights on building your career in Singapore.<br>
 
-[View Singapore Global Network](https://singaporeglobalnetwork.gov.sg/)<br>
+[Visit Singapore Global Network](https://singaporeglobalnetwork.gov.sg/)<br>
+<br>
 
+##### Recruitment and HR service providers&nbsp;
+
+EDB Connections Concierge links you to a curated network of service providers who offer professional solutions for setting up businesses in Singapore. For any enquiry sent via Connections Concierge, you can expect a response within three working days. Find a service provider that help with your recruitment and talent needs here.
+<br>
+
+[Visit Connections Concierge]([https://www.edb.gov.sg/connections-concierge/service-providers.html?tab=general-service-providers&amp;servicecategory=recruitment&amp;hrsolutions](https://www.edb.gov.sg/connections-concierge/service-providers.html?tab=general-service-providers&amp;servicecategory=recruitment&amp;hrsolutions))
 
 <br>
+<br>
+
+[Back to top](#living-and-working-in-singapore)
 <br>
 <hr>
 
