@@ -3,6 +3,9 @@ title: Work passes in Singapore
 permalink: /hire/work-pass-summary/
 description: Work passes in Singapore
 ---
+# Typical work passes for business activities
+<br>
+
 | |<b>Employment Pass</b> | <b>ONE Pass</b> | <b>Personalised Employment Pass</b>| <b>Tech.Pass</b> | <b>EntrePass</b> | <b>S Pass</b> |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | <b>For Who</b>     | Foreign professionals, managers and executives    | Top talent in business, arts and culture, sports, as well as academia and research    |High-earning Employment Pass holders or overseas foreign professionals    | Established tech entrepreneurs, leaders or technical experts     | Eligible foreign entrepreneurs who are keen to operate a business in Singapore that is venture-backed or possesses innovative technologies    |Skilled workers who meet the eligibility criteria    |
@@ -13,10 +16,14 @@ description: Work passes in Singapore
 
 <br>
 
-Read this infographic for more information about the work pass framework in Singapore<br>
+### More Information on Work Passes&nbsp;
 
+To learn more about updates to the work pass framework in Singapore, read this article and infographic<br>
 [View Singapore work pass framework infographic](https://www.edb.gov.sg/en/business-insights/insights/looking-to-build-your-a-team-look-no-further-than-singapore.html)
 <br>
+<br>
+For more comprehensive information about the work pass framework in Singapore, please visit the Ministry of Manpower website.<br>
+
 <br>
 <hr>
 
