@@ -23,9 +23,9 @@ Learn more about each Southeast Asian country through the following country guid
 
 |  |  |  |
 | -------- | -------- | -------- |
-| [Cambodia](https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/market-guides/southeast-asia/Cambodia/overview)<br> | [Indonesia](https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/market-guides/southeast-asia/Indonesia/overview)<br> | [Malaysia](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/malaysia/market-profile)<br>  |
-| [Myanmar](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/myanmar/market-profile)<br> | [Philippines](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/philippines/market-profile)<br> |[Thailand](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/thailand/market-profile)<br> |
-| [Vietnam](https://www.enterprisesg.gov.sg/overseas-markets/asia-pacific/vietnam/market-profile)<br>  |  |  |
+| [Cambodia](https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/market-guides/southeast-asia/Cambodia/overview)<br> | [Indonesia](https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/market-guides/southeast-asia/Indonesia/overview)<br> | [Malaysia](https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/market-guides/southeast-asia/malaysia/overview)<br>  |
+| [Myanmar](https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/market-guides/southeast-asia/myanmar/overview)<br> | [Philippines](https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/market-guides/southeast-asia/philippines/overview)<br> |[Thailand](https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/market-guides/southeast-asia/thailand/overview)<br> |
+| [Vietnam](https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/market-guides/southeast-asia/vietnam/overview)<br>  | [Laos](https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/market-guides/southeast-asia/Laos/overview) |  |
 |  |  |  |
 
 <br>
