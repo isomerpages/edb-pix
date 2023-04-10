@@ -11,7 +11,7 @@ Business entities in Singapore are licensed and regulated by the Accounting and 
 
 There are several types of business structures that can be set up in Singapore. The ACRA website will provide you with more information about which business structure is most suitable for your needs.
 			
-[ACRA](https://www.acra.gov.sg/)
+[Visit ACRA](https://www.acra.gov.sg/)
 
 <br>
 	
@@ -19,7 +19,7 @@ There are several types of business structures that can be set up in Singapore. 
 
 Registering your business can be done online at Bizfile, ACRA’s online portal.
 	
-[Bizfile](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/BizfileHomepage.jspx?_afrWindowId=null&amp;_adf.ctrl-state=s37uihuo9_4)
+[Visit Bizfile](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/BizfileHomepage.jspx?_afrWindowId=null&amp;_adf.ctrl-state=s37uihuo9_4)
 
 or<br>
 <h5>Open a representative office</h5>
