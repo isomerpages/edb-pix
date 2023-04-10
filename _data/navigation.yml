@@ -2,13 +2,13 @@ logo: /images/edb-logo.svg
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: Set up in Singapore
+  - title: Set up business
     url: /set-up/
-  - title: Hire Talent
+  - title: Hire talent
     collection: hire-talent
-  - title: Grow Business In Sea
+  - title: Grow business in SEA
     collection: grow-business-in-sea
-  - title: Industry players in Singapore
-    url: /industry-ecosystem/
-  - title: Singapore government support
-    url: /sg-gov-support/
+  - title: Company case studies
+    url: /case-studies/
+  - title: Government Assistance
+    url: /gov-support/
