@@ -4,9 +4,9 @@ permalink: /set-up-2/
 description: Set up in Singapore
 ---
 # Incorporating in Singapore
+<br>
+<br>
 {::options parse_block_html="true" /}
-<br>
-<br>
  <details>
 <summary><b>1. Choose your business structure</b></summary>
  Business entities in Singapore are licensed and regulated by the Accounting and Corporate Regulatory Authority (ACRA).
