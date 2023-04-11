@@ -61,12 +61,12 @@ In this video, learn more about Nongsa Digital Park, an emerging digital cluster
 
 <br>
 
-### Access talent in Southeast Asia from Singapore
+### 3. Access talent in Southeast Asia from Singapore
 Half of Fortune 500 companies have established their regional headquarters in Singapore, leveraging the skilled workforce and talent in Southeast Asia.<br>
 <br>
 
 <b>Exploring Differentiated Talent Across SEA</b><br>
-Jay, a special advisor at Glints, will be giving an overview of the talent landscape across Singapore, Vietnam and Indonesia.<br>
+In this video, learn more about the differentiated talent landscape you can access across Singapore, Vietnam and Indonesia.<br>
 
 [View Exploring Differentiated Talent Across SEA](https://edbsingapore.thinkific.com/courses/glints-exploring-differentiated-talent-across-sea)<br>
 <br>
