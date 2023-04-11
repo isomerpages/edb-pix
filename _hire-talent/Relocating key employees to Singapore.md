@@ -18,4 +18,41 @@ All foreigners who intend to work in Singapore must have a valid work pass (comm
 |  |  |  |  |  |  |  |
 
 
+### More Information on Work Passes&nbsp;
 
+To learn more about updates to the work pass framework in Singapore, read this article and infographic<br>
+
+[View Singapore work pass framework article and infographic](https://www.edb.gov.sg/en/business-insights/insights/looking-to-build-your-a-team-look-no-further-than-singapore.html)
+<br>
+<br>
+<br>
+For more comprehensive information about the work pass framework in Singapore, please visit the Ministry of Manpower website.<br>
+
+[View Ministry of Manpower]([https://www.mom.gov.sg/passes-and-permits](https://www.mom.gov.sg/passes-and-permits)
+<br>
+<br>
+
+### Things to take note of before you apply
+##### Understand and prepare for the application process
+<br>
+###### For Employment Pass and S Pass&nbsp;
+
+Employers will have to apply Employment Pass &amp; S Pass on their employees’ behalf on the Ministry of Manpower website on an eService known as [myMOM Portal](https://www.mom.gov.sg/eservices/services/mymom-portal).&nbsp;
+
+To access myMOM Portal, employers will need a Corppass account and allow access of myMOMPortal to the company representative performing the application. [Corppass](https://www.corppass.gov.sg/) is an authorisation system for businesses to manage access of employees who need to perform corporate transactions on Singapore government digital services. Learn how to register for a Corppass account [here](https://www.corppass.gov.sg/corppass/common/findoutmore).&nbsp;
+<br>
+<br>
+
+###### For all other passes (ONE Pass, Personalised Employment Pass, EntrePass and Tech.Pass)&nbsp;&nbsp;
+
+Unlike Employment Pass or S Pass, individuals seeking to relocate to Singapore via ONE Pass, Personalised Employment Pass, EntrePass or Tech.Pass can apply for these passes directly via the application system for the respective passes.
+
+<br>
+<br>
+
+[Back to top](#typical-work-passes-for-business-activities)
+<br>
+<hr>
+
+##### Did you find what you need?
+[Send us your feedback](https://form.gov.sg/642693623cb98f001239be0d)
