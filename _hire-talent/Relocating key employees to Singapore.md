@@ -46,6 +46,16 @@ To access myMOM Portal, employers will need a Corppass account and allow access 
 ###### For all other passes (ONE Pass, Personalised Employment Pass, EntrePass and Tech.Pass)&nbsp;&nbsp;
 
 Unlike Employment Pass or S Pass, individuals seeking to relocate to Singapore via ONE Pass, Personalised Employment Pass, EntrePass or Tech.Pass can apply for these passes directly via the application system for the respective passes.
+<br>
+
+
+|  |  | 
+| -------- | -------- | 
+| <b>ONE Pass</b>    | Text     |
+| <b>Personalised Employment Pass</b>    | Text     |
+| <b>Tech.Pass</b>     | Text     |
+| Text     | Text     |
+
 
 <br>
 <br>
