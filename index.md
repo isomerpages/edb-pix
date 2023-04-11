@@ -27,13 +27,6 @@ sections:
           - title: I can't find what I'm looking for
             url: /feedback/
   - infobar:
-      title: NAV helps companies take...
-      description: Here, you will find curated information and links to resources to
-        acquaint you with the basics of doing business in Singapore. From
-        registering...
-      button: Get started
-      url: /set-up/
-  - infobar:
       title: Can't find what you're looking for?
       subtitle: " "
       description: NAV is still in development and we are working to improve it for
@@ -41,8 +34,7 @@ sections:
       button: Send us your feedback
       url: /feedback/
   - infobar:
-      title: WHO WE ARE
-      subtitle: NAV BY EDB
+      subtitle: About US
       description: "The Singapore Economic Development Board (EDB) is a government
         agency under the Ministry of Trade and Industry. Visit EDB for more
         information and resources. "
