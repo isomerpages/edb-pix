@@ -67,17 +67,6 @@ The GlP accords PR status to investors with a substantial business track record 
 [Learn More](https://www.edb.gov.sg/en/how-we-help/global-investor-programme.html)
 	
 <br>
-
-### Testimonial
-
-![](/images/Set-up-testimonial.png)
-<br>
-<blockquote>“It took us five minutes to register our company, and two days to set up here. We used a 100 per cent online application platform that allows us to upload documents and sign them digitally without any physical paperwork,”</blockquote>
-
-
-<b>Jatin Khosla (left), Co-Founder and CEO of startup Konigle
-on the ease of setting up his business in Singapore</b>
-	
 <br>
 <br>
 	
