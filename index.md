@@ -7,7 +7,7 @@ permalink: /
 notification: This site is in pilot stage for limited use and testing.
 sections:
   - hero:
-      title: Take your first steps to grow your business in Singapore
+      title: Grow your business in Singapore
       subtitle: Find curated information and links to resources to acquaint you with
         the basics of doing business in Singapore. Let us help you get started.
       background: /images/hero-banner.png
