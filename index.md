@@ -29,15 +29,15 @@ sections:
   - infobar:
       title: Can't find what you're looking for?
       subtitle: " "
-      description: NAV is still in development and we are working to improve it for
-        users like you. We would love to hear your feedback.
+      description: This site is still in development and we are working to improve it
+        for users like you. We would love to hear your feedback.
       button: Send us your feedback
       url: /feedback/
   - infobar:
       subtitle: About US
-      description: "The Singapore Economic Development Board (EDB) is a government
+      description: The Singapore Economic Development Board (EDB) is a government
         agency under the Ministry of Trade and Industry. Visit EDB for more
-        information and resources. "
+        information and resources.
       button: Visit EDB
       url: https://www.edb.gov.sg/
 ---
