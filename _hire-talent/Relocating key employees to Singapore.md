@@ -54,7 +54,7 @@ Unlike Employment Pass or S Pass, individuals seeking to relocate to Singapore v
 | <b>ONE Pass</b>    | Text     |
 | <b>Personalised Employment Pass</b>    | Text     |
 | <b>Tech.Pass</b>     | Text     |
-| Text     | Text     |
+| <b>EntrePass</b>   | Text     |
 
 
 <br>
