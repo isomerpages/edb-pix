@@ -5,11 +5,26 @@ description: How to grow in Southeast Asia from Singapore
 ---
 # How to grow in Southeast Asia from Singapore
 <br>
-Singapore’s strategic location means that we are an ideal hub from which you can access Southeast Asia and its growing consumer market. Learn more about how you can grow your business in Southeast Asia through Singapore.
-<br>
-<br>
 
-### Leverage Singapore’s vibrant regional trade connections
+<b>A SEA of Opportunities</b><br>
+Singapore’s strategic location means that we are an ideal hub from which you can access Southeast Asia and its growing consumer market. Download the guide below to learn more about how you can grow your business in Southeast Asia through Singapore.
+
+This guide will share:&nbsp;
+
+*   Overview of the Southeast Asia (SEA) countries, including key sectors, talent pools, incorporation processes and tax systems&nbsp;
+    
+*   Megatrends shaping growth in the region&nbsp;
+   
+*   Tips from business leaders who have found success in the region&nbsp;
+    
+*   How Singapore is your gateway into SEA, from a business “control tower”, to an innovation destination
+
+[View A SEA of Opportunities](https://www.edb.gov.sg/en/setting-up-in-singapore/business-guides/a-sea-of-opportunities-understanding-southeast-asia.html)
+<br>
+<br>
+### 3 ways to grow  your business in Southeast Asia through Singapore
+
+##### 1. Leverage Singapore’s vibrant regional trade connections
 Singapore is part of a rich network of Free Trade Agreements (FTAs) that cover over 60% of the world’s GDP, which your business can tap on.<br>
 <br>
 
@@ -22,25 +37,25 @@ This guidebook, produced by the Singapore Business Federation (SBF), helps your 
 <br>
 
 <b>Leveraging Singapore’s Free Trade Agreements (FTAs)</b><br>
-Sze Xin from EY will be sharing insights on how companies could leverage Singapore’s FTAs to accelerate their growth in SEA.<br>
+In this video, EY will be sharing insights on how companies could leverage Singapore’s FTAs to accelerate their growth in SEA.<br>
 
 [View Leveraging Singapore's Free Trade Agreements](https://edbsingapore.thinkific.com/courses/ey-leveraging-singapore-s-free-trade-agreements-ftas)<br>
 
 <br>
 
-### Establish integrated regional operations with Singapore as a control tower
+### 2. Establish integrated regional operations with Singapore as a control tower
 You can tap on Singapore’s world-class business ecosystem to establish your regional headquarters, while leveraging cost-competitive manufacturing solutions in the proximate neighbourhood.<br>
 <br>
 
 <b>Participating in the Southeast Asia Manufacturing Alliance</b><br>
-Learn about the Southeast Asia Manufacturing Alliance, a tripartite agreement between EDB, ESG and private sector partners to promote a network of industrial parks to manufacturers who are interested to invest in both Singapore and the region.	<br>
+In this video, learn how you can establish your manufacturing operations in the network of industrial parks established by the Southeast Asia Manufacturing Alliance.<br>
 
 [View Participating in the Southeast Asia Manufacturing Alliance](https://edbsingapore.thinkific.com/courses/participating-sma)<br>
 
 <br>
 
 <b>Using Nongsa as Your Digital Bridge to SEA</b><br>
-Suresh Sukumar from EDB Singapore's Regional Partnerships Division will talk about Nongsa Digital Park, an emerging digital cluster in Batam, and how it offers convenient and cost-efficient tech solutions for companies expanding in SEA.<br>
+In this video, learn more about Nongsa Digital Park, an emerging digital cluster in Batam, and how it offers convenient and cost-efficient tech solutions for companies expanding in Southeast Asia.<br>
 
 [View Using Nongsa as Your DIgital Bridge to SEA](https://edbsingapore.thinkific.com/courses/nongsa-your-digital-bridge-to-sea)<br>
 
@@ -56,12 +71,7 @@ Jay, a special advisor at Glints, will be giving an overview of the talent lands
 [View Exploring Differentiated Talent Across SEA](https://edbsingapore.thinkific.com/courses/glints-exploring-differentiated-talent-across-sea)<br>
 <br>
 
-##### Download this guide for more comprehensive information about growing your business in Southeast Asia through Singapore
-<b>A SEA of Opportunities</b><br>
-Looking to Southeast Asia for new business opportunities? This guide is your starting point for entering the region’s diverse and fast-growing markets. Discover how Singapore can be your partner in leading your next phase of growth in SEA.
-<br>
 
-[View A SEA of Opportunities](https://www.edb.gov.sg/en/setting-up-in-singapore/business-guides/a-sea-of-opportunities-understanding-southeast-asia.html)<br>
 
 <br>
 <br>
