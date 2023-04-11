@@ -51,10 +51,11 @@ Unlike Employment Pass or S Pass, individuals seeking to relocate to Singapore v
 
 |  |  | 
 | -------- | -------- | 
-| <b>ONE Pass</b>    | Text     |
-| <b>Personalised Employment Pass</b>    | Text     |
-| <b>Tech.Pass</b>     | Text     |
-| <b>EntrePass</b>   | Text     |
+| <b>ONE Pass</b>    | [Apply for ONE Pass](https://service2.mom.gov.sg/workpass/op/new/application) |
+| <b>Personalised Employment Pass</b>    | [Apply for Personalised Employment Pass](https://www.mom.gov.sg/passes-and-permits/personalised-employment-pass/apply-for-a-pass#submit-an-application)    |
+| <b>Tech.Pass</b>     | [Apply for Tech.Pass](https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes/tech-pass.html)    |
+| <b>EntrePass</b>   | [Apply for EntrePass](https://www.mom.gov.sg/passes-and-permits/entrepass/apply-for-a-pass#submit-an-application)   |
+|||
 
 
 <br>
