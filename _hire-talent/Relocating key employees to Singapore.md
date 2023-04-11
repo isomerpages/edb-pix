@@ -34,7 +34,7 @@ For more comprehensive information about the work pass framework in Singapore, p
 
 ### Things to take note of before you apply
 ##### Understand and prepare for the application process
-<br>
+
 ###### For Employment Pass and S Pass&nbsp;
 
 Employers will have to apply Employment Pass &amp; S Pass on their employees’ behalf on the Ministry of Manpower website on an eService known as [myMOM Portal](https://www.mom.gov.sg/eservices/services/mymom-portal).&nbsp;
