@@ -28,7 +28,6 @@ sections:
             url: /feedback/
   - infobar:
       title: Can't find what you're looking for?
-      subtitle: " "
       description: This site is still in development and we are working to improve it
         for users like you. We would love to hear your feedback.
       button: Send us your feedback
