@@ -7,11 +7,12 @@ permalink: /
 notification: This is a beta site for testing
 sections:
   - hero:
-      title: NAV
-      subtitle: "Let us help you get started. Select a topic:  "
+      title: Take the first steps to grow your business in Singapore
+      subtitle: Find curated information and links to resources to acquaint you with
+        the basics of doing business in Singapore. Let us help you get started.
       background: /images/hero-banner.png
       dropdown:
-        title: What are you looking for?
+        title: Select a topic
         options:
           - title: Set up my business in Singapore
             url: /set-up/
