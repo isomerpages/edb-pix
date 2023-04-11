@@ -5,24 +5,24 @@ description: Learn how others have expanded in Southeast Asia
 ---
 # Learn how others have expanded in Southeast Asia
 
-Learn more about how others have expanded their businesses in Southeast Asia through Singapore, from entering new markets to navigating regulations in the region.
+Hear from&nbsp;other companies how they have expanded their businesses in Southeast Asia through Singapore, from entering new markets to navigating regulations in the region.<br>
 
 ##### Regional Expansion with Doctor Anywhere
-Lim Wai Mun, CEO, DoctorAnywhere takes us through the anatomy of a successful regional expansion<br>
+DoctorAnywhere, a regional tech-led healthcare company, takes us through the anatomy of a successful regional expansion.<br>
 
 [View Regional Expansion with Doctor Anywhere](https://www.edb.gov.sg/en/business-insights/insights/growth-islands-regional-expansion-with-doctoranywhere.html)<br>
 
 <br>
 
 #####  Navigating Regulations with Shiok Meat
-Hear from Sandhya Sriram, Group CEO, Chairman and Co-Founder, Shiok Meats, on her journey in founding the first cell-based crustacean company globally, and how Singapore’s progressive regulatory environment has helped her team build a greener and tastier future for the planet.<br>
+Shiok Meats, a first-of-its-kind cultivated meat and seafood company, shares how Singapore’s progressive regulatory environment has helped the company grow in the region.<br>
 
 [View Navigating Regulations with Shiok Meat](https://www.edb.gov.sg/en/business-insights/insights/growth-islands-navigating-regulation-with-shiok-meats.html)<br>
 
 <br>
 
 ##### The Fundraising Journey with Carsome
-Hear more from Juliet Zhu, Group President and CFO, Carsome Group about the four key stages of fundraising, and how to tap on the right investors and partners in Singapore and Southeast Asia for an effective regional expansion.<br>
+Carsome Group, Southeast Asia’s largest integrated car e-commerce platform,&nbsp;shares its experience on finding the right investors and partners in Singapore and Southeast Asia for an effective regional expansion.<br>
 
 [View The Fundraising Journey with Carsome](https://www.edb.gov.sg/en/business-insights/insights/growth-islands-the-fundraising-journey-with-carsome.html)<br>
 
