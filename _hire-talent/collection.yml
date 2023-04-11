@@ -2,6 +2,6 @@ collections:
   hire-talent:
     output: true
     order:
-      - Relocating key employees to Singapore.md
       - Hiring talent in Singapore.md
+      - Relocating key employees to Singapore.md
       - Living and working in Singapore.md
