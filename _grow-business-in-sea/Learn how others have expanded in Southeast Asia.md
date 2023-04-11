@@ -29,7 +29,7 @@ Carsome Group, Southeast Asia’s largest integrated car e-commerce platform,&nb
 <br>
 
 #####  Ecosystem Enablers with Ripple
-Join Brooks Entwistle, Senior Vice President (SVP) of Global Customer Success and Managing Director (MD) for Asia-Pacific (APAC) and Middle East and North Africa (MENA), Ripple to discover how curiosity, trust and a great craft coffee scene have established Singapore’s attractiveness as a place for entrepreneurs, investors, technical leaders and partners to mingle and create what’s next.<br>
+Ripple, a blockchain-based digital payment network, shares on Singapore’s attractiveness as a place for entrepreneurs, investors, technical leaders and partners to mingle and create what’s next.<br>
 
 [View Ecosystem Enablers with Ripple](https://www.edb.gov.sg/en/business-insights/insights/growth-islands-ecosystem-enablers-with-ripple.html)<br>
 <br>
