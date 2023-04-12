@@ -17,7 +17,7 @@ All foreigners who intend to work in Singapore must have a valid work pass (comm
 | <b>Read more about eligibility and how to apply</b>     | [View Employment Pass](https://www.mom.gov.sg/passes-and-permits/employment-pass )    | [View Overseas networks &amp; Expertise Pass](https://www.mom.gov.sg/passes-and-permits/overseas-networks-expertise-pass)    |[View Personalised Employment Pass](https://www.mom.gov.sg/passes-and-permits/personalised-employment-pass)    | [View Tech.Pass](https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes/tech-pass.html)   |[View EntrePass](https://www.mom.gov.sg/passes-and-permits/entrepass) |[View S Pass](https://www.mom.gov.sg/passes-and-permits/s-pass) |
 |  |  |  |  |  |  |  |
 
-
+<br>
 
 To learn more about updates to the work pass framework in Singapore, read this article and infographic<br>
 
