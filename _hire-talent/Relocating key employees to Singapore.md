@@ -27,9 +27,8 @@ To learn more about updates to the work pass framework in Singapore, read this a
 <br>
 For more comprehensive information about the work pass framework in Singapore, please visit the Ministry of Manpower website.<br>
 
-[View Ministry of Manpower]([https://www.mom.gov.sg/passes-and-permits](https://www.mom.gov.sg/passes-and-permits)
+[View Ministry of Manpower](https://www.mom.gov.sg/passes-and-permits)
 <br>
-[View Ministry of Manpower](https://www.mom.gov.sg/passes-and-permits](https://www.mom.gov.sg/passes-and-permits)
 <br>
 <br>
 
