@@ -18,7 +18,6 @@ All foreigners who intend to work in Singapore must have a valid work pass (comm
 |  |  |  |  |  |  |  |
 
 
-### More Information on Work Passes&nbsp;
 
 To learn more about updates to the work pass framework in Singapore, read this article and infographic<br>
 
