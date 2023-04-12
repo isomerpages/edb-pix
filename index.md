@@ -10,7 +10,7 @@ sections:
       title: Grow your business in Singapore
       subtitle: Find curated information and links to resources to acquaint you with
         the basics of doing business in Singapore. Let us help you get started.
-      background: /images/hero-banner.png
+      background: /images/edb virtual background_10_preview.jpg
       dropdown:
         title: Select a topic
         options:
