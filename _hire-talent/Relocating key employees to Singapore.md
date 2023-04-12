@@ -34,7 +34,7 @@ For more comprehensive information about the work pass framework in Singapore, p
 <br>
 
 ### Things to take note of before you apply
-##### 1. Understand and prepare for the application process
+#### 1. Understand and prepare for the application process
 
 ##### For Employment Pass and S Pass&nbsp;
 
@@ -58,7 +58,7 @@ Unlike Employment Pass or S Pass, individuals seeking to relocate to Singapore v
 | <b>EntrePass</b>   | [Apply for EntrePass](https://www.mom.gov.sg/passes-and-permits/entrepass/apply-for-a-pass#submit-an-application)   |
 |||
 
-##### 2. Take note of the Fair Consideration Framework&nbsp;&nbsp;
+#### 2. Take note of the Fair Consideration Framework&nbsp;&nbsp;
 
 The [Fair Consideration Framework (FCF)](https://www.mom.gov.sg/employment-practices/fair-consideration-framework) sets out requirements for all employers in Singapore to consider the workforce in Singapore fairly for job opportunities. Employers should not discriminate on characteristics that are not related to the job, such as age, gender, nationality or race.&nbsp;
 
