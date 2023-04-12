@@ -29,6 +29,8 @@ For more comprehensive information about the work pass framework in Singapore, p
 
 [View Ministry of Manpower]([https://www.mom.gov.sg/passes-and-permits](https://www.mom.gov.sg/passes-and-permits)
 <br>
+[View Ministry of Manpower](https://www.mom.gov.sg/passes-and-permits](https://www.mom.gov.sg/passes-and-permits)
+<br>
 <br>
 
 ### Things to take note of before you apply
