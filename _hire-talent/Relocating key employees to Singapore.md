@@ -34,9 +34,9 @@ For more comprehensive information about the work pass framework in Singapore, p
 <br>
 
 ### Things to take note of before you apply
-##### Understand and prepare for the application process
+##### 1. Understand and prepare for the application process
 
-###### For Employment Pass and S Pass&nbsp;
+##### For Employment Pass and S Pass&nbsp;
 
 Employers will have to apply Employment Pass &amp; S Pass on their employees’ behalf on the Ministry of Manpower website on an eService known as [myMOM Portal](https://www.mom.gov.sg/eservices/services/mymom-portal).&nbsp;
 
@@ -44,11 +44,11 @@ To access myMOM Portal, employers will need a Corppass account and allow access 
 <br>
 <br>
 
-###### For all other passes (ONE Pass, Personalised Employment Pass, EntrePass and Tech.Pass)&nbsp;&nbsp;
+##### For all other passes (ONE Pass, Personalised Employment Pass, EntrePass and Tech.Pass)&nbsp;&nbsp;
 
 Unlike Employment Pass or S Pass, individuals seeking to relocate to Singapore via ONE Pass, Personalised Employment Pass, EntrePass or Tech.Pass can apply for these passes directly via the application system for the respective passes.
 <br>
-
+<br>
 
 |  |  | 
 | -------- | -------- | 
@@ -58,7 +58,7 @@ Unlike Employment Pass or S Pass, individuals seeking to relocate to Singapore v
 | <b>EntrePass</b>   | [Apply for EntrePass](https://www.mom.gov.sg/passes-and-permits/entrepass/apply-for-a-pass#submit-an-application)   |
 |||
 
-##### Take note of the Fair Consideration Framework&nbsp;&nbsp;
+##### 2. Take note of the Fair Consideration Framework&nbsp;&nbsp;
 
 The [Fair Consideration Framework (FCF)](https://www.mom.gov.sg/employment-practices/fair-consideration-framework) sets out requirements for all employers in Singapore to consider the workforce in Singapore fairly for job opportunities. Employers should not discriminate on characteristics that are not related to the job, such as age, gender, nationality or race.&nbsp;
 
