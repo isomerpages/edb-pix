@@ -5,11 +5,14 @@ description: Recruitment and HR Service Providers
 ---
 # Recruitment and HR service providers
 
-EDB Connections Concierge links you to a curated network of service providers who offer professional solutions for setting up businesses in Singapore. For any enquiry sent via Connections Concierge, you can expect a response within three working days. Find a service provider that help with your recruitment and talent needs here.
+EDB Connections Concierge links you to a curated network of service providers who offer professional solutions for setting up businesses in Singapore. For any enquiry sent via Connections Concierge, you can expect a response within three working days. Find a service provider that helps with your recruitment and talent needs here.
 <br>
 
-[Visit Connections Concierge](https://www.edb.gov.sg/connections-concierge/service-providers.html?tab=general-service-providers&amp;servicecategory=recruitment&amp;hrsolutions)
+For recruitment and HR solutions, click [here](https://www.edb.gov.sg/connections-concierge/service-providers.html?tab=general-service-providers&amp;servicecategory=recruitment&amp;hrsolutions). &nbsp;
 
+For incorporation and work pass advisory, click [here](https://www.edb.gov.sg/connections-concierge/service-providers.html?tab=general-service-providers&amp;servicecategory=incorporation&amp;corporatesecretarialsolutions).
+
+<br>
 <br>
 <br>
 <hr>
