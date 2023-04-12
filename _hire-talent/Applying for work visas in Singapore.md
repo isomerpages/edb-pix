@@ -28,7 +28,7 @@ For more comprehensive information about the work pass framework in Singapore, p
 <br>
 <br>
 
-### Things to take note of before you apply
+### 2 things to take note of before you apply
 #### 1. Understand and prepare for the application process
 
 ##### For Employment Pass and S Pass&nbsp;
