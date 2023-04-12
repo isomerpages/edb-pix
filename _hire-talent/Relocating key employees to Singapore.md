@@ -3,7 +3,7 @@ title: Relocating key employees to Singapore
 permalink: /hire/relocating-employees/
 description: Relocating key employees to Singapore
 ---
-# Securing work visas for key employees
+# Applying for work visas in Singapore
 
 ### Applying for work passes in Singapore
 
