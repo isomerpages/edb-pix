@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Navigate Southeast Asia
-description: This is a prototype site for testing
+description: This site is in pilot stage for limited use and testing.
 image: /images/edb-logo.svg
 permalink: /
 notification: This site is in pilot stage for limited use and testing.
