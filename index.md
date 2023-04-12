@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Navigate Southeast Asia
+title: Grow your business in Singapore
 description: This site is in pilot stage for limited use and testing.
 image: /images/edb-logo.svg
 permalink: /
