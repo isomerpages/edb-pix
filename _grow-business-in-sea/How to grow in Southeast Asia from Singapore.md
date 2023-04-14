@@ -3,7 +3,7 @@ title: How to grow in Southeast Asia from Singapore
 permalink: /grow/grow-in-sea/
 description: How to grow in Southeast Asia from Singapore
 ---
-# How to grow in Southeast Asia from Singapore
+# Grow in Southeast Asia from Singapore
 <br>
 
 <b>A SEA of Opportunities</b><br>
@@ -70,13 +70,10 @@ In this video, learn more about the differentiated talent landscape you can acce
 
 [View Exploring Differentiated Talent Across SEA](https://edbsingapore.thinkific.com/courses/glints-exploring-differentiated-talent-across-sea)<br>
 <br>
-
-
-
 <br>
 <br>
 
-[Back to top](#how-to-grow-in-southeast-asia-from-singapore)<br>
+[Back to top](#grow-in-southeast-asia-from-singapore)<br>
 
 <hr>
 
