@@ -3,7 +3,7 @@ title: Find partners to grow your business in Southeast Asia
 permalink: /grow/find-partners/
 description: Find partners to grow your business in Southeast Asia
 ---
-# Find partners that can help you grow your business in Southeast Asia
+# Find partners to grow your business in Southeast Asia
 
 EDB Connections Concierge links you to a curated network of service providers who offer professional solutions for setting up businesses in Singapore. This includes service providers that can provide market entry advisory on Southeast Asia for your business. For any enquiry sent via Connections Concierge, you can expect a response within three working days.&nbsp;&nbsp;
 
