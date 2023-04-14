@@ -3,7 +3,7 @@ title: How others have expanded in Southeast Asia
 permalink: /grow/how-others-expanded/
 description: How others have expanded in Southeast Asia
 ---
-# Learn how others have expanded in Southeast Asia
+# How others have expanded in Southeast Asia
 
 Hear from&nbsp;other companies how they have expanded their businesses in Southeast Asia through Singapore, from entering new markets to navigating regulations in the region.<br>
 
@@ -34,8 +34,9 @@ Ripple, a blockchain-based digital payment network, shares on Singapore’s attr
 [View Ecosystem Enablers with Ripple](https://www.edb.gov.sg/en/business-insights/insights/growth-islands-ecosystem-enablers-with-ripple.html)<br>
 <br>
 <br>
+<br>
 
-[Back to top](#learn-how-others-have-expanded-in-southeast-asia)
+[Back to top](#how-others-have-expanded-in-southeast-asia)
 <br>
 <hr>
 
