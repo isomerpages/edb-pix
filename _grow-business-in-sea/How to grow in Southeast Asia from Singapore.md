@@ -43,7 +43,7 @@ In this video, EY will be sharing insights on how companies could leverage Singa
 
 <br>
 
-### 2. Establish integrated regional operations with Singapore as a control tower
+##### 2. Establish integrated regional operations with Singapore as a control tower
 You can tap on Singapore’s world-class business ecosystem to establish your regional headquarters, while leveraging cost-competitive manufacturing solutions in the proximate neighbourhood.<br>
 <br>
 
@@ -61,7 +61,7 @@ In this video, learn more about Nongsa Digital Park, an emerging digital cluster
 
 <br>
 
-### 3. Access talent in Southeast Asia from Singapore
+##### 3. Access talent in Southeast Asia from Singapore
 Half of Fortune 500 companies have established their regional headquarters in Singapore, leveraging the skilled workforce and talent in Southeast Asia.<br>
 <br>
 
