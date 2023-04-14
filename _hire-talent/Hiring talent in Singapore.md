@@ -14,7 +14,7 @@ description: Hiring talent in Singapore
 *   Support initiatives to develop talent
 <br>
 
-[View Guide to Hiring in Singapore]([https://www.edb.gov.sg/en/setting-up-in-singapore/business-guides/guide-to-hiring-in-singapore.html](https://www.edb.gov.sg/en/setting-up-in-singapore/business-guides/guide-to-hiring-in-singapore.html))
+[View Guide to Hiring in Singapore](https://www.edb.gov.sg/en/setting-up-in-singapore/business-guides/guide-to-hiring-in-singapore.html)
 <br>
 <br>
 
