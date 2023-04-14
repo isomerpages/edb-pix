@@ -77,6 +77,7 @@ To access a larger pool of candidates, employers in Singapore are strongly encou
 <br>
 <br>
 <br>
+<br>
 [Back to top](#applying-for-work-visas-in-singapore)
 <br>
 <hr>
