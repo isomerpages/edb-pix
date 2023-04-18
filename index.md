@@ -2,7 +2,7 @@
 layout: homepage
 title: Grow your business in Singapore
 description: This site is in pilot stage for limited use and testing.
-image: /images/edb-logo.svg
+image: /images/blankpng.png
 permalink: /
 notification: This site is in pilot stage for limited use and testing.
 sections:
