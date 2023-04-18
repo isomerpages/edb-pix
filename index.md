@@ -25,7 +25,7 @@ sections:
             url: /gov-support/
           - title: I can't find what I'm looking for
             url: /feedback/
-      background: /images/stb_47454_annualphotoshoot_gardens_v1_preview.jpg
+      background: /images/stb_47454_annualphotoshoot_gardens_v1.jpg
   - infobar:
       title: Can't find what you're looking for?
       description: This site is still in development and we are working to improve it
