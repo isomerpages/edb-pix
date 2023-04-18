@@ -5,9 +5,9 @@ description: Find partners to grow your business in Southeast Asia
 ---
 # Find partners to grow your business in Southeast Asia
 
-EDB Connections Concierge links you to a curated network of service providers who offer professional solutions for setting up businesses in Singapore. This includes service providers that can provide market entry advisory on Southeast Asia for your business. For any enquiry sent via Connections Concierge, you can expect a response within three working days.&nbsp;&nbsp;
+EDB Connections Concierge links you to a curated network of service providers who offer professional solutions for setting up businesses in Singapore. For any enquiry sent via Connections Concierge, you can expect a response within three working days. Find a service provider that can help grow your business in Southeast Asia.&nbsp;&nbsp;
 
-[Visit Connections Concierge](https://www.edb.gov.sg/connections-concierge/service-providers.html?tab=general-service-providers&amp;servicecategory=marketentryadvisory).&nbsp;&nbsp;
+For market entry advisory, click [here](https://www.edb.gov.sg/connections-concierge/service-providers.html?tab=general-service-providers&amp;servicecategory=marketentryadvisory).&nbsp;&nbsp;
 <br>
 <br>
 
