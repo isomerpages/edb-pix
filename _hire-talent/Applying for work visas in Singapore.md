@@ -16,7 +16,16 @@ All foreigners who intend to work in Singapore must have a valid work pass (comm
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | <b>For Who</b>     | Foreign professionals, managers and executives    | Top talent in business, arts and culture, sports, as well as academia and research    |High-earning Employment Pass holders or overseas foreign professionals    | Established tech entrepreneurs, leaders or technical experts     | Eligible foreign entrepreneurs who are keen to operate a business in Singapore that is venture-backed or possesses innovative technologies    |Skilled workers who meet the eligibility criteria    |
 | <b>Read more about eligibility and how to apply</b>     | [View Employment Pass](https://www.mom.gov.sg/passes-and-permits/employment-pass )    | [View Overseas networks &amp; Expertise Pass](https://www.mom.gov.sg/passes-and-permits/overseas-networks-expertise-pass)    |[View Personalised Employment Pass](https://www.mom.gov.sg/passes-and-permits/personalised-employment-pass)    | [View Tech.Pass](https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes/tech-pass.html)   |[View EntrePass](https://www.mom.gov.sg/passes-and-permits/entrepass) |[View S Pass](https://www.mom.gov.sg/passes-and-permits/s-pass) |
-|  |  |  |  |  |  |  |
+| 
+
+
+
+
+| <b>Work Pass</b> | <b>Employment Pass</b> | <b>S Pass</b> | <b>EntrePass</b> | <b>ONE Pass</b> | <b>Personalised Employment Pass</b> | <b>Tech.Pass</b> |
+| -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| <b>For Who</b>  | Foreign professionals, managers and executives  | Skilled workers who meet the eligibility criteria      | Eligible foreign entrepreneurs who are keen to operate a business in Singapore that is venture-backed or possesses innovative technologies       | Top talent in business, arts and culture, sports, as well as academia and research     | High-earning Employment Pass holders or overseas foreign professionals    | Established tech entrepreneurs, leaders or technical experts   |
+| <b>Read more about eligibility and how to apply</b>  | [View Employment Pass](https://www.mom.gov.sg/passes-and-permits/employment-pass )      | [View S Pass](https://www.mom.gov.sg/passes-and-permits/s-pass)   | [View EntrePass](https://www.mom.gov.sg/passes-and-permits/entrepass)   | [View Overseas networks &amp; Expertise Pass](https://www.mom.gov.sg/passes-and-permits/overseas-networks-expertise-pass)       | [View Personalised Employment Pass](https://www.mom.gov.sg/passes-and-permits/personalised-employment-pass)    | [View Tech.Pass](https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes/tech-pass.html)    |
+|
 
 <br>
 <br>
