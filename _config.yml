@@ -1,6 +1,6 @@
 title: Grow your business in Singapore
 url: https://www.edb.gov.sg
-favicon: /images/edb-logo.svg
+favicon: /images/blankpng.png
 colors:
   primary-color: "#132b66"
   secondary-color: "#4173a0"
@@ -51,8 +51,9 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d2lrlyjjc7op52.amplifyapp.com
 prod: https://master.d2lrlyjjc7op52.amplifyapp.com
-shareicon: /images/edb-logo.svg
+shareicon: ""
 is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""
