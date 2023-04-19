@@ -4,7 +4,7 @@ permalink: /case-studies/precision-engineering/
 description: "Case studies by industry: Precision engineering"
 third_nav_title: Case studies by industry
 ---
-# Precision Engineering
+# Precision engineering
 [Applied Materials](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/applied-materials.html)  
 [Centre for Assistive and Robotics Technologies (CHART)](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/centre-for-healthcare-assistive-and-robotics-technologies.html)  
 [HOPE Technik](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/hope-technik.html)  
