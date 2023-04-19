@@ -2,6 +2,7 @@ collections:
   company-case-studies:
     output: true
     order:
+      - Case Studies/Creative industries.md
       - Case Studies/Consumer business.md
       - Case Studies/Aerospace.md
       - Case Studies/.keep
