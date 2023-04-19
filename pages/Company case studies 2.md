@@ -57,36 +57,25 @@ Singapore is home to many of the world’s global companies across several indus
 
 
 
-| <b>Professional Services</b> | <b>Urban Solutions &amp; Sustainability</b>| Column 3 |
+| <b>Professional Services</b> | <b>Urban Solutions &amp; Sustainability</b>|  |
 | -------- | -------- | -------- |
-| [Clifford Chance](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/clifford-chance.html)   | Text     | Text     |
-| [Kantar](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/Kantar.html)   | Text     | Text     |
-| [McKinsey &amp; Company ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/mckinsey-company.html)    | Text     | Text     |
-| [PwC Singapore](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/pwc-singapore.html)     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
+| [Clifford Chance](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/clifford-chance.html)   | [3M Smart Urban Solutions Lab](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/3m-smart-urban-solutions-lab.html)  |   |
+| [Kantar](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/Kantar.html)   | [AECOM](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/aecom.html)   |     |
+| [McKinsey &amp; Company ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/mckinsey-company.html)    | [Asahi Glass Company](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/asahi-glass-company.html)   |     |
+| [PwC Singapore](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/pwc-singapore.html)     | [Atkins Acuity](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/atkins-acuity.html) |    |
+|     | [Bolloré Global Innovation Centre ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/bollore-global-innovation-centre.html)    |    |
+|    | [Memstar](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/memstar.html)    |     |
+|     | [Philips Lighting](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/philips-lighting.html)   |     |
+|     | [REC](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/rec.html)   |      |
+|      | [Singapore Power Group](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/singapore-power-group.html)    |     |
+|     | [Suez Water Technologies and Solutions](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/suez-water-technologies-and-solutions.html)     |      |
+|  | [Surbana Jurong](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/surbana-jurong.html)  |     |
+|  
 
 <br>
+<br>
+<br>
 
-
-[3M Smart Urban Solutions Lab](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/3m-smart-urban-solutions-lab.html)<br>
-[AECOM](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/aecom.html)<br>
-[Asahi Glass Company](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/asahi-glass-company.html)<br>
-[Atkins Acuity](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/atkins-acuity.html)<br>
-[Bolloré Global Innovation Centre ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/bollore-global-innovation-centre.html)<br>
-[Memstar](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/memstar.html)<br>
-[Philips Lighting](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/philips-lighting.html)<br>
-[REC](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/rec.html)<br>
-[Singapore Power Group](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/singapore-power-group.html)<br>
-[Suez Water Technologies and Solutions](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/suez-water-technologies-and-solutions.html)<br>
-[Surbana Jurong](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/surbana-jurong.html)<br>
-<br>
-<br>
-<br>
 [Back to top](#company-case-studies)
 <br>
 <hr>
