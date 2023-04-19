@@ -2,6 +2,7 @@ collections:
   company-case-studies:
     output: true
     order:
+      - Professional services.md
       - Precision engineering.md
       - Pharmaceuticals & biotechnology.md
       - Oil & gas equipment and services.md
