@@ -4,7 +4,7 @@ permalink: /case-studies/natural-resources/
 description: "Case studies by industry: Natural resources"
 third_nav_title: Case studies by industry
 ---
-# Natural Resources 
+# Natural resources 
 [BHP Billiton](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/bhp.html)  
 [Wilmar](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/wilmar.html)
 <br>
