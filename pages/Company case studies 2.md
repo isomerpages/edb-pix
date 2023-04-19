@@ -29,47 +29,31 @@ Singapore is home to many of the world’s global companies across several indus
 | | [Solvay](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/solvay.html)  |   |
 |
 
+<br>
+
+| <b>Logistics &amp; Supply Chain Management</b> | <b>Medical Technology</b> | <b>Natural Resources</b> |
+| -------- | -------- | -------- |
+| [DHL](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/dhl-l.html)  | [Becton Dickinson ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/becton-dickinson.html)  | [BHP Billiton ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/bhp.html)    |
+| [Henkel](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/henkel.html)   | [Medtronic](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/medtronic.html)   |[Wilmar](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/wilmar.html)    |
+| [Networked Trade Platform](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/ntp.html)    | [Smith &amp; Nephew](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/smith-and-nephew.html)    |    |
+| [PSA Corporation](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/psa-corporation.html)   | [Thermo Fisher Scientific ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/thermo-fisher-scientific.html)     |     |
+| [SATS](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/sats.html)   |     |   |
+|
+
+<br>
 
 
 
+| <b>Oil &amp; Gas Equipment and Services</b> | <b>Pharmaceuticals &amp; Biotechnology</b> | <b>Precision Engineering</b> |
+| -------- | -------- | -------- |
+| [Baker Hughes](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/baker-hughes.html)   | [Amgen Singapore Manufacturing ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/amgen-singapore-manufacturing.html)    | [Applied Materials](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/applied-materials.html)     |
+| [Halliburton](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/halliburton.html)     | [Chugai Pharmaceutical Co.](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/chugai-pharmaceutical-co.html)     | [Centre for Assistive and Robotics Technologies (CHART) ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/centre-for-healthcare-assistive-and-robotics-technologies.html)  |
+| [National Oilwell Varco ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/national-oilwell-varco.html)  | [GlaxoSmithKline](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/gsk.html)   | [HOPE Technik](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/hope-technik.html)   |
+| [Technip FMC](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/technipfmc.html)  | [Merck Sharpe &amp; Dohme (MSD) ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/merck-sharp-dohme.html)   | [Rohde &amp; Schwarz ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/rohde-and-schwarz.html)    |
+| [Schlumberger](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/schlumberger.html)    |    | [Singapore Centre for 3D Printing](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/singapore-centre-for-3d-printing-sc3dp.html)    |
+|
 
-
-<b>Logistics &amp; Supply Chain Management</b><br>
-[DHL](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/dhl-l.html)<br>
-[Henkel](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/henkel.html)<br>
-[Networked Trade Platform](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/ntp.html)<br>
-[PSA Corporation](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/psa-corporation.html)<br>
-[SATS](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/sats.html)<br>
-
-<b>Medical Technology</b><br>
-[Becton Dickinson ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/becton-dickinson.html)<br>
-[Medtronic](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/medtronic.html)<br>
-[Smith &amp; Nephew](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/smith-and-nephew.html)<br>
-[Thermo Fisher Scientific ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/thermo-fisher-scientific.html)<br>
-
-<b>Natural Resources</b><br>
-[BHP Billiton ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/bhp.html)<br>
-[Wilmar](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/wilmar.html)<br>
-
-<b>Oil &amp; Gas Equipment and Services</b><br>
-[Baker Hughes](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/baker-hughes.html)<br>
-[Halliburton](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/halliburton.html)<br>
-[National Oilwell Varco ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/national-oilwell-varco.html)<br>
-[Technip FMC](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/technipfmc.html)<br>
-[Schlumberger](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/schlumberger.html)<br>
-
-<b>Pharmaceuticals &amp; Biotechnology</b><br>
-[Amgen Singapore Manufacturing ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/amgen-singapore-manufacturing.html)<br>
-[Chugai Pharmaceutical Co.](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/chugai-pharmaceutical-co.html)<br>
-[GlaxoSmithKline](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/gsk.html)<br>
-[Merck Sharpe &amp; Dohme (MSD) ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/merck-sharp-dohme.html)<br>
-
-<b>Precision Engineering</b><br>
-[Applied Materials](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/applied-materials.html)<br>
-[Centre for Assistive and Robotics Technologies (CHART) ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/centre-for-healthcare-assistive-and-robotics-technologies.html)<br>
-[HOPE Technik](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/hope-technik.html)<br>
-[Rohde &amp; Schwarz ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/rohde-and-schwarz.html)<br>
-[Singapore Centre for 3D Printing](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/singapore-centre-for-3d-printing-sc3dp.html)<br>
+<br>
 
 <b>Professional Services</b><br>
 [Clifford Chance](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/clifford-chance.html)<br>
