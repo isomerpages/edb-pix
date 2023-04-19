@@ -2,6 +2,7 @@ collections:
   company-case-studies:
     output: true
     order:
+      - Logistics & supply chain management.md
       - Information & communications technology.md
       - "Company case studies: how others have done it.md"
       - Aerospace.md
