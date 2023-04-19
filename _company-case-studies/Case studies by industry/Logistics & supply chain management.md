@@ -4,7 +4,7 @@ permalink: /case-studies/logistics-and-supply-chain-management/
 description: "Case studies by industry: Logistics &amp; supply chain management"
 third_nav_title: Case studies by industry
 ---
-# Logistics &amp; Supply Chain Management
+# Logistics &amp; supply chain management
 
 [DHL](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/dhl-l.html)  
 [Henkel](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/henkel.html)  
