@@ -4,7 +4,7 @@ permalink: /case-studies/professional-services/
 description: "Case studies by industry: Professional services"
 third_nav_title: Case studies by industry
 ---
-# Professional Services
+# Professional services
 [Clifford Chance](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/clifford-chance.html)  
 [Kantar](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/Kantar.html)  
 [McKinsey &amp; Company](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/mckinsey-company.html)  
