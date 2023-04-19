@@ -4,7 +4,7 @@ permalink: /company-case-studies/information/
 description: ""
 third_nav_title: Case studies by industry
 ---
-# Information &amp; Communications Technology
+# Information &amp; communications technology
 [Google](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/google.html)  
 [Grab](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/grab.html)  
 [SAP](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/sap.html)  
