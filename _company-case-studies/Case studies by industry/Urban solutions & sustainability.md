@@ -4,7 +4,7 @@ permalink: /case-studies/urban-solutions-and-sustainability/
 description: "Case studies by industry: Urban solutions &amp; sustainability"
 third_nav_title: Case studies by industry
 ---
-# Urban Solutions &amp; Sustainability 
+# Urban solutions &amp; sustainability 
 [3M Smart Urban Solutions Lab](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/3m-smart-urban-solutions-lab.html)  
 [AECOM](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/aecom.html)  
 [Asahi Glass Company](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/asahi-glass-company.html)  
