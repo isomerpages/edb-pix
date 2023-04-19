@@ -2,6 +2,7 @@ collections:
   company-case-studies:
     output: true
     order:
+      - Case Studies/Urban solutions & sustainability.md
       - Case Studies/Professional services.md
       - Case Studies/Precision engineering.md
       - Case Studies/Pharmaceuticals & biotechnology.md
