@@ -9,7 +9,7 @@ Singapore is home to many of the world’s global companies across several indus
 
 [Hover your mouse here to see the tooltip, this is a clickable link](https://www.edb.gov.sg/ "This is a tooltip :)")
 
-[hover text](# "this one is not a link, but has a tooltip, need to figure out how to style it")
+[hover text only, no link out](# "this one is not a link, but has a tooltip, need to figure out how to style it")
 
 
 <br>
