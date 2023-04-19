@@ -9,13 +9,6 @@ Singapore is home to many of the world’s global companies across several indus
 <br>
 
 
-
-<b>Consumer Business</b><br>
-[Coca-Cola](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/coca-cola.html)<br>
-[Givaudan](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/givaudan.html)<br>
-[Nestle](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/nestle.html)<br>
-[Procter &amp; Gamble (P&amp;G) ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/procter-and-gamble-cb.html)<br>
-
 <b>Creative Industries</b><br>
 [Dentsu Aegis](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/dentsu-aegis-ci.html)<br>
 [Lucasfilm Singapore](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/lucasfilm-singapore.html)<br>
