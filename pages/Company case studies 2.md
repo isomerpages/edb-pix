@@ -30,6 +30,7 @@ Singapore is home to many of the world’s global companies across several indus
 |
 
 <br>
+<br>
 
 | <b>Logistics &amp; Supply Chain Management</b> | <b>Medical Technology</b> | <b>Natural Resources</b> |
 | -------- | -------- | -------- |
@@ -41,7 +42,7 @@ Singapore is home to many of the world’s global companies across several indus
 |
 
 <br>
-
+<br>
 
 
 | <b>Oil &amp; Gas Equipment and Services</b> | <b>Pharmaceuticals &amp; Biotechnology</b> | <b>Precision Engineering</b> |
@@ -54,8 +55,7 @@ Singapore is home to many of the world’s global companies across several indus
 |
 
 <br>
-
-
+<br>
 
 | <b>Professional Services</b> | <b>Urban Solutions &amp; Sustainability</b>|  |
 | -------- | -------- | -------- |
