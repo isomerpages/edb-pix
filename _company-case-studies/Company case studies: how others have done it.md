@@ -9,10 +9,6 @@ Singapore is home to many of the world’s global companies across several indus
 <br>
 
 
-<b>Creative Industries</b><br>
-[Dentsu Aegis](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/dentsu-aegis-ci.html)<br>
-[Lucasfilm Singapore](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/lucasfilm-singapore.html)<br>
-[LVMH](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/lvmh.html)<br>
 
 <b>Electronic</b><br>
 [Infineon Technologies ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/infineon-technologies.html)<br>
