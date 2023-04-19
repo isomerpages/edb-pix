@@ -2,6 +2,7 @@ collections:
   company-case-studies:
     output: true
     order:
+      - Case Studies/Medical technology.md
       - Case Studies/Logistics & supply chain management.md
       - Case Studies/Information & communications technology.md
       - Case Studies/Energy & chemicals.md
