@@ -2,4 +2,5 @@ collections:
   company-case-studies:
     output: true
     order:
+      - Aerospace.md
       - "Company case studies: how others have done it.md"
