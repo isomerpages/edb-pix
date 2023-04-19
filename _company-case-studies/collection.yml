@@ -2,19 +2,19 @@ collections:
   company-case-studies:
     output: true
     order:
-      - Case Studies/Urban solutions & sustainability.md
-      - Case Studies/Professional services.md
-      - Case Studies/Precision engineering.md
-      - Case Studies/Pharmaceuticals & biotechnology.md
-      - Case Studies/Oil & gas equipment and services.md
-      - Case Studies/Natural resources.md
-      - Case Studies/Medical technology.md
-      - Case Studies/Logistics & supply chain management.md
-      - Case Studies/Information & communications technology.md
-      - Case Studies/Energy & chemicals.md
-      - Case Studies/Electronic.md
-      - Case Studies/Creative industries.md
-      - Case Studies/Consumer business.md
-      - Case Studies/Aerospace.md
       - Case Studies/.keep
+      - Case Studies/Aerospace.md
+      - Case Studies/Consumer business.md
+      - Case Studies/Creative industries.md
+      - Case Studies/Electronic.md
+      - Case Studies/Energy & chemicals.md
+      - Case Studies/Information & communications technology.md
+      - Case Studies/Logistics & supply chain management.md
+      - Case Studies/Medical technology.md
+      - Case Studies/Natural resources.md
+      - Case Studies/Oil & gas equipment and services.md
+      - Case Studies/Pharmaceuticals & biotechnology.md
+      - Case Studies/Precision engineering.md
+      - Case Studies/Professional services.md
+      - Case Studies/Urban solutions & sustainability.md
       - "Company case studies: how others have done it.md"
