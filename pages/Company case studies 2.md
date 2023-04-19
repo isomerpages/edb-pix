@@ -55,13 +55,24 @@ Singapore is home to many of the world’s global companies across several indus
 
 <br>
 
-<b>Professional Services</b><br>
-[Clifford Chance](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/clifford-chance.html)<br>
-[Kantar](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/Kantar.html)<br>
-[McKinsey &amp; Company ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/mckinsey-company.html)<br>
-[PwC Singapore](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/pwc-singapore.html)<br>
 
-<b>Urban Solutions &amp; Sustainability</b><br>
+
+| <b>Professional Services</b> | <b>Urban Solutions &amp; Sustainability</b>| Column 3 |
+| -------- | -------- | -------- |
+| [Clifford Chance](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/clifford-chance.html)   | Text     | Text     |
+| [Kantar](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/Kantar.html)   | Text     | Text     |
+| [McKinsey &amp; Company ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/mckinsey-company.html)    | Text     | Text     |
+| [PwC Singapore](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/pwc-singapore.html)     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+
+<br>
+
+
 [3M Smart Urban Solutions Lab](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/3m-smart-urban-solutions-lab.html)<br>
 [AECOM](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/aecom.html)<br>
 [Asahi Glass Company](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/asahi-glass-company.html)<br>
