@@ -4,7 +4,7 @@ permalink: /case-studies/consumer-business/
 description: "Case studies by industry: Consumer business"
 third_nav_title: Case studies by industry
 ---
-# Consumer Business
+# Consumer business
 [Coca-Cola](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/coca-cola.html)<br>
 [Givaudan](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/givaudan.html)<br>
 [Nestle](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/nestle.html)<br>
