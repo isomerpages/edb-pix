@@ -1,0 +1,4 @@
+collections:
+  company-case-studies:
+    output: true
+    order: []
