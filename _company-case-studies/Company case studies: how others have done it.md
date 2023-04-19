@@ -9,12 +9,6 @@ Singapore is home to many of the world’s global companies across several indus
 <br>
 
 
-
-<b>Electronic</b><br>
-[Infineon Technologies ](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/infineon-technologies.html)<br>
-[MediaTek](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/mediatek.html)<br>
-[Micron Technology](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/micron-technology.html)<br>
-
 <b>Energy &amp; Chemicals</b><br>
 [3M](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/3m.html)<br>
 [Chevron Oronite](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/chevron-oronite.html)<br>
