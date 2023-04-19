@@ -1,4 +1,5 @@
 collections:
   company-case-studies:
     output: true
-    order: []
+    order:
+      - "Company case studies: how others have done it.md"
