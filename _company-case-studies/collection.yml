@@ -2,6 +2,7 @@ collections:
   company-case-studies:
     output: true
     order:
+      - Case Studies/Energy & chemicals.md
       - Case Studies/Electronic.md
       - Case Studies/Creative industries.md
       - Case Studies/Consumer business.md
