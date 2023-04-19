@@ -3,7 +3,7 @@ title: Find partners for recruitment and HR services
 permalink: /hire/service-providers/
 description: Find recruitment and HR service providers
 ---
-# Find partners for recruitment and HR 
+# Find partners for recruitment and HR services 
 <br>
 <br>
 EDB Connections Concierge links you to a curated network of service providers who offer professional solutions for setting up businesses in Singapore. For any enquiry sent via Connections Concierge, you can expect a response within three working days. Find a service provider that can help with your recruitment and talent needs.
