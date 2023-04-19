@@ -2,5 +2,6 @@ collections:
   company-case-studies:
     output: true
     order:
+      - Consumer business.md
       - Aerospace.md
       - "Company case studies: how others have done it.md"
