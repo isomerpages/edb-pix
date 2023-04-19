@@ -7,7 +7,7 @@ description: ""
 <br>
 Singapore is home to many of the world’s global companies across several industries. Read on to learn more about how they have established activities and operations in Singapore for their business in Asia and beyond.<br>
 
-Hover your mouse here to see the tooltip](https://staging.d2lrlyjjc7op52.amplifyapp.com/company-case-studies/main/ "This is a tooltip :)")
+[Hover your mouse here to see the tooltip](https://staging.d2lrlyjjc7op52.amplifyapp.com/company-case-studies/main/ "This is a tooltip :)")
 <br>
 <br>
 <br>
