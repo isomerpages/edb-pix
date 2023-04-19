@@ -2,7 +2,7 @@ collections:
   company-case-studies:
     output: true
     order:
-      - eleaflek.md
+      - Energy & chemicals.md
       - Electronic.md
       - Creative industries.md
       - Consumer business.md
