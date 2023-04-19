@@ -4,7 +4,7 @@ permalink: /case-studies/medical-technology/
 description: "Case studies by industry: Medical technology"
 third_nav_title: Case studies by industry
 ---
-# Medical Technology 
+# Medical technology 
 [Becton Dickinson](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/becton-dickinson.html)  
 [Medtronic](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/medtronic.html)  
 [Smith &amp; Nephew](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/smith-and-nephew.html)  
