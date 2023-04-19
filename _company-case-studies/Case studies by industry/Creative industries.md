@@ -4,7 +4,7 @@ permalink: /case-studies/creative-industries/
 description: "Case studies by industry: Creative industries"
 third_nav_title: Case studies by industry
 ---
-# Creative Industries
+# Creative industries
 [Dentsu Aegis](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/dentsu-aegis-ci.html)<br>
 [Lucasfilm Singapore](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/lucasfilm-singapore.html)<br>
 [LVMH](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/lvmh.html)<br>
