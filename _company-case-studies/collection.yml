@@ -2,6 +2,7 @@ collections:
   company-case-studies:
     output: true
     order:
+      - "Company case studies: how others have done it.md"
       - Case Studies/.keep
       - Case Studies/Aerospace.md
       - Case Studies/Consumer business.md
@@ -17,4 +18,3 @@ collections:
       - Case Studies/Precision engineering.md
       - Case Studies/Professional services.md
       - Case Studies/Urban solutions & sustainability.md
-      - "Company case studies: how others have done it.md"
