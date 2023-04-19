@@ -4,7 +4,7 @@ permalink: /company-case-studies/pharmaceuticals/
 description: ""
 third_nav_title: Case studies by industry
 ---
-# Pharmaceuticals &amp; Biotechnology
+# Pharmaceuticals &amp; biotechnology
 [Amgen Singapore Manufacturing](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/amgen-singapore-manufacturing.html)  
 [Chugai Pharmaceutical Co.](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/chugai-pharmaceutical-co.html)  
 [GlaxoSmithKline](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/gsk.html)  
