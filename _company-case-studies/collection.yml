@@ -2,6 +2,7 @@ collections:
   company-case-studies:
     output: true
     order:
+      - Case Studies/Oil & gas equipment and services.md
       - Case Studies/Natural resources.md
       - Case Studies/Medical technology.md
       - Case Studies/Logistics & supply chain management.md
