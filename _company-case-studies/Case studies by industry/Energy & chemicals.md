@@ -4,7 +4,7 @@ permalink: /case-studies/energy-and-chemicals/
 description: "Case studies by industry: Energy &amp; chemicals"
 third_nav_title: Case studies by industry
 ---
-# Energy &amp; Chemicals
+# Energy &amp; chemicals
 [3M](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/3m.html)<br>
 [Chevron Oronite](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/chevron-oronite.html)<br>
 [Evonik](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/evonik.html)<br>
