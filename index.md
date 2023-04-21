@@ -18,7 +18,7 @@ sections:
           - title: Hiring talent in Singapore
             url: /hire-talent/hiring-talent-in-singapore/
           - title: Growing my business in Southeast Asia from Singapore
-            url: /grow/grow-in-sea/
+            url: /grow-business-in-sea/grow-in-sea-from-singapore/
           - title: "Company case studies: how others have done it"
             url: /case-studies/main/
           - title: Government assistance and schemes
