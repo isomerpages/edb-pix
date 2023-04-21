@@ -6,7 +6,7 @@ third_nav_title: Case studies by industry
 ---
 # Energy &amp; chemicals
 Read more in the case studies below to find out how global companies in the energy &amp; chemicals industry have established activities and operations in Singapore for their business in Asia and beyond. <br>
-
+<br>
 [3M](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/3m.html)<br>
 [Chevron Oronite](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/chevron-oronite.html)<br>
 [Evonik](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/evonik.html)<br>
