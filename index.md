@@ -11,9 +11,9 @@ sections:
       subtitle: Find curated information and links to resources to acquaint you with
         the basics of doing business in Singapore. Let us help you get started.
       dropdown:
-        title: Select a topic
+        title: I want to learn about
         options:
-          - title: Set up my business in Singapore
+          - title: Setting up my business in Singapore
             url: /set-up/
           - title: Hire talent in Singapore
             url: /hire/hiring-talent/
