@@ -5,7 +5,7 @@ description: "Case studies by industry: Consumer business"
 third_nav_title: Case studies by industry
 ---
 # Consumer business
-Read more in the case studies below to find out how global companies in the consumer business industry have established activities and operations in Singapore for their business in Asia and beyond.
+Read more in the case studies below to find out how global companies in the consumer business industry have established activities and operations in Singapore for their business in Asia and beyond. <br>
 
 [Coca-Cola](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/coca-cola.html)<br>
 [Givaudan](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/givaudan.html)<br>
