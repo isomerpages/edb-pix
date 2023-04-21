@@ -2,7 +2,6 @@ collections:
   company-case-studies:
     output: true
     order:
-      - "Company case studies: how others have done it.md"
       - Case studies by industry/.keep
       - Case studies by industry/Aerospace.md
       - Case studies by industry/Consumer business.md
