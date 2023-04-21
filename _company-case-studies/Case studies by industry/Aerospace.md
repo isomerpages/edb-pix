@@ -5,7 +5,7 @@ description: "Case studies by industry: Aerospace"
 third_nav_title: Case studies by industry
 ---
 # Aerospace
-Read more in the case studies below to find out how global companies in the aerospace industry have established activities and operations in Singapore for their business in Asia and beyond. 
+Read more in the case studies below to find out how global companies in the aerospace industry have established activities and operations in Singapore for their business in Asia and beyond. <br>
 
 [Airbus](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/airbus.html)<br>
 [Rolls Royce](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/rolls-royce.html)<br>
