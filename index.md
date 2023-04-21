@@ -20,9 +20,9 @@ sections:
           - title: Growing my business in Southeast Asia from Singapore
             url: /grow-business-in-sea/grow-in-sea-from-singapore/
           - title: "Company case studies: how others have done it"
-            url: /case-studies/main/
+            url: /company-case-studies/
           - title: Government assistance and schemes
-            url: /gov-support/
+            url: /government-assistance/
           - title: I can't find what I'm looking for
             url: /feedback/
       background: /images/stb_47454_annualphotoshoot_gardens_v1.jpg
