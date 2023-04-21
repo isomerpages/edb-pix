@@ -1,10 +1,12 @@
 ---
-title: Urban solutions &amp; sustainability
+title: Urban solutions & sustainability
 permalink: /case-studies/urban-solutions-and-sustainability/
-description: "Case studies by industry: Urban solutions &amp; sustainability"
+description: "Case studies by industry: Urban solutions & sustainability"
 third_nav_title: Case studies by industry
 ---
 # Urban solutions &amp; sustainability 
+Read more in the case studies below to find out how global companies in the urban solutions &amp; sustainability industry have established activities and operations in Singapore for their business in Asia and beyond. <br>
+
 [3M Smart Urban Solutions Lab](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/3m-smart-urban-solutions-lab.html)  
 [AECOM](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/aecom.html)  
 [Asahi Glass Company](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/asahi-glass-company.html)  
