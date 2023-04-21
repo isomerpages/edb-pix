@@ -5,6 +5,8 @@ description: "Case studies by industry: Precision engineering"
 third_nav_title: Case studies by industry
 ---
 # Precision engineering
+Read more in the case studies below to find out how global companies in the precision engineering industry have established activities and operations in Singapore for their business in Asia and beyond. <br>
+
 [Applied Materials](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/applied-materials.html)  
 [Centre for Assistive and Robotics Technologies (CHART)](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/centre-for-healthcare-assistive-and-robotics-technologies.html)  
 [HOPE Technik](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/hope-technik.html)  
