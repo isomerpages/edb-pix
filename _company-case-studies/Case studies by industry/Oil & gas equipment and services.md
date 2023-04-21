@@ -6,7 +6,7 @@ third_nav_title: Case studies by industry
 ---
 # Oil &amp; gas equipment and services
 Read more in the case studies below to find out how global companies in the oil &amp; gas equipment and services industry have established activities and operations in Singapore for their business in Asia and beyond. <br>
-
+<br>
 [Baker Hughes](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/baker-hughes.html)  
 [Halliburton](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/halliburton.html)  
 [National Oilwell Varco](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/national-oilwell-varco.html)  
