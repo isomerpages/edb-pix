@@ -1,10 +1,12 @@
 ---
-title: Logistics &amp; supply chain management
+title: Logistics & supply chain management
 permalink: /case-studies/logistics-and-supply-chain-management/
-description: "Case studies by industry: Logistics &amp; supply chain management"
+description: "Case studies by industry: Logistics & supply chain management"
 third_nav_title: Case studies by industry
 ---
 # Logistics &amp; supply chain management
+
+Read more in the case studies below to find out how global companies in the logistics and supply chain management industry have established activities and operations in Singapore for their business in Asia and beyond. <br>
 
 [DHL](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/dhl-l.html)  
 [Henkel](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/henkel.html)  
