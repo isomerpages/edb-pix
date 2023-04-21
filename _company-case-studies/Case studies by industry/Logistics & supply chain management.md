@@ -6,7 +6,7 @@ third_nav_title: Case studies by industry
 ---
 # Logistics &amp; supply chain management
 
-Read more in the case studies below to find out how global companies in the logistics and supply chain management industry have established activities and operations in Singapore for their business in Asia and beyond. <br>
+Read more in the case studies below to find out how global companies in the logistics &amp; supply chain management industry have established activities and operations in Singapore for their business in Asia and beyond. <br>
 <br>
 [DHL](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/dhl-l.html)  
 [Henkel](https://www.edb.gov.sg/content/edb/en/our-industries/company-highlights/henkel.html)  
