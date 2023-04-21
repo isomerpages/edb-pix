@@ -15,9 +15,9 @@ sections:
         options:
           - title: Setting up my business in Singapore
             url: /set-up/
-          - title: Hire talent in Singapore
+          - title: Hiring talent in Singapore
             url: /hire/hiring-talent/
-          - title: Grow my business in Southeast Asia from Singapore
+          - title: Growing my business in Southeast Asia from Singapore
             url: /grow/grow-in-sea/
           - title: "Company case studies: how others have done it"
             url: /case-studies/main/
