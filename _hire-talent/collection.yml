@@ -1,0 +1,8 @@
+collections:
+  hire-talent:
+    output: true
+    order:
+      - Hiring talent in Singapore.md
+      - Applying for work visas in Singapore.md
+      - Living and working in Singapore.md
+      - Find partners for recruitment and HR services.md
