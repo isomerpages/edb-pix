@@ -57,7 +57,7 @@ In this video, learn how you can establish your manufacturing operations in the 
 <b>Using Nongsa as Your Digital Bridge to SEA</b><br>
 In this video, learn more about Nongsa Digital Park, an emerging digital cluster in Batam, and how it offers convenient and cost-efficient tech solutions for companies expanding in Southeast Asia.<br>
 
-[View Using Nongsa as Your DIgital Bridge to SEA](https://edbsingapore.thinkific.com/courses/nongsa-your-digital-bridge-to-sea)<br>
+[View Using Nongsa as Your Digital Bridge to SEA](https://edbsingapore.thinkific.com/courses/nongsa-your-digital-bridge-to-sea)<br>
 
 <br>
 
