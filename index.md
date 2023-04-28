@@ -20,7 +20,7 @@ sections:
           - title: Growing my business in Southeast Asia from Singapore
             url: /grow-business-in-sea/grow-in-sea-from-singapore/
           - title: "Company case studies: how others have done it"
-            url: /company-case-studies/
+            url: /company-case-studies/aerospace/
           - title: Government assistance and schemes
             url: /government-assistance/
           - title: I can't find what I'm looking for
