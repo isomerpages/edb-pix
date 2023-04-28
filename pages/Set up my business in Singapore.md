@@ -33,7 +33,7 @@ A representative office can be registered in Singapore as a temporary arrangemen
 [Legal Services Regulatory Authority](https://eservices.mlaw.gov.sg/LSRA/lsra-home)
 
 <b>All other industries (Manufacturing, international trading, wholesale, trade and trade-related business sectors)</b><br>
-[Enterprise Singapore](https://www.enterprisesg.gov.sg/e-services/representative-office/representative-office)
+[Enterprise Singapore](https://www.enterprisesg.gov.sg/about-us/contact-us/representative-office)
 
 ### 3. Address key business needs
 
@@ -52,7 +52,7 @@ To better facilitate and speed up the discussion with Singapore Government, it i
 
 Foreign businesses with plans to grow through conducting high value and substantive activities in Singapore may be eligible to apply for various incentive programmes.<br>
 	
-[Learn More](https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes.html)
+[Learn more about incentives and schemes](https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes.html)
 
 ### 5. Visas &amp; Immigration
 
@@ -64,7 +64,7 @@ The EntrePass is designed to facilitate the entry and stay of entrepreneurs who 
 <b>Global Investor Programme (GIP) </b><br>
 The GlP accords PR status to investors with a substantial business track record who intend to drive the growth of their investments from Singapore. To qualify for the GIP, the applicant must either (a) invest at least S$2.5 million in a new business entity or in the expansion of an existing business operation in Singapore, or (b) invest at least S$2.5 million in a GIP fund that invests in Singapore-based companies, or (c) invest at least S$2.5 million in a new or existing Singapore-based single family office having Assets-Under-Management (AUM\*) of at least S$200 million.&nbsp;
 
-[Learn More](https://www.edb.gov.sg/en/how-we-help/global-investor-programme.html)
+[Learn more about GIP](https://www.edb.gov.sg/en/how-we-help/global-investor-programme.html)
 	
 <br>
 <br>
