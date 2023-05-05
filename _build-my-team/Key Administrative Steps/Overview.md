@@ -26,31 +26,3 @@ In addition to the three steps above:
 
 
 
-
-
-
-For companies relocating foreign employees to Singapore
--------------------------------------------------------
-
-In addition to performing the key administrative steps detailed in the previous section, you are required to take note of the following additional requirements depending on the type of passes that your employees will be on
-
-### For Employment Pass and S Pass - Get access to the myMOM Portal
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **What is myMOM Portal:** myMOM Portal allows business employers to centrally access eServices, workforce information and perform transactions on the Ministry of Manpower website with one login.
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Why is this important:** Access to myMOM Portal is required to apply for Employment Pass and S Pass for your employees. It is also the portal to use to renew, issue, or cancel work passes for your employees.
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Things to note:** To access myMOM Portal, you will need a Corppass account and [allow access of myMOMPortal to the company representative performing the application](https://www.mom.gov.sg/eservices/services/mymom-portal#what-do-i-need-before-i-can-use-mymom-portal).
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **How to apply:** You can apply for Employment Pass and S Pass via myMOM Portal [here](https://www.mom.gov.sg/eservices/services/mymom-portal)
-
-### For all other passes (ONE Pass, Personalised Employment Pass, EntrePass and Tech.Pass)
-
-Unlike Employment Pass or S Pass, individuals seeking to relocate to Singapore via ONE Pass, Personalised Employment Pass, EntrePass, or Tech.Pass can apply for these passes directly via the respective pass application systems.
-
-
-For more detailed information about the work pass framework and the different work passes in Singapore, [visit the Ministry of Manpower website](https://www.mom.gov.sg/passes-and-permits).
-
-
-
-Tooltip: Could be a citizen, permanent resident, EntrePass holder, or an Employment Pass holder in Singapore. However for someone holding an EntrePass or Employment Pass to act as local Director of a company, the said pass must be sponsored by the company of which he/she intends to act as local director.
