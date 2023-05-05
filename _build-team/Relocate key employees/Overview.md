@@ -8,7 +8,7 @@ third_nav_title: Relocate key employees
 
 There are several key considerations companies have to address when relocating key employees to Singapore:
 
-* Which work visas should my employees apply for in order to work in Singapore?
+* [Which work visas should my employees apply for in order to work in Singapore?](/build-my-team/relocate-key-employees/work-visas/)
 
 * What are the steps to take when applying for a work visa in Singapore? How long does the application process usually take?
 
