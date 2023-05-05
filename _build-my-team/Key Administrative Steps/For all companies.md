@@ -48,3 +48,14 @@ For your convenience, you or the registered filing agent can apply for a CSN dur
 **Things to note:** <br>Foreign registered entities (not yet registered with ACRA) may still appoint a foreigner employee based outside of Singapore to register for a Corppass Admin account. However, not all e-services are made available to Foreign ID Corppass users.
 
 **How to apply:** <br>For ease and convenience, many foreign companies choose to engage the help of [corporate secretarial services](https://www.edb.gov.sg/connections-concierge/service-providers.html?tab=general-service-providers&amp;servicecategory=incorporation&amp;corporatesecretarialsolutions) to manage the registration and setting up of a Corppass account, amongst other aaminstrative matters. Alternatively, you may find out more about Corppass and registration [here](https://www.corppass.gov.sg/cpauth/login/homepage?URL=%2F&amp;TAM_OP=login).
+
+<br>
+<br>
+<br>
+
+[Back to top](#For-all-companies)<br><br>
+
+<hr>
+
+##### Did you find what you need?
+[Send us your feedback](https://form.gov.sg/642693623cb98f001239be0d)
