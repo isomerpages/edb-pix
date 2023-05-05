@@ -12,7 +12,6 @@ Singapore has been consistently ranked best place for expats to live and work in
 &nbsp;For those planning to live and work in Singapore, they would want to better understand:
 
 * What are my options for Housing in Singapore?
-
 * What are the Education options for my family?
 * What are some Communities that my family and I can join?
 * Who are some service providers that can help with my relocation to Singapore?
@@ -65,13 +64,13 @@ If you prefer to learn about living and working in Singapore through meeting peo
 
 #### Singapore Global Network
 
-The [Singapore Global Network (SGN)](https://singaporeglobalnetwork.gov.sg) is a global community of over 104,000 members, aimed at creating meaningful connections between its members which comprise of Singaporeans, people who have worked or lived in Singapore or those simply interested in exploring opportunities in Singapore.
+The <a target="_blank" href="https://singaporeglobalnetwork.gov.sg">Singapore Global Network (SGN)</a> is a global community of over 104,000 members, aimed at creating meaningful connections between its members which comprise of Singaporeans, people who have worked or lived in Singapore or those simply interested in exploring opportunities in Singapore.
 
 Joining SGN is a good starting point for those looking to connect with Singaporeans and other who have lived and worked in Singapore.
 
 #### StartupSG – Singapore’s Startup Community
 
-[StartupSG](https://www.startupsg.gov.sg/) is a network of over 4,500 start-ups, over 500 investors and over 200 incubators &amp; accelerators in Singapore. The network offers an [open directory](https://www.startupsg.gov.sg/directory/startups/) you can access to connect directly with companies in the community, a recommendation engine which can suggest potential business partners and a platform for startups to directly upload their pitches to investors and other partners.
+<a target="_blank" href="https://www.startupsg.gov.sg/">StartupSG</a>is a network of over 4,500 start-ups, over 500 investors and over 200 incubators &amp; accelerators in Singapore. The network offers an <a target="_blank" href="https://www.startupsg.gov.sg/directory/startups/">open directory</a> you can access to connect directly with companies in the community, a recommendation engine which can suggest potential business partners and a platform for startups to directly upload their pitches to investors and other partners.
 
 #### Communities on Social Media
 
