@@ -2,12 +2,12 @@ collections:
   build-my-team:
     output: true
     order:
-      - Employment Practices in SG/Overview.md
-      - Employment Practices in SG/Get to know the relevant Government bodies.md
-      - Employment Practices in SG/Understand Employment Practices in
-        Singapore.md
-      - Employment Practices in SG/.keep
       - Overview.md
       - Hire Local Talent.md
       - Relocate Key Employees.md
       - Key administrative steps before hiring workers.md
+      - Employment Practices in SG/.keep
+      - Employment Practices in SG/Overview.md
+      - Employment Practices in SG/Get to know the relevant Government bodies.md
+      - Employment Practices in SG/Understand Employment Practices in
+        Singapore.md
