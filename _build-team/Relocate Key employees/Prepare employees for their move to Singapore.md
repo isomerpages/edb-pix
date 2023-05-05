@@ -115,6 +115,6 @@ Find a service provider that can help with your relocation needs <a target="_bla
 
 [\[1\]](#_ftnref1) [https://www.expat.hsbc.com/expat-explorer/league-table/](https://www.expat.hsbc.com/expat-explorer/league-table/)
 
-[\[2\]](#_ftnref2) https://www.mercer.com.sg/newsroom/2019-quality-of-living-survey.html
+[\[2\]](#_ftnref2) [https://www.mercer.com.sg/newsroom/2019-quality-of-living-survey.html](https://www.mercer.com.sg/newsroom/2019-quality-of-living-survey.html)
 
 * * *
