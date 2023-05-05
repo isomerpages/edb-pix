@@ -4,12 +4,12 @@ permalink: /build-my-team/relocate-key-employees/prepare-employees-for-move-to-s
 description: Prepare employees for their move to Singapore
 third_nav_title: Relocate key employees
 ---
- # Prepare Key Employees for their move to Singapore
+# Prepare Key Employees for their move to Singapore
 
 
 Singapore has been consistently ranked best place for expats to live and work in Asia [\[1\]](#_ftn1) and the safest country with the highest quality of living in Asia. [\[2\]](#_ftn2)
 
- For those planning to live and work in Singapore, they would want to better understand:
+&nbsp;For those planning to live and work in Singapore, they would want to better understand:
 
 * What are my options for Housing in Singapore?
 
@@ -49,9 +49,9 @@ You can find detailed information on the [admissions process for international s
 
 There are three home-grown international schools that offer education at the secondary and junior college levels not unlike Singapore mainstream schools.
 
-[ACS International](http://www.acsinternational.com.sg/) 
+[ACS International](http://www.acsinternational.com.sg/)&nbsp;
 
-[Hwa Chong International](http://www.hcis.edu.sg/) 
+[Hwa Chong International](http://www.hcis.edu.sg/)&nbsp;
 
 [SJI International](http://www.sji-international.com.sg/)
 
@@ -71,17 +71,24 @@ Joining SGN is a good starting point for those looking to connect with Singapore
 
 #### StartupSG – Singapore’s Startup Community
 
-[StartupSG](https://www.startupsg.gov.sg/) is a network of over 4,500 start-ups, over 500 investors and over 200 incubators & accelerators in Singapore. The network offers an [open directory](https://www.startupsg.gov.sg/directory/startups/) you can access to connect directly with companies in the community, a recommendation engine which can suggest potential business partners and a platform for startups to directly upload their pitches to investors and other partners.
+[StartupSG](https://www.startupsg.gov.sg/) is a network of over 4,500 start-ups, over 500 investors and over 200 incubators &amp; accelerators in Singapore. The network offers an [open directory](https://www.startupsg.gov.sg/directory/startups/) you can access to connect directly with companies in the community, a recommendation engine which can suggest potential business partners and a platform for startups to directly upload their pitches to investors and other partners.
 
 #### Communities on Social Media
 
-There are also several independently formed communities on social media that you can join to connect with and seek advice from other expatriates living in Singapore:
+There are also several independently formed communities on Facebook that you can join to connect with and seek advice from other expatriates living in Singapore:
+
+* <a target="_blank" href="">Singapore Expat </a>
+* <a target="_blank" href="">Expats in Singapore </a>
+* <a target="_blank" href="">American Expats in Singapore</a>
+* <a target="_blank" href="">Spanish Expats in Singapore </a>
+* <a target="_blank" href="">French Expats in Singapore </a>
+
 
 ### Find service providers to assist with your employees’ relocation
 
 EDB Connection Concierge links you to a curated network of immigration and visa advisory solution providers that you can tap on to relocate key employees and their families to Singapore. For any enquiry sent via Connections Concierge, you can expect a response within three working days.
 
-Find a service provider that can help with your relocation needs [here](https://www.edb.gov.sg/connections-concierge/service-providers.html?tab=general-service-providers&servicecategory=recruitment&hrsolutions)[.](https://www.edb.gov.sg/connections-concierge/service-providers.html?tab=general-service-providers&servicecategory=incorporation&corporatesecretarialsolutions)
+Find a service provider that can help with your relocation needs <a target="_blank" href="https://www.edb.gov.sg/connections-concierge/service-providers.html?tab=general-service-providers&amp;servicecategory=recruitment&amp;hrsolutions">here</a>
 
   
 
@@ -92,17 +99,3 @@ Find a service provider that can help with your relocation needs [here](https://
 [\[2\]](#_ftnref2) https://www.mercer.com.sg/newsroom/2019-quality-of-living-survey.html
 
 * * *
-
- [\[KK1\]](#_msoanchor_1)This addresses Geoffrey's JTBD on **"I need information on living in Singapore (e.g. cost of living, education, lifestyle, culture)"**
-
- [\[KK2\]](#_msoanchor_2)Position this more as steps they should take if they are planning to come to Singapore
-
- [\[YC3\]](#_msoanchor_3)Yes, like this wording!
-
- [\[KK4\]](#_msoanchor_4)thought to just have it at the top of the section, rather than have this repeated several times
-
- [\[EST5\]](#_msoanchor_5)Have we spoken to SGN yet about their offerings that help executives and professionals relocate to SG?
-
- [\[KK6\]](#_msoanchor_6)Started this week
-
-This seems a little out of place as it's more work/company-focused than indiv-focused? Plus if the startup community is the only one we highlight in Nav it might a bit weird/skewed. [\[GN7\]](#_msoanchor_7)
