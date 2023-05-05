@@ -30,3 +30,14 @@ Unlike EP or S Pass, individuals seeking to relocate to Singapore via other pass
 
 
 For more detailed information about the work pass framework and the different work passes in Singapore, [visit the Ministry of Manpower website](https://www.mom.gov.sg/passes-and-permits).
+
+<br>
+<br>
+<br>
+
+[Back to top](#For-companies-relocating-foreign-employees-to-Singapore)<br><br>
+
+<hr>
+
+##### Did you find what you need?
+[Send us your feedback](https://form.gov.sg/642693623cb98f001239be0d)
