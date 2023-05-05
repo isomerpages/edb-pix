@@ -10,17 +10,19 @@ Ready to build your team?
 
 There are some key administrative steps that you need to take before hiring or relocating employees in Singapore.
 
-###### For all companies
-*  	Register your business with the Accounting and Corporate Regulatory Authority (ACRA)
-*  	Apply for a CPF Submission Number (CSN)
-*  	Register for a Corppass Account
+#### For all companies
+* Register your business with the Accounting and Corporate Regulatory Authority (ACRA)
+* Apply for a CPF Submission Number (CSN)
+* Register for a Corppass Account
 
-###### For companies relocating foreign employees to Singapore
-In addition to the steps above:
+#### For companies relocating foreign employees to Singapore
+In addition to the three steps above:
 
-For Employment Pass (EP) and S Pass
-Get access to the myMOM Portal to apply for pass     |
-| For all other passes (ONE Pass, Personalised Employment Pass (PEP), EntrePass, and Tech.Pass)| Apply for pass 
+<u> For Employment Pass (EP) and S Pass</u>
+<br>Get access to the myMOM Portal to apply for pass 
+
+<u>For all other passes (ONE Pass, Personalised Employment Pass (PEP), EntrePass, and Tech.Pass)</u>
+<br>Apply for pass directly via respective portals 
 
 
 
