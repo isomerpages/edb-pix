@@ -2,6 +2,7 @@ collections:
   build-my-team:
     output: true
     order:
+      - Relocate Key Employees/Relocate Key Employees.md
       - Relocate Key Employees/.keep
       - Hire Local Talent/Hire Local Talent.md
       - Hire Local Talent/.keep
