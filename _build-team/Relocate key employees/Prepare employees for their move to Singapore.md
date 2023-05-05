@@ -16,7 +16,8 @@ For those planning to live and work in Singapore, they would want to better unde
 * [What are some Communities that my family and I can join?](#join-communities-in-singapore)
 * [Who are some service providers that can help with my relocation to Singapore?](#find-service-providers-to-assist-with-relocation)
 
-_Just a quick note – we refer to several independent resources available on the internet targeted at people relocating to Singapore as part of this guide to ease your search for information. However, we do not endorse or promote any content in particular, and kindly ask you to exercise discretion when referring to these resources.
+Just a quick note – we refer to several independent resources available on the internet targeted at people relocating to Singapore as part of this guide to ease your search for information. However, we do not endorse or promote any content in particular, and kindly ask you to exercise discretion when referring to these resources.
+
 
 ### Find Housing in Singapore
 
