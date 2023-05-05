@@ -9,7 +9,7 @@ third_nav_title: Relocate Key Employees
 
 Singapore has been consistently ranked best place for expats to live and work in Asia [\[1\]](#_ftn1) and the safest country with the highest quality of living in Asia. [\[2\]](#_ftn2)
 
-&nbsp;For those planning to live and work in Singapore, they would want to better understand:
+For those planning to live and work in Singapore, they would want to better understand:
 
 * [What are my options for Housing in Singapore?](#find-housing-in-singapore)
 <br>
@@ -105,4 +105,3 @@ Find a service provider that can help with your relocation needs [here](https://
 
 [\[1\]](#_ftnref1) [https://www.expat.hsbc.com/expat-explorer/league-table/](https://www.expat.hsbc.com/expat-explorer/league-table/)
 <br>[\[2\]](#_ftnref2) https://www.mercer.com.sg/newsroom/2019-quality-of-living-survey.html
-
