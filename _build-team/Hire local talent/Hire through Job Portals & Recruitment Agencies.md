@@ -6,7 +6,7 @@ third_nav_title: Hire local talent
 ---
 # Hire through job portals &amp; recruitment agencies
 
-### Job portals
+### Job portals that local talent use
 
 | General | Tech/Startup-focused |
 | -------- | -------- |
