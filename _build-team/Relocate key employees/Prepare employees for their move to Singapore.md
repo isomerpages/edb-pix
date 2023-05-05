@@ -4,7 +4,7 @@ permalink: /build-my-team/relocate-key-employees/prepare-employees-for-move-to-s
 description: Prepare employees for their move to Singapore
 third_nav_title: Relocate key employees
 ---
-# Prepare Key Employees for their move to Singapore
+# Prepare employees for their move to Singapore
 
 
 Singapore has been consistently ranked best place for expats to live and work in Asia [\[1\]](#_ftn1) and the safest country with the highest quality of living in Asia. [\[2\]](#_ftn2)
@@ -25,6 +25,10 @@ Most expatriates would consider renting when first relocating to Singapore. You 
 You can also consider co-living or serviced residences, which may provide greater flexibility as they offer shorter lease periods. Dollars and Sense, a local personal finance website, <a target="_blank" href="https://dollarsandsense.sg/price-guide-co-living-spaces-serviced-apartments/">offers a comprehensive guide to co-living and serviced residences in Singapore</a>.
 
 For more comprehensive information, read this <a target="_blank" href="https://singaporeglobalnetwork.gov.sg/guides/settling-in-sg/">guide to Settling in Singapore</a> by the Singapore Global Network which covers many other aspects of living and working in Singapore, beyond housing.
+
+[Back to top](#prepare-employees-for-their-move-to-singapore)<br>
+
+<br><hr>
 
 ### Apply to enrol in Singapore’s Education System
 
@@ -56,6 +60,10 @@ Alternatively, parents who wish for their children to continue under their exist
 
 You can find information on international schools in Singapore on platforms such as the <a target="_blank" href="https://www.international-schools-database.com/in/singapore">International Schools Database</a> or <a target="_blank" href="https://www.sassymamasg.com/schools-guide/">Sassy Mama</a>
 
+[Back to top](#prepare-employees-for-their-move-to-singapore)<br>
+
+<br><hr>
+
 ### Join Communities in Singapore
 
 If you prefer to learn about living and working in Singapore through meeting people, there are several communities you can join to broaden your network in Singapore.
@@ -81,6 +89,10 @@ There are also several independently formed communities on Facebook that you can
 * <a target="_blank" href="">French Expats in Singapore </a>
 
 
+[Back to top](#prepare-employees-for-their-move-to-singapore)<br>
+
+<br><hr>
+
 ### Find service providers to assist with relocation
 
 EDB Connection Concierge links you to a curated network of immigration and visa advisory solution providers that you can tap on to relocate key employees and their families to Singapore. For any enquiry sent via Connections Concierge, you can expect a response within three working days.
@@ -88,6 +100,14 @@ EDB Connection Concierge links you to a curated network of immigration and visa 
 Find a service provider that can help with your relocation needs <a target="_blank" href="https://www.edb.gov.sg/connections-concierge/service-providers.html?tab=general-service-providers&amp;servicecategory=recruitment&amp;hrsolutions">here</a>
 
   
+	
+[Back to top](#prepare-employees-for-their-move-to-singapore)<br><br>
+
+<hr>
+
+##### Did you find what you need?
+[Send us your feedback](https://form.gov.sg/642693623cb98f001239be0d)
+	
 
 * * *
 
