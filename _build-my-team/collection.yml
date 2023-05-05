@@ -2,8 +2,8 @@ collections:
   build-my-team:
     output: true
     order:
-      - Hire Local Talent/Hire Local Talent.md
-      - Hire Local Talent/.keep
+      - Guide to Building Your Team/Hire Local Talent.md
+      - Guide to Building Your Team/.keep
       - Overview.md
       - Relocate Key Employees.md
       - Key administrative steps before hiring workers.md
