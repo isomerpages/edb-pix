@@ -4,24 +4,25 @@ permalink: /build-my-team/admin/
 description: Key administrative steps before hiring employees
 third_nav_title: Key Administrative Steps
 ---
-# Key administrative steps to take before employing workers in Singapore
+# Overview
 
-Ready to build your team in Singapore? 
+Ready to build your team? 
 
-Here are some key administrative steps that you need to take before &nbsp;employing or relocating employees in Singapore: 
+There are some key administrative steps that you need to take before hiring or relocating employees in Singapore.
 
-| For all companies: | 
-| -------- |
-| 1)	Register your business with the Accounting and Corporate Regulatory Authority (ACRA)
-[Register](### 1. Register your business with the Accounting and Corporate Regulatory Authority (ACRA))
- |
-| 2) Apply for a CPF Submission Number |
-| 3) Register for a Corppass Account |
+###### For all companies
+*  	Register your business with the Accounting and Corporate Regulatory Authority (ACRA)
+*  	Apply for a CPF Submission Number (CSN)
+*  	Register for a Corppass Account
 
-| Additional Steps for companies relocating foreign employees to Singapore | 
-| -------- |
-| For Employment Pass and S Pass - Get access to the myMOM Portal |
-| For all other passes (ONE Pass, Personalised Employment Pass, EntrePass and Tech.Pass)|
+###### For companies relocating foreign employees to Singapore
+In addition to the steps above:
+
+For Employment Pass (EP) and S Pass
+Get access to the myMOM Portal to apply for pass     |
+| For all other passes (ONE Pass, Personalised Employment Pass (PEP), EntrePass, and Tech.Pass)| Apply for pass 
+
+
 
 
 ## For all companies
