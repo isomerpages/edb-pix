@@ -2,5 +2,6 @@ collections:
   build-my-team:
     output: true
     order:
+      - Relocate Key Employees to Singapore.md
       - Overview.md
       - Hire Local Talent.md
