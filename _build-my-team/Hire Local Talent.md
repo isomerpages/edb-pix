@@ -71,8 +71,3 @@ There are also many salary guides developed by recruitment companies available o
 | Michael Page     | Glints     |
 | Morgan McKinley     | NodeFlair     |
 | PERSOLKELLY     | NodeFlair     |
-
-
-
-
-
