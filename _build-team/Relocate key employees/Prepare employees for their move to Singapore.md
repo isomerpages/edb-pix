@@ -48,15 +48,13 @@ You can find detailed information on the [admissions process for international s
 
 There are three home-grown international schools that offer education at the secondary and junior college levels not unlike Singapore mainstream schools.
 
-[ACS International](http://www.acsinternational.com.sg/)&nbsp;
-
-[Hwa Chong International](http://www.hcis.edu.sg/)&nbsp;
-
-[SJI International](http://www.sji-international.com.sg/)
+* <a target="_blank" href="http://www.acsinternational.com.sg/">ACS International </a>
+* <a target="_blank" href="http://www.hcis.edu.sg/">Hwa Chong International </a>
+* <a target="_blank" href="http://www.sji-international.com.sg/">SJI International </a>
 
 Alternatively, parents who wish for their children to continue under their existing education system can seek to enrol in one of over 50 foreign system schools (more commonly known as international schools) in Singapore.
 
-You can find information on international schools in Singapore on platforms such as the [International Schools Database](https://www.international-schools-database.com/in/singapore) or [Sassy Mama](https://www.sassymamasg.com/schools-guide/).
+You can find information on international schools in Singapore on platforms such as the <a target="_blank" href="https://www.international-schools-database.com/in/singapore">International Schools Database</a>) or <a target="_blank" href="https://www.sassymamasg.com/schools-guide/">Sassy Mama</a>
 
 ### Join Communities in Singapore
 
