@@ -2,6 +2,7 @@ collections:
   build-my-team:
     output: true
     order:
+      - Understand Employment Practices in Singapore.md
       - Key administrative steps to take before employing workers in Singapore.md
       - Relocate Key Employees to Singapore.md
       - Overview.md
