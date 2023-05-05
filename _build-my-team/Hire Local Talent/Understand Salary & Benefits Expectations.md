@@ -4,7 +4,7 @@ permalink: /build-my-team/hire-local-talent/salary-benefits/
 description: Understand Salary & Benefits Expectations
 third_nav_title: Hire Local Talent
 ---
-# Understand salary & benefits expectations in Singapore
+# Understand salary &amp; benefits expectations in Singapore
 
 There are several resources you can use to understand salary costs and benefits expectations for the roles you plan to hire for in Singapore.
 
@@ -24,5 +24,16 @@ There are also many salary guides developed by recruitment companies available o
 | General salary guides | Tech-focused salary guides |
 | -------- | -------- |
 | [Michael Page](https://www.michaelpage.com.sg/salary-guide)     | [Glints (2022)](https://employers.glints.sg/ebooks/singapore-salary-guide-2022/)     |
-| [Morgan McKinley](https://www.morganmckinley.com/sg/salary-guide)     | [NodeFlair ](https://nodeflair.com/salaries/report-2023?utm_medium=button&utm_campaign=hero_banner&utm_source=nodeflair_salaries)    |
-| [PERSOLKELLY](https://www.persolkelly.com.sg/page/resources/salary-guides/)     |  
+| [Morgan McKinley](https://www.morganmckinley.com/sg/salary-guide)     | [NodeFlair ](https://nodeflair.com/salaries/report-2023?utm_medium=button&amp;utm_campaign=hero_banner&amp;utm_source=nodeflair_salaries)    |
+| [PERSOLKELLY](https://www.persolkelly.com.sg/page/resources/salary-guides/)     |
+
+<br>
+<br>
+<br>
+
+[Back to top](#Understand-salary-&amp;-benefits-expectations-in-Singapore)<br><br>
+
+<hr>
+
+##### Did you find what you need?
+[Send us your feedback](https://form.gov.sg/642693623cb98f001239be0d)
