@@ -17,6 +17,17 @@ third_nav_title: Hire Local Talent
 |  [STJobs](https://www.stjobs.sg)    | [Tech in Asia](https://www.techinasia.com/jobs/employers?ref=nav-lp-toggle)     |
 
 ### Recruitment agencies
-EDB Connections Concierge links you to a curated network of recruitment and HR solution providers that you may tap on to recruit talent in Singapore. For any enquiry sent via Connections Concierge, you can expect a response within three working days. 
+EDB Connections Concierge links you to a curated network of recruitment and HR solution providers that you may tap on to recruit talent in Singapore. For any enquiry sent via Connections Concierge, you can expect a response within three working days.&nbsp;
 
-Get in touch with a service provider that can help with your recruitment and talent needs [here](https://www.edb.gov.sg/connections-concierge/service-providers.html?tab=general-service-providers&servicecategory=recruitment&hrsolutions).
+Get in touch with a service provider that can help with your recruitment and talent needs&nbsp;[here](https://www.edb.gov.sg/connections-concierge/service-providers.html?tab=general-service-providers&amp;servicecategory=recruitment&amp;hrsolutions).
+
+<br>
+<br>
+<br>
+
+[Back to top](#Hire-through-job-portals-&amp;-recruitment-agencies)<br><br>
+
+<hr>
+
+##### Did you find what you need?
+[Send us your feedback](https://form.gov.sg/642693623cb98f001239be0d)
