@@ -8,7 +8,6 @@ All foreigners who intend to work in Singapore must have a valid work pass (comm
 
 This page provides an overview of the work visas your employees could apply for in order to have the right to work in Singapore
 
-
 <table>
   <tbody><tr>
     <th>Types of Work Passes </th>
@@ -68,5 +67,11 @@ This page provides an overview of the work visas your employees could apply for 
 It may take longer if additional information is required</td>
 	<td><a href="https://www.mom.gov.sg/passes-and-permits/entrepass/apply-for-a-pass">Within 8 weeks for most cases</a></td>
   </tr>
-</tbody></table>
-
+		<tr><td><b>More information on eligibility and application process<b></b></b></td>
+		<td><a href="https://www.mom.gov.sg/passes-and-permits/employment-pass">Visit MOM Website on Employment Pass</a></td>
+				<td><a href="https://www.mom.gov.sg/passes-and-permits/s-pass">Visit MOM Website on S Pass</a></td>
+				<td><a href="https://www.mom.gov.sg/passes-and-permits/overseas-networks-expertise-pass">Visit MOM Website on ONE Pass</a></td>
+				<td><a href="https://www.mom.gov.sg/passes-and-permits/personalised-employment-pass">Visit MOM Website on Personalised Employment Pass</a></td>
+				<td><a href="https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes/tech-pass.html">Visit EDB Website on Tech.Pass</a></td>
+			<td><a href="https://www.mom.gov.sg/passes-and-permits/entrepass">Visit MOM Website on EntrePass</a></td>
+</tr></tbody></table>
