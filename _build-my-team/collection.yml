@@ -2,7 +2,7 @@ collections:
   build-my-team:
     output: true
     order:
-      - Guide to Building My Team.md
+      - Build your team in Singapore.md
       - Hire Local Talent/.keep
       - Hire Local Talent/Overview.md
       - Hire Local Talent/Hire through Job Portals & Recruitment Agencies.md
