@@ -2,6 +2,8 @@ collections:
   build-my-team:
     output: true
     order:
+      - Employment Practices in SG/Understand Employment Practices in
+        Singapore.md
       - Employment Practices in SG/.keep
       - Overview.md
       - Hire Local Talent.md
