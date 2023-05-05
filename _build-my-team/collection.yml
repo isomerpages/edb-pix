@@ -2,6 +2,7 @@ collections:
   build-my-team:
     output: true
     order:
+      - Key administrative steps to take before employing workers in Singapore.md
       - Relocate Key Employees to Singapore.md
       - Overview.md
       - Hire Local Talent.md
