@@ -4,9 +4,11 @@ permalink: /build-my-team/relocate-key-employees/work-visas/
 description: Apply for Work Visas for Key Employees
 third_nav_title: Relocate Key Employees
 ---
+## Apply for Work Visas for Key Employees
+
 All foreigners who intend to work in Singapore must have a valid work pass (commonly known as a work visa) before they start work.
 
-This page provides an overview of the work visas your employees could apply for in order to have the right to work in Singapore
+This table  provides an overview of the work visas your employees could apply for in order to have the right to work in Singapore:
 
 <table>
   <tbody><tr>
@@ -75,3 +77,10 @@ It may take longer if additional information is required</td>
 				<td><a href="https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes/tech-pass.html">Visit EDB Website on Tech.Pass</a></td>
 			<td><a href="https://www.mom.gov.sg/passes-and-permits/entrepass">Visit MOM Website on EntrePass</a></td>
 </tr></tbody></table>
+
+[Back to top](#)<br><br>
+
+<hr>
+
+##### Did you find what you need?
+[Send us your feedback](https://form.gov.sg/642693623cb98f001239be0d)
