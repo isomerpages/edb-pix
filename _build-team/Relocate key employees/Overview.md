@@ -4,7 +4,9 @@ permalink: /build-my-team/relocate/overview/
 description: Overview of Relocate Key Employees
 third_nav_title: Relocate key employees
 ---
-There are several key considerations when relocating key employees to Singapore:
+# Relocating Key Employees
+
+There are several key considerations companies have to address when relocating key employees to Singapore:
 
 * Which work visas should my employees apply for in order to work in Singapore?
 
