@@ -25,6 +25,8 @@ sections:
             url: /government-assistance/
           - title: I can't find what I'm looking for
             url: /feedback-form/
+          - title: Example
+            url: /example/
       background: /images/stb_47454_annualphotoshoot_gardens_v1.jpg
   - infobar:
       title: Can't find what you're looking for?
