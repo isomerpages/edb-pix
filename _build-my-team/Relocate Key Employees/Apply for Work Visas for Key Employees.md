@@ -58,24 +58,24 @@ This table  provides an overview of the work visas your employees could apply fo
   </tr>
 	    <tr><td><b>How long does the application process usually take? </b></td>
     <td>If you apply online: Processed or given an update within 10 business days.<br><br> For overseas company without a Singapore-registered company: <a target="\_blank" href="https://www.mom.gov.sg/passes-and-permits/employment-pass/apply-for-a-pass">within 8 weeks</a> for most cases.</td>
-    <td><a href="https://www.mom.gov.sg/passes-and-permits/s-pass/apply-for-a-pass">Within 3 weeks for most cases</a></td>
+    <td><a target="\_blank" href="https://www.mom.gov.sg/passes-and-permits/s-pass/apply-for-a-pass">Within 3 weeks for most cases</a></td>
     <td>
-<a href="https://www.mom.gov.sg/passes-and-permits/overseas-networks-expertise-pass/apply-for-a-pass">Within 4 weeks for most cases.</a><br><br>Applications under "Outstanding achievements" may take longer if further assessment is required by the relevant agencies.
+<a target="\_blank" href="https://www.mom.gov.sg/passes-and-permits/overseas-networks-expertise-pass/apply-for-a-pass">Within 4 weeks for most cases.</a><br><br>Applications under "Outstanding achievements" may take longer if further assessment is required by the relevant agencies.
 
 </td>
-    <td><a href="https://www.mom.gov.sg/passes-and-permits/personalised-employment-pass/apply-for-a-pass">Within 8 weeks for most cases.</a></td>
-    <td><a href="https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes/tech-pass/apply-for-a-tech-pass.html">
+    <td><a target="\_blank" href="https://www.mom.gov.sg/passes-and-permits/personalised-employment-pass/apply-for-a-pass">Within 8 weeks for most cases.</a></td>
+    <td><a target="\_blank" href="https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes/tech-pass/apply-for-a-tech-pass.html">
 			Within 8 weeks for most cases, from when all documents are in order.</a><br><br>	
 It may take longer if additional information is required</td>
-	<td><a href="https://www.mom.gov.sg/passes-and-permits/entrepass/apply-for-a-pass">Within 8 weeks for most cases</a></td>
+	<td><a target="\_blank" href="https://www.mom.gov.sg/passes-and-permits/entrepass/apply-for-a-pass">Within 8 weeks for most cases</a></td>
   </tr>
 		<tr><td><b>More information on eligibility and application process<b></b></b></td>
-		<td><a href="https://www.mom.gov.sg/passes-and-permits/employment-pass">Visit MOM Website on Employment Pass</a></td>
-				<td><a href="https://www.mom.gov.sg/passes-and-permits/s-pass">Visit MOM Website on S Pass</a></td>
-				<td><a href="https://www.mom.gov.sg/passes-and-permits/overseas-networks-expertise-pass">Visit MOM Website on ONE Pass</a></td>
-				<td><a href="https://www.mom.gov.sg/passes-and-permits/personalised-employment-pass">Visit MOM Website on Personalised Employment Pass</a></td>
-				<td><a href="https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes/tech-pass.html">Visit EDB Website on Tech.Pass</a></td>
-			<td><a href="https://www.mom.gov.sg/passes-and-permits/entrepass">Visit MOM Website on EntrePass</a></td>
+		<td><a target="\_blank" href="https://www.mom.gov.sg/passes-and-permits/employment-pass">Visit MOM Website on Employment Pass</a></td>
+				<td><a target="\_blank" href="https://www.mom.gov.sg/passes-and-permits/s-pass">Visit MOM Website on S Pass</a></td>
+				<td><a target="\_blank" href="https://www.mom.gov.sg/passes-and-permits/overseas-networks-expertise-pass">Visit MOM Website on ONE Pass</a></td>
+				<td><a target="\_blank" href="https://www.mom.gov.sg/passes-and-permits/personalised-employment-pass">Visit MOM Website on Personalised Employment Pass</a></td>
+				<td><a target="\_blank" href="https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes/tech-pass.html">Visit EDB Website on Tech.Pass</a></td>
+			<td><a target="\_blank" href="https://www.mom.gov.sg/passes-and-permits/entrepass">Visit MOM Website on EntrePass</a></td>
 </tr></tbody></table>
 
 [Back to top](#)<br><br>
