@@ -2,17 +2,17 @@ collections:
   build-my-team:
     output: true
     order:
-      - Key Administrative Steps/Key administrative steps before hiring
-        workers.md
-      - Key Administrative Steps/.keep
-      - Relocate Key Employees/Relocate Key Employees.md
-      - Relocate Key Employees/.keep
+      - Guide to Building Your Team.md
       - Hire Local Talent/.keep
       - Hire Local Talent/Overview.md
       - Hire Local Talent/Hire through Job Portals & Recruitment Agencies.md
       - Hire Local Talent/Hire through Institutes of Higher Learning.md
       - Hire Local Talent/Understand Salary & Benefits Expectations.md
-      - Guide to Building Your Team.md
+      - Relocate Key Employees/.keep
+      - Relocate Key Employees/Relocate Key Employees.md
+      - Key Administrative Steps/.keep
+      - Key Administrative Steps/Key administrative steps before hiring
+        workers.md
       - Employment Practices in SG/.keep
       - Employment Practices in SG/Overview.md
       - Employment Practices in SG/Get to know the relevant Government bodies.md
