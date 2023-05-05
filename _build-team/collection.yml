@@ -1,5 +1,5 @@
 collections:
-  build-my-team:
+  build-team:
     output: true
     order:
       - Build your team in Singapore.md
