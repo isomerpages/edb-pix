@@ -2,6 +2,8 @@ collections:
   build-my-team:
     output: true
     order:
+      - Key Administrative Steps/Key administrative steps before hiring
+        workers.md
       - Key Administrative Steps/.keep
       - Relocate Key Employees/Relocate Key Employees.md
       - Relocate Key Employees/.keep
