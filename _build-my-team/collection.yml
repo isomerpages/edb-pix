@@ -2,5 +2,5 @@ collections:
   build-my-team:
     output: true
     order:
-      - Hire Local Talent.md
       - Overview.md
+      - Hire Local Talent.md
