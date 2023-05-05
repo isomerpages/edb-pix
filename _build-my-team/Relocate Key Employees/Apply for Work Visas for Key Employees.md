@@ -57,7 +57,7 @@ This table  provides an overview of the work visas your employees could apply fo
 		<td>Individual Employee</td>
   </tr>
 	    <tr><td><b>How long does the application process usually take? </b></td>
-    <td>If you apply online: Processed or given an update within 10 business days.<br><br> For overseas company without a Singapore-registered company: <a href="https://www.mom.gov.sg/faq/work-pass-general/why-is-there-a-need-for-mom-to-increase-the-processing-time-for-work-passes">within 8 weeks</a> for most cases.</td>
+    <td>If you apply online: Processed or given an update within 10 business days.<br><br> For overseas company without a Singapore-registered company: <a href="https://www.mom.gov.sg/passes-and-permits/employment-pass/apply-for-a-pass">within 8 weeks</a> for most cases.</td>
     <td><a href="https://www.mom.gov.sg/passes-and-permits/s-pass/apply-for-a-pass">Within 3 weeks for most cases</a></td>
     <td>
 <a href="https://www.mom.gov.sg/passes-and-permits/overseas-networks-expertise-pass/apply-for-a-pass">Within 4 weeks for most cases.</a><br><br>Applications under "Outstanding achievements" may take longer if further assessment is required by the relevant agencies.
