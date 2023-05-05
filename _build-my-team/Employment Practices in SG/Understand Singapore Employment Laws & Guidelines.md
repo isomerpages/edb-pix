@@ -23,7 +23,6 @@ Employers are also expected to adhere to the [Tripartite Guidelines on Fair Empl
 <br>
 <br>
 
-[Back to top](#Familiarise-yourself-with-Singapores-Employment-Laws)<br><br>
 
 <hr>
 
