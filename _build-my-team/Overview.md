@@ -3,7 +3,7 @@ title: Overview
 permalink: /build-my-team/overview/
 description: Overview
 ---
-# Overview
+# Guide to Building Your Team
 
 Before you start building your team in Singapore, it helps to know the employment landscape and what you need to do to hire or relocate employees to Singapore. <br>
 <br>
