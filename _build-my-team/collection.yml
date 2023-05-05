@@ -1,0 +1,4 @@
+collections:
+  build-my-team:
+    output: true
+    order: []
