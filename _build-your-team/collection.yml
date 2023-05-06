@@ -1,5 +1,5 @@
 collections:
-  build-team:
+  build-your-team:
     output: true
     order:
       - What is in this Guide?.md
