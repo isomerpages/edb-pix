@@ -10,6 +10,6 @@ When hiring your first employees in Singapore, it is useful to familiarise yours
 
 Some of the questions you may have include:
 
-- Which are the government ministries or agencies that I may need to interact with when hiring in Singapore?
-- What are the employment laws and guidelines I need to take note of when hiring in Singapore?
-- Where can I get advice on Singapore's employment laws?
+- [Which are the government ministries or agencies that I may need to interact with when hiring in Singapore?](/build-my-team/employment-practices-in-sg/government-bodies/)
+- [What are the employment laws and guidelines I need to take note of when hiring in Singapore?](/build-my-team/employment-practices/employment-laws-guidelines/)
+- [Where can I get advice on Singapore's employment laws?](/build-my-team/employment-practices-in-sg/get-advice/)
