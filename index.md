@@ -15,8 +15,6 @@ sections:
         options:
           - title: Setting up my business in Singapore
             url: /set-up-my-business-in-singapore/
-          - title: Hiring talent in Singapore
-            url: /hire-talent/hiring-talent-in-singapore/
           - title: Growing my business in Southeast Asia from Singapore
             url: /grow-business-in-sea/grow-in-sea-from-singapore/
           - title: "Company case studies: how others have done it"
@@ -25,6 +23,10 @@ sections:
             url: /government-assistance/
           - title: I can't find what I'm looking for
             url: /feedback-form/
+          - title: Hiring talent in Singapore
+            url: /hire-talent/hiring-talent-in-singapore/
+          - title: Building my team in Singapore
+            url: ""
       background: /images/stb_47454_annualphotoshoot_gardens_v1.jpg
   - infobar:
       title: Can't find what you're looking for?
