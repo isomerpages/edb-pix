@@ -16,8 +16,8 @@ Ready to build your team?  There are some key administrative steps that you need
 #### For companies relocating foreign employees to Singapore
 In addition to the three steps above:
 
-<u> For Employment Pass (EP) and S Pass</u>[
-<br>Get access to the myMOM Portal to apply for EP or S pass ](/build-my-team/admin/relocate/)
+**For Employment Pass (EP) and S Pass**	
+[Get access to the myMOM Portal to apply for EP or S pass ](/build-my-team/admin/relocate/)
 
-<u>For all other passes (ONE Pass, Personalised Employment Pass (PEP), EntrePass, and Tech.Pass)</u>
+**For all other passes (ONE Pass, Personalised Employment Pass (PEP), EntrePass, and Tech.Pass)**
 <br>[Apply for passes directly via respective portals](/build-my-team/admin/relocate/)
