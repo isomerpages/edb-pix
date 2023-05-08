@@ -18,7 +18,9 @@ For those planning to live and work in Singapore, they would want to better unde
 
 _Just a quick note – we refer to several independent resources available on the internet targeted at people relocating to Singapore as part of this guide to ease your search for information. However, we do not endorse or promote any content in particular, and kindly ask you to exercise discretion when referring to these resources._
 
-<br><hr>
+<br>
+
+<hr>
 
 ### Find Housing in Singapore
 
@@ -30,7 +32,9 @@ For more comprehensive information, read this <a target="_blank" href="https://s
 
 [Back to top](#prepare-employees-for-their-move-to-singapore)<br>
 
-<br><hr>
+<br>
+
+<hr>
 
 ### Apply to enrol in Singapore’s Education System
 
@@ -64,7 +68,9 @@ You can find information on international schools in Singapore on platforms such
 
 [Back to top](#prepare-employees-for-their-move-to-singapore)<br>
 
-<br><hr>
+<br>
+
+<hr>
 
 ### Join Communities in Singapore
 
@@ -93,7 +99,9 @@ There are also several independently formed communities on Facebook that you can
 
 [Back to top](#prepare-employees-for-their-move-to-singapore)<br>
 
-<br><hr>
+<br>
+
+<hr>
 
 ### Find service providers to assist with relocation
 
