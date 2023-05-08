@@ -4,7 +4,7 @@ permalink: /build-my-team/relocate/prepare-employees-for-move-to-sg/
 description: Prepare employees for their move to Singapore
 third_nav_title: Relocate key employees
 ---
-# Prepare employees for their move to Singapore
+## Prepare employees for their move to Singapore
 
 
 Singapore has been consistently ranked best place for expats to live and work in Asia [\[1\]](#_ftn1) and the safest country with the highest quality of living in Asia. [\[2\]](#_ftn2)
