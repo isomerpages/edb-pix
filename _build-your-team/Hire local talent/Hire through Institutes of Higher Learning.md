@@ -20,19 +20,19 @@ Companies can grow their teams by tapping into a steady stream of local graduate
 
 ### Local Polytechnics
 Polytechnics provide a hands-on, practice-based learning experience for students. As an industry partner, your company may offer work attachments for students, ranging from 6 weeks to 6 months.
-| Polytechnic |
-| -------- |
-| [Nanyang Polytechnic](https://www.nyp.edu.sg/about-nyp/nyp-support-centre-and-services/education-and-career-guidance/industry-partners.html)    |
-| [Ngee Ann Polytechnic](https://www.np.edu.sg/connect/industry-partners)     |
-| [Republic Polytechnic](https://www.rp.edu.sg/industry/work-with-our-students)     |
-| [Singapore Polytechnic](https://www.sp.edu.sg/industry/span/career-opportunities)     |
-| [Temasek Polytechnic](https://www.tp.edu.sg/landing/industry-partners.html)     |
+<br><br>
+**Polytechnics**
+* [Nanyang Polytechnic](https://www.nyp.edu.sg/about-nyp/nyp-support-centre-and-services/education-and-career-guidance/industry-partners.html)
+* [Ngee Ann Polytechnic](https://www.np.edu.sg/connect/industry-partners)
+* [Republic Polytechnic](https://www.rp.edu.sg/industry/work-with-our-students)
+* [Singapore Polytechnic](https://www.sp.edu.sg/industry/span/career-opportunities)
+* [Temasek Polytechnic](https://www.tp.edu.sg/landing/industry-partners.html)
 
 <br>
 <br>
 <br>
 
-[Back to top](#Hire-graduates-from-Singapore's-Institutes-of-Higher-Learning)<br><br>
+[Back to top](#hire-graduates-from-singapores-institutes-of-higher-learning)<br><br>
 
 <hr>
 
