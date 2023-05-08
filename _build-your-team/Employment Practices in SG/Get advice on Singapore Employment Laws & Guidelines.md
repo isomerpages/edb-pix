@@ -5,7 +5,7 @@ description: Get advice on Singapore Employment Laws & Guidelines
 third_nav_title: Employment Practices in SG
 ---
 ## Seek Advice on Singapore employment laws &amp; guidelines
--------------------------------------------------------
+
 
 There are [self-help guides and resources for the Employment Act available, as well as seminars and workshops on the Employment Act that you can attend.](https://www.mom.gov.sg/employment-practices/employment-act/templates-and-resources-for-kets-and-pay-slips)
 
