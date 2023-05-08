@@ -20,7 +20,6 @@ _Just a quick note – we refer to several independent resources available on th
 
 <br>
 
-<hr>
 
 ### Find Housing in Singapore
 
@@ -34,7 +33,7 @@ For more comprehensive information, read this <a target="_blank" href="https://s
 
 <br>
 
-<hr>
+
 
 ### Apply to enrol in Singapore’s Education System
 
@@ -70,7 +69,7 @@ You can find information on international schools in Singapore on platforms such
 
 <br>
 
-<hr>
+
 
 ### Join Communities in Singapore
 
@@ -101,7 +100,7 @@ There are also several independently formed communities on Facebook that you can
 
 <br>
 
-<hr>
+
 
 ### Find service providers to assist with relocation
 
@@ -113,16 +112,3 @@ Find a service provider that can help with your relocation needs <a target="_bla
 	
 [Back to top](#prepare-employees-for-their-move-to-singapore)<br><br>
 
-<hr>
-
-##### Did you find what you need?
-[Send us your feedback](https://form.gov.sg/642693623cb98f001239be0d)
-	
-
-* * *
-
-[\[1\]](#_ftnref1) [https://www.expat.hsbc.com/expat-explorer/league-table/](https://www.expat.hsbc.com/expat-explorer/league-table/)
-
-[\[2\]](#_ftnref2) [https://www.mercer.com.sg/newsroom/2019-quality-of-living-survey.html](https://www.mercer.com.sg/newsroom/2019-quality-of-living-survey.html)
-
-* * *
