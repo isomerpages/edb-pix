@@ -7,9 +7,9 @@ third_nav_title: Employment practices in SG
 ## Resources and services
 
 
-There are [self-help guides and resources for the Employment Act available, as well as seminars and workshops on the Employment Act that you can attend.](https://www.mom.gov.sg/employment-practices/employment-act/templates-and-resources-for-kets-and-pay-slips)
+There are <a target="_blank" href="https://www.mom.gov.sg/employment-practices/employment-act/templates-and-resources-for-kets-and-pay-slips">self-help guides and resources for the Employment Act available, as well as seminars and workshops on the Employment Act that you can attend.</a>
 
-There are also [advisory services](https://www.mom.gov.sg/employment-practices/employment-act/advisory-services) available for companies seeking scenario-based advice on applying the employment law or other related employment laws for specific situations.
+There are also <a target="_blank" href="https://www.mom.gov.sg/employment-practices/employment-act/advisory-services">advisory services</a> available for companies seeking scenario-based advice on applying the employment law or other related employment laws for specific situations.
 
 
 <br>
