@@ -61,7 +61,7 @@ You can find detailed information on the <a target="_blank" href="https://www.mo
 
 There are three home-grown international schools that offer education at the secondary and junior college levels not unlike Singapore mainstream schools.
 
-* <a target="_blank" href="http://www.acsinternational.com.sg/">ACS International </a>
+* <a target="_blank" href="https://www.acsinternational.edu.sg/">ACS International </a>
 * <a target="_blank" href="http://www.hcis.edu.sg/">Hwa Chong International </a>
 * <a target="_blank" href="http://www.sji-international.com.sg/">SJI International </a>
 
