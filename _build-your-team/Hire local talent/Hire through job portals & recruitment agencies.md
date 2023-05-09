@@ -8,11 +8,11 @@ third_nav_title: Hire local talent
 
 | General | Tech/Startup-focused |
 | -------- | -------- |
-| [Indeed](https://sg.indeed.com/hire?co=SG&amp;hl=en&amp;from=gnav-menu-homepage)     | [E27](https://e27.co/jobs/)     |
-| [JobsDB](https://employer-sg.jobsdb.com/sg/login?utm_source=jora&amp;utm_medium=referral&amp;utm_content=header_link&amp;utm_campaign=header_link)    | [Glints](https://employers.glints.sg)     |
-|  [JobStreet](https://www.jobstreet.com.sg/en/cms/employer/)    | [NodeFlair](https://nodeflair.com/employers)     |
-|  [LinkedIn](https://www.linkedin.com/talent/post-a-job?trk=homepage-jobseeker_talent-finder-cta)    | [Startup Jobs Asia](https://startupjobs.asia/auth/signup/startup)     |
-|  [STJobs](https://www.stjobs.sg)    | [Tech in Asia](https://www.techinasia.com/jobs/employers?ref=nav-lp-toggle)     |
+| <a target="_blank" href="https://sg.indeed.com/hire?co=SG&amp;hl=en&amp;from=gnav-employer--allspark--employer">Indeed</a>     | <a target="_blank" href="https://e27.co/jobs/">E27</a>    |
+| <a target="_blank" href="https://employer-sg.jobsdb.com/sg/">JobsDB</a>|<a target="_blank" href="https://employers.glints.sg">Glints</a>     |
+|  <a target="_blank" href="https://www.jobstreet.com.sg/en/cms/employer/">JobStreet</a>    | <a target="_blank" href="https://nodeflair.com/employers">NodeFlair</a>     |
+|  <a target="_blank" href="https://business.linkedin.com/talent-solutions">LinkedIn</a>[]()    | <a target="_blank" href="https://startupjobs.asia/auth/signup/startup">Startup Jobs Asia</a>     |
+|  <a target="_blank" href="https://www.stjobs.sg">STJobs</a>    | <a target="_blank" href="https://www.techinasia.com/jobs/employers">Tech in Asia</a>     |
 
 ### Recruitment agencies
 EDB Connections Concierge links you to a curated network of recruitment and HR solution providers that you may tap on to recruit talent in Singapore. For any enquiry sent via Connections Concierge, you can expect a response within three working days.&nbsp;
