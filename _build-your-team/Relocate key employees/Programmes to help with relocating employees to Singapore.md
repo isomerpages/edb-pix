@@ -4,11 +4,7 @@ permalink: /build-my-team/relocate-key-employees/programmes-relocating-employees
 description: Programmes to help with relocating employees to Singapore
 third_nav_title: Relocate key employees
 ---
-## Apply for programmes to help with relocating employees to Singapore
-
 ### Tech@SG
-
- 
 
 Fast-growing companies can tap on the Tech@SG programme  to access the critical talent they need to grow and scale their business in Singapore and the region.
 
