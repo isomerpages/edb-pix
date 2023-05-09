@@ -4,7 +4,7 @@ permalink: /build-my-team/admin/all/
 description: For all companies
 third_nav_title: Key administrative steps
 ---
-## Key administrative steps for all companies to take before hiring in Singapore
+## Key administrative steps before hiring in Singapore
 
 
 ### 1. Register your business with the Accounting and Corporate Regulatory Authority (ACRA)
@@ -54,7 +54,7 @@ For your convenience, you or the registered filing agent can apply for a CSN dur
 <br>
 <br>
 
-[Back to top](#For-all-companies)<br><br>
+[Back to top](#Key-administrative-steps-before-hiring-in-Singapore)<br><br>
 
 <hr>
 
