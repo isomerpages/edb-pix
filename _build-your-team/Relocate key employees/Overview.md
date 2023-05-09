@@ -14,8 +14,6 @@ There are several key considerations companies have to address when relocating k
 
 *  Is there [government support](/build-my-team/relocate-key-employees/programmes-relocating-employees/) available for fast-growing tech companies seeking to relocate key employees to Singapore?
 
-* What are the [guidelines](/build-my-team/relocate-key-employees/fair-consideration-framework/) I would need to take note of when relocating employees to Singapore?
-
 * How can I [prepare my employees for their move to Singapore?](/build-my-team/relocate-key-employees/prepare-employees-for-move-to-sg/)
 
 This section will take you through these key considerations and more.
