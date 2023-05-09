@@ -19,3 +19,10 @@ There are several key considerations companies have to address when relocating k
 * How can I [prepare my employees for their move to Singapore?](/build-my-team/relocate-key-employees/prepare-employees-for-move-to-sg/)
 
 This section will take you through these key considerations and more.
+
+<br><br>
+
+<hr>
+
+##### Did you find what you need?
+[Send us your feedback](https://form.gov.sg/642693623cb98f001239be0d)
