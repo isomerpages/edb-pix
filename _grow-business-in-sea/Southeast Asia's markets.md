@@ -23,9 +23,9 @@ Learn more about each Southeast Asian country through the following country guid
 
 |  |  |  |
 | -------- | -------- | -------- |
-| [Cambodia](https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/market-guides/southeast-asia/Cambodia/overview)<br> | [Indonesia](https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/market-guides/southeast-asia/Indonesia/overview)<br> | [Malaysia](https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/market-guides/southeast-asia/malaysia/overview)<br>  |
-| [Myanmar](https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/market-guides/southeast-asia/myanmar/overview)<br> | [Philippines](https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/market-guides/southeast-asia/philippines/overview)<br> |[Thailand](https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/market-guides/southeast-asia/thailand/overview)<br> |
-| [Vietnam](https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/market-guides/southeast-asia/vietnam/overview)<br>  | [Laos](https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/market-guides/southeast-asia/Laos/overview) |  |
+| <a target="_blank" href="https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/market-guides/southeast-asia/Cambodia/overview">Cambodia</a><br> | <a target="_blank" href="https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/market-guides/southeast-asia/Indonesia/overview">Indonesia</a><br> | <a target="_blank" href="https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/market-guides/southeast-asia/malaysia/overview">Malaysia</a><br>  |
+|<a target="_blank" href="https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/market-guides/southeast-asia/myanmar/overview">Myanmar</a> <br> | <a target="_blank" href="https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/market-guides/southeast-asia/philippines/overview">Philippines</a>[]()<br> |<a target="_blank" href="https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/market-guides/southeast-asia/thailand/overview">Thailand</a><br> |
+|<a target="_blank" href="https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/market-guides/southeast-asia/vietnam/overview">Vietnam</a><br>  | <a target="_blank" href="https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/market-guides/southeast-asia/Laos/overview">Laos</a>[]() |  |
 |  |  |  |
 
 <br>
