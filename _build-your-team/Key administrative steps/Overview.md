@@ -21,3 +21,10 @@ In addition to the three steps above:
 
 **For all other passes (ONE Pass, Personalised Employment Pass (PEP), EntrePass, and Tech.Pass)**
 <br>[Apply for passes directly via respective portals](/build-my-team/admin/relocate/)
+
+<br><br>
+
+<hr>
+
+##### Did you find what you need?
+[Send us your feedback](https://form.gov.sg/642693623cb98f001239be0d)
