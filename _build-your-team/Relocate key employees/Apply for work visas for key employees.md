@@ -57,34 +57,34 @@ This table  provides an overview of the work visas your employees could apply fo
 		<td>Individual Employee</td>
   </tr>
 	    <tr><td><b>How long does the application process usually take? </b></td>
-    <td>If you apply online: Processed or given an update within 10 business days.<br><br> For overseas company without a Singapore-registered company: <a target="\_blank" href="https://www.mom.gov.sg/passes-and-permits/employment-pass/apply-for-a-pass">within 8 weeks</a> for most cases.</td>
-    <td><a target="\_blank" href="https://www.mom.gov.sg/passes-and-permits/s-pass/apply-for-a-pass">Within 3 weeks for most cases</a></td>
+    <td>If you apply online: Processed or given an update within 10 business days.<br><br> For overseas company without a Singapore-registered company: <a target="_blank" href="https://www.mom.gov.sg/passes-and-permits/employment-pass/apply-for-a-pass">within 8 weeks</a> for most cases.</td>
+    <td><a target="_blank" href="https://www.mom.gov.sg/passes-and-permits/s-pass/apply-for-a-pass">Within 3 weeks for most cases</a></td>
     <td>
-<a target="\_blank" href="https://www.mom.gov.sg/passes-and-permits/overseas-networks-expertise-pass/apply-for-a-pass">Within 4 weeks for most cases.</a><br><br>Applications under "Outstanding achievements" may take longer if further assessment is required by the relevant agencies.
+<a target="_blank" href="https://www.mom.gov.sg/passes-and-permits/overseas-networks-expertise-pass/apply-for-a-pass">Within 4 weeks for most cases.</a><br><br>Applications under "Outstanding achievements" may take longer if further assessment is required by the relevant agencies.
 
 </td>
-    <td><a target="\_blank" href="https://www.mom.gov.sg/passes-and-permits/personalised-employment-pass/apply-for-a-pass">Within 8 weeks for most cases.</a></td>
-    <td><a target="\_blank" href="https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes/tech-pass/apply-for-a-tech-pass.html">
+    <td><a target="_blank" href="https://www.mom.gov.sg/passes-and-permits/personalised-employment-pass/apply-for-a-pass">Within 8 weeks for most cases.</a></td>
+    <td><a target="_blank" href="https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes/tech-pass/apply-for-a-tech-pass.html">
 			Within 8 weeks for most cases, from when all documents are in order.</a><br><br>	
 It may take longer if additional information is required</td>
-	<td><a target="\_blank" href="https://www.mom.gov.sg/passes-and-permits/entrepass/apply-for-a-pass">Within 8 weeks for most cases</a></td>
+	<td><a target="_blank" href="https://www.mom.gov.sg/passes-and-permits/entrepass/apply-for-a-pass">Within 8 weeks for most cases</a></td>
   </tr>
 		<tr><td><b>More information on eligibility and application process<b></b></b></td>
-		<td><a target="\_blank" href="https://www.mom.gov.sg/passes-and-permits/employment-pass">Visit MOM Website on Employment Pass</a></td>
-				<td><a target="\_blank" href="https://www.mom.gov.sg/passes-and-permits/s-pass">Visit MOM Website on S Pass</a></td>
-				<td><a target="\_blank" href="https://www.mom.gov.sg/passes-and-permits/overseas-networks-expertise-pass">Visit MOM Website on ONE Pass</a></td>
-				<td><a target="\_blank" href="https://www.mom.gov.sg/passes-and-permits/personalised-employment-pass">Visit MOM Website on Personalised Employment Pass</a></td>
-				<td><a target="\_blank" href="https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes/tech-pass.html">Visit EDB Website on Tech.Pass</a></td>
-			<td><a target="\_blank" href="https://www.mom.gov.sg/passes-and-permits/entrepass">Visit MOM Website on EntrePass</a></td>
+		<td><a target="_blank" href="https://www.mom.gov.sg/passes-and-permits/employment-pass">Visit MOM Website on Employment Pass</a></td>
+				<td><a target="_blank" href="https://www.mom.gov.sg/passes-and-permits/s-pass">Visit MOM Website on S Pass</a></td>
+				<td><a target="_blank" href="https://www.mom.gov.sg/passes-and-permits/overseas-networks-expertise-pass">Visit MOM Website on ONE Pass</a></td>
+				<td><a target="_blank" href="https://www.mom.gov.sg/passes-and-permits/personalised-employment-pass">Visit MOM Website on Personalised Employment Pass</a></td>
+				<td><a target="_blank" href="https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes/tech-pass.html">Visit EDB Website on Tech.Pass</a></td>
+			<td><a target="_blank" href="https://www.mom.gov.sg/passes-and-permits/entrepass">Visit MOM Website on EntrePass</a></td>
 </tr></tbody></table>
 
 ## Take note of the Fair Consideration Framework (FCF)
 
 The [FCF](https://www.mom.gov.sg/employment-practices/fair-consideration-framework) sets out requirements for all employers in Singapore to consider the workforce in Singapore fairly for job opportunities. Employers should not discriminate on characteristics that are not related to the job, such as age, gender, nationality or race.
 
-To promote fair employment practices and improve labour market transparency, employers submitting Employment Pass and S Pass applications must first advertise on [MyCareersFuture](https://www.mycareersfuture.gov.sg/) and fairly consider all candidates.
+To promote fair employment practices and improve labour market transparency, employers submitting Employment Pass and S Pass applications must first advertise on <a target="_blank" href="https://www.mycareersfuture.gov.sg/">MyCareersFuture</a> and fairly consider all candidates.
 
-Find out more about the FCF job advertising requirements for [Employment Pass](https://www.mom.gov.sg/passes-and-permits/employment-pass/consider-all-candidates-fairly) and [S Pass](https://www.mom.gov.sg/passes-and-permits/s-pass/consider-all-candidates-fairly).
+Find out more about the FCF job advertising requirements for <a target="_blank" href="https://www.mom.gov.sg/passes-and-permits/employment-pass/consider-all-candidates-fairly">Employment Pass</a> and <a target="_blank" href="https://www.mom.gov.sg/passes-and-permits/s-pass/consider-all-candidates-fairly">S Pass</a>
 
 However, for practical reasons, your company may not be required to advertise roles on MyCareersFuture if you meet **any of the following requirements**:
 
@@ -96,12 +96,12 @@ However, for practical reasons, your company may not be required to advertise ro
 
 * The role is to be filled by a local transferee.
 
-* \[for EP only\] The role is to be filled by a candidate choosing to apply as an [overseas intra-corporate transferee](https://www.mom.gov.sg/faq/fair-consideration-framework/can-a-job-be-exempted-from-the-advertising-requirement-if-it-will-be-filled-by-an-intra-corporate-transferee-ict).
+* \[for EP only\] The role is to be filled by a candidate choosing to apply as an <a target="_blank" href="https://www.mom.gov.sg/faq/fair-consideration-framework/can-a-job-be-exempted-from-the-advertising-requirement-if-it-will-be-filled-by-an-intra-corporate-transferee-ict">overseas intra-corporate transferee.</a>
 
 To access a larger pool of candidates, employers in Singapore are strongly encouraged to advertise their job vacancies on MyCareersFuture, even if those jobs are eligible for advertising exemption.
 
 
-[Back to top](#Work-visas)<br><br>
+[Back to top](#work-visas)<br><br>
 
 <hr>
 
