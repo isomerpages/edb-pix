@@ -8,14 +8,15 @@ third_nav_title: Hire local talent
 
 There are several resources you can use to understand salary costs and benefits expectations for the roles you plan to hire for in Singapore.
 
+
 ### Ministry of Manpower (MOM)
-* MOM offers a [salary benchmarking tool](https://stats.mom.gov.sg/bt/Pages/salary-comparison-general-for-employer.aspx) that companies can use to get data on salary costs of various job roles across different industries. It uses data from the latest occupational wage survey conducted in 2021.
-* You may also find data on [family-friendly leave benefits](https://stats.mom.gov.sg/bt/Pages/family-friendly-leave-benefits-general.aspx), [medical leave benefits](https://stats.mom.gov.sg/bt/Pages/medical-leave-general.aspx), and [flexible work arrangements](https://stats.mom.gov.sg/bt/Pages/flexible-work-arrangement-general.aspx) offered by companies across industries in Singapore.
+* MOM offers a <a target="_blank" href="https://stats.mom.gov.sg/bt/Pages/salary-comparison-general-for-employer.aspx">salary benchmarking tool</a> that companies can use to get data on salary costs of various job roles across different industries. It uses data from the latest occupational wage survey conducted in 2021.
+* You may also find data on <a target="_blank" href="https://stats.mom.gov.sg/bt/Pages/family-friendly-leave-benefits-general.aspx">family-friendly leave benefits</a>, <a target="_blank" href="https://stats.mom.gov.sg/bt/Pages/medical-leave-general.aspx">medical leave benefits</a>[](), and <a target="_blank" href="https://stats.mom.gov.sg/bt/Pages/flexible-work-arrangement-general.aspx">flexible work arrangements</a> offered by companies across industries in Singapore.
 
 ### Economic Development Board (EDB)
-* EDB offers comprehensive guides for hiring talent in Singapore, which provide information on salaries companies can expect to pay for tech talent and other key business roles
-	* [Guide to Hiring in Singapore](https://www.edb.gov.sg/en/setting-up-in-singapore/business-guides/guide-to-hiring-in-singapore.html)
-	* [Guide to Hiring Your Dream Tech Team in Singapore](https://www.edb.gov.sg/en/setting-up-in-singapore/business-guides/guide-to-hiring-your-dream-tech-team-in-singapore.html)
+EDB offers comprehensive guides for hiring talent in Singapore, which provide information on salaries companies can expect to pay for tech talent and other key business roles
+* <a target="_blank" href="https://www.edb.gov.sg/en/setting-up-in-singapore/business-guides/guide-to-hiring-in-singapore.html">Guide to Hiring in Singapore</a>
+* <a target="_blank" href="https://www.edb.gov.sg/en/setting-up-in-singapore/business-guides/guide-to-hiring-your-dream-tech-team-in-singapore.html">Guide to Hiring Your Dream Tech Team in Singapore</a>
 
 ### Other salary guides
 There are also many salary guides developed by recruitment companies available online that you may consider as reference. 
@@ -23,15 +24,15 @@ There are also many salary guides developed by recruitment companies available o
 
 | General salary guides | Tech-focused salary guides |
 | -------- | -------- |
-| [Michael Page](https://www.michaelpage.com.sg/salary-guide)     | [Glints (2022)](https://employers.glints.sg/ebooks/singapore-salary-guide-2022/)     |
-| [Morgan McKinley](https://www.morganmckinley.com/sg/salary-guide)     | [NodeFlair ](https://nodeflair.com/salaries/report-2023?utm_medium=button&amp;utm_campaign=hero_banner&amp;utm_source=nodeflair_salaries)    |
-| [PERSOLKELLY](https://www.persolkelly.com.sg/page/resources/salary-guides/)     |
+| <a target="_blank" href="https://www.michaelpage.com.sg/salary-guide">Michael Page</a>     | <a target="_blank" href="https://employers.glints.sg/ebooks/singapore-salary-guide-2022/">Glints (2022)</a>     |
+| <a target="_blank" href="https://www.morganmckinley.com/sg/salary-guide">Morgan McKinley</a>     | <a target="_blank" href="https://nodeflair.com/salaries/report-2023">NodeFlair</a>   |
+| <a target="_blank" href="https://www.persolkelly.com.sg/page/resources/salary-guides/">PERSOLKELLY</a>    |
 
 <br>
 <br>
 <br>
 
-[Back to top](#Resources)<br><br>
+[Back to top](#resources)<br><br>
 
 <hr>
 
