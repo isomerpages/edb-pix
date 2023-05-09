@@ -4,7 +4,7 @@ permalink: /build-my-team/employment-practices-in-sg/government-bodies/
 description: Get to know the relevant Government bodies
 third_nav_title: Employment practices in SG
 ---
-## Get to know the relevant Government bodies
+## Get to know the relevant government bodies
 
 
 There are a number of government agencies you may have to interact with when building your team in Singapore. 
