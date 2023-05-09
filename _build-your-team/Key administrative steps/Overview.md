@@ -4,9 +4,9 @@ permalink: /build-my-team/admin/
 description: Overview
 third_nav_title: Key administrative steps
 ---
-# Overview
+# Key administrative steps for hiring or relocating
 
-Ready to build your team?  There are some key administrative steps that you need to take before hiring or relocating employees in Singapore.
+Ready to build your team? There are some key administrative steps that you need to take before hiring or relocating employees in Singapore.
 
 #### For all companies
 * [Register your business with the Accounting and Corporate Regulatory Authority (ACRA)](/build-my-team/admin/all/)
