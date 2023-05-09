@@ -32,7 +32,7 @@ Polytechnics provide a hands-on, practice-based learning experience for students
 <br>
 <br>
 
-[Back to top](#Hire-graduates)<br><br>
+[Back to top](#hire-graduates)<br><br>
 
 <hr>
 
