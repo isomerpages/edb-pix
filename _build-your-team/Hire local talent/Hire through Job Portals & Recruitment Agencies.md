@@ -4,8 +4,6 @@ permalink: /build-my-team/hire-local-talent/portals-agencies/
 description: Hire through Job Portals & Recruitment Agencies
 third_nav_title: Hire local talent
 ---
-# Hire through job portals and recruitment agencies
-
 ### Job portals that local talent use
 
 | General | Tech/Startup-focused |
@@ -25,7 +23,7 @@ Get in touch with a service provider that can help with your recruitment and tal
 <br>
 <br>
 
-[Back to top](#hire-through-job-portals-and-recruitment-agencies)<br><br>
+[Back to top](#Job-portals-that-local-talent-use)<br><br>
 
 <hr>
 
