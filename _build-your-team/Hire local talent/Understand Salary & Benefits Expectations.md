@@ -4,7 +4,7 @@ permalink: /build-my-team/hire-local-talent/salary-benefits/
 description: Understand Salary & Benefits Expectations
 third_nav_title: Hire local talent
 ---
-# Understand salary and benefits expectations in Singapore
+## Understand salary and benefits expectations in Singapore
 
 There are several resources you can use to understand salary costs and benefits expectations for the roles you plan to hire for in Singapore.
 
