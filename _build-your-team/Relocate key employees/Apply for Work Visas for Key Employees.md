@@ -4,7 +4,7 @@ permalink: /build-my-team/relocate-key-employees/work-visas/
 description: Apply for Work Visas for Key Employees
 third_nav_title: Relocate key employees
 ---
-## Apply for Work Visas for Key Employees
+## Work visas
 
 All foreigners who intend to work in Singapore must have a valid work pass (commonly known as a work visa) before they start work.
 
@@ -78,7 +78,7 @@ It may take longer if additional information is required</td>
 			<td><a target="\_blank" href="https://www.mom.gov.sg/passes-and-permits/entrepass">Visit MOM Website on EntrePass</a></td>
 </tr></tbody></table>
 
-[Back to top](#apply-for-work-visas-for-key-employees)<br><br>
+[Back to top](#Work-visas)<br><br>
 
 <hr>
 
