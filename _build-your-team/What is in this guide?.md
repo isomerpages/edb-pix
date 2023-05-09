@@ -16,6 +16,7 @@ Key questions you might have include:
 
 You can find the answers to these questions in the relevant sections using the navigation bar on the left.
 
+
 _We have developed this guide to address common questions companies may have about talent in Singapore, and have included some non-government resources we have found to ease your search for information. However, we do not endorse or promote any content in particular, and kindly ask you to exercise discretion when referring to these resources._
 
 <br>
