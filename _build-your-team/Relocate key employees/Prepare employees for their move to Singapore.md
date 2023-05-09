@@ -87,7 +87,7 @@ Joining SGN is a good starting point for those looking to connect with Singapore
 
 ##### StartupSG – Singapore’s startup community
 
-<a target="_blank" href="https://www.startupsg.gov.sg/">StartupSG</a>is a network of over 4,500 start-ups, over 500 investors and over 200 incubators &amp; accelerators in Singapore. The network offers an <a target="_blank" href="https://www.startupsg.gov.sg/directory/startups/">open directory</a> you can access to connect directly with companies in the community, a recommendation engine which can suggest potential business partners and a platform for startups to directly upload their pitches to investors and other partners.
+<a target="_blank" href="https://www.startupsg.gov.sg/">StartupSG</a> is a network of over 4,500 start-ups, over 500 investors and over 200 incubators &amp; accelerators in Singapore. The network offers an <a target="_blank" href="https://www.startupsg.gov.sg/directory/startups/">open directory</a> you can access to connect directly with companies in the community, a recommendation engine which can suggest potential business partners and a platform for startups to directly upload their pitches to investors and other partners.
 
 ##### Communities on social media
 
