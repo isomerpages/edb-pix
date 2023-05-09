@@ -4,7 +4,7 @@ permalink: /build-my-team/employment-practices-in-sg/overview/
 description: Overview of Hire Local Talent
 third_nav_title: Employment practices in SG
 ---
-# Understanding Employment Practices in Singapore
+## Understanding Employment Practices in Singapore
 
 When hiring your first employees in Singapore, it is useful to familiarise yourself with the employment laws and guidelines that employers have to adhere to in Singapore.
 
