@@ -4,7 +4,7 @@ permalink: /build-my-team/relocate-key-employees/overview/
 description: Overview of Relocate Key Employees
 third_nav_title: Relocate key employees
 ---
-## Relocating Key Employees to Singapore
+## Relocating key employees to Singapore
 
 There are several key considerations companies have to address when relocating key employees to Singapore:
 
