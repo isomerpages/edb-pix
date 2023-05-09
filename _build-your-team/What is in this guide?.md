@@ -15,3 +15,10 @@ Key questions you might have include:
 * What are the [employment laws and guidelines](/build-my-team/employment-practices-in-sg/overview/) I should take note of as an employer in Singapore?
 
 You can find the relevant sections using the navigation bar on the left.
+
+<br><br>
+
+<hr>
+
+##### Did you find what you need?
+[Send us your feedback](https://form.gov.sg/642693623cb98f001239be0d)
