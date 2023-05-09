@@ -4,7 +4,7 @@ permalink: /build-my-team/admin/relocate/
 description: For companies relocating foreign employees
 third_nav_title: Key administrative steps
 ---
-# For companies relocating foreign employees to Singapore
+## For companies relocating foreign employees to Singapore
 
 In addition to performing the key administrative steps detailed in the previous section, you are required to take note of the following requirements depending on the type of passes that your employees will be on.
 
