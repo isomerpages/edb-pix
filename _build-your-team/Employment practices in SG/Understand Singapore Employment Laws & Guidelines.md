@@ -4,8 +4,6 @@ permalink: /build-my-team/employment-practices/employment-laws-guidelines/
 description: Understand Singapore Employment Laws & Guidelines
 third_nav_title: Employment practices in SG
 ---
-## Understand Singapore Employment Laws &amp; Guidelines
-
 ### Familiarise yourself with Singapore’s Employment Laws
 
 
