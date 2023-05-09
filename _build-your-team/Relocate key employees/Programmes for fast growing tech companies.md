@@ -16,7 +16,7 @@ If your company is eligible, you can expect to receive:
 
 * Coverage for the first renewal of each new EP obtained under the programme (each renewal will be valid for up to three years)
 
-[Find out more about the Tech@SG programme](https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes/tech-sg.html)
+<a target="_blank" href="https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes/tech-sg.html">Find out more about the Tech@SG programme</a>
 
 <br>
 
