@@ -4,9 +4,9 @@ permalink: /build-my-team/relocate-key-employees/fair-consideration-framework/
 description: Take note of the Fair Consideration Framework
 third_nav_title: Relocate key employees
 ---
-## Take note of the Fair Consideration Framework
+## Fair Consideration Framework (FCF)
 
-The [Fair Consideration Framework (FCF)](https://www.mom.gov.sg/employment-practices/fair-consideration-framework) sets out requirements for all employers in Singapore to consider the workforce in Singapore fairly for job opportunities. Employers should not discriminate on characteristics that are not related to the job, such as age, gender, nationality or race.
+The [FCF](https://www.mom.gov.sg/employment-practices/fair-consideration-framework) sets out requirements for all employers in Singapore to consider the workforce in Singapore fairly for job opportunities. Employers should not discriminate on characteristics that are not related to the job, such as age, gender, nationality or race.
 
 To promote fair employment practices and improve labour market transparency, employers submitting Employment Pass and S Pass applications must first advertise on [MyCareersFuture](https://www.mycareersfuture.gov.sg/) and fairly consider all candidates.
 
