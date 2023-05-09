@@ -7,10 +7,10 @@ third_nav_title: Relocate key employees
 ## Moving to Singapore
 
 
-Singapore has been consistently ranked best place for expats to live and work in Asia [\[1\]](#_ftn1) and the safest country with the highest quality of living in Asia. [\[2\]](#_ftn2)
+Singapore has been consistently ranked best place for expats to live and work in Asia <sup>[\[1\]](#_ftn1)</sup> and the safest country with the highest quality of living in Asia. <sup>[\[2\]](#_ftn2)</sup>
 
 For those planning to live and work in Singapore, they would want to better understand:
-
+* [How is it like to live and work in Singapore?](#understanding-how-it-is-like-to-live-in-singapore)
 * [What are the Housing options for my family?](#find-housing-in-singapore)
 * [What are the Education options for my family?](#apply-to-enrol-in-singapores-education-system)
 * [What are some Communities that my family and I can join?](#join-communities-in-singapore)
@@ -20,14 +20,18 @@ _Just a quick note – we refer to several independent resources available on th
 
 <br>
 
+### Understanding how it is like to live in Singapore
+
+The Singapore Global Network has <a target="_blank" href="https://singaporeglobalnetwork.gov.sg/guides/">a series of guides</a> which covers many aspects of living and working in Singapore.
+
+You can also read <a target="_blank" href="https://www.edb.gov.sg/en/setting-up-in-singapore/business-guides/guide-to-living-in-singapore.html">this guide</a> to get a snapshot of living expenses in Singapore and find out about the health care, housing and public transport options available.
+
 
 ### Find housing in Singapore
 
 Most expatriates would consider renting when first relocating to Singapore. You may wish to explore property portals such as <a target="_blank" href="https://www.propertyguru.com.sg/">PropertyGuru</a> or <a target="_blank" href="https://www.99.co/">99.co</a> for rental options across different areas in Singapore.
 
 You can also consider co-living or serviced residences, which may provide greater flexibility as they offer shorter lease periods. Dollars and Sense, a local personal finance website, <a target="_blank" href="https://dollarsandsense.sg/price-guide-co-living-spaces-serviced-apartments/">offers a comprehensive guide to co-living and serviced residences in Singapore</a>.
-
-For more comprehensive information, read this <a target="_blank" href="https://singaporeglobalnetwork.gov.sg/guides/settling-in-sg/">guide to Settling in Singapore</a> by the Singapore Global Network which covers many other aspects of living and working in Singapore, beyond housing.
 
 [Back to top](#moving-to-singapore)<br>
 
@@ -89,11 +93,11 @@ Joining SGN is a good starting point for those looking to connect with Singapore
 
 There are also several independently formed communities on Facebook that you can join to connect with and seek advice from other expatriates living in Singapore:
 
-* <a target="_blank" href="">Singapore Expat </a>
-* <a target="_blank" href="">Expats in Singapore </a>
-* <a target="_blank" href="">American Expats in Singapore</a>
-* <a target="_blank" href="">Spanish Expats in Singapore </a>
-* <a target="_blank" href="">French Expats in Singapore </a>
+* <a target="_blank" href="https://www.facebook.com/groups/SingaporeExpatscom">Singapore Expat </a>
+* <a target="_blank" href="https://www.facebook.com/groups/124648157604640">Expats in Singapore </a>
+* <a target="_blank" href="https://www.facebook.com/groups/americansinsingapore">American Expats in Singapore</a>
+* <a target="_blank" href="https://www.facebook.com/groups/spanishinsingapore/">Spanish Expats in Singapore </a>
+* <a target="_blank" href="https://www.facebook.com/groups/frenchinsingapore/">French Expats in Singapore </a>
 
 
 ### Find service providers to assist with relocation
@@ -102,6 +106,8 @@ EDB Connection Concierge links you to a curated network of immigration and visa 
 
 Find a service provider that can help with your relocation needs <a target="_blank" href="https://www.edb.gov.sg/connections-concierge/service-providers.html?tab=general-service-providers&amp;servicecategory=recruitment&amp;hrsolutions">here</a>.
 
+
   
 	
 [Back to top](#moving-to-singapore)<br><br>
+
