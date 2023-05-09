@@ -80,9 +80,9 @@ It may take longer if additional information is required</td>
 
 ## Take note of the Fair Consideration Framework (FCF)
 
-The <a target="_blank" href="https://www.mom.gov.sg/employment-practices/fair-consideration-framework"> &gt;FCF] sets out requirements for all employers in Singapore to consider the workforce in Singapore fairly for job opportunities. Employers should not discriminate on characteristics that are not related to the job, such as age, gender, nationality or race.
+The <a target="_blank" href="https://www.mom.gov.sg/employment-practices/fair-consideration-framework"> FCF</a> sets out requirements for all employers in Singapore to consider the workforce in Singapore fairly for job opportunities. Employers should not discriminate on characteristics that are not related to the job, such as age, gender, nationality or race.
 
-To promote fair employment practices and improve labour market transparency, employers submitting Employment Pass and S Pass applications must first advertise on </a><a target="_blank" href="https://www.mycareersfuture.gov.sg/">MyCareersFuture</a> and fairly consider all candidates.
+To promote fair employment practices and improve labour market transparency, employers submitting Employment Pass and S Pass applications must first advertise on <a target="_blank" href="https://www.mycareersfuture.gov.sg/">MyCareersFuture</a> and fairly consider all candidates.
 
 Find out more about the FCF job advertising requirements for <a target="_blank" href="https://www.mom.gov.sg/passes-and-permits/employment-pass/consider-all-candidates-fairly">Employment Pass</a> and <a target="_blank" href="https://www.mom.gov.sg/passes-and-permits/s-pass/consider-all-candidates-fairly">S Pass</a>
 
