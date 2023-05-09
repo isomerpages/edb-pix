@@ -12,7 +12,7 @@ There are several key considerations companies have to address when relocating k
 
 *  What are the [steps](/build-my-team/relocate-key-employees/work-visas/) to take when applying for a work visa in Singapore? How long does the application process usually take?
 
-*  What [government support](/build-my-team/relocate-key-employees/programmes-relocating-employees/) is available for companies seeking to relocate key employees to Singapore?
+*  Is there [government support](/build-my-team/relocate-key-employees/programmes-relocating-employees/) available for fast-growing tech companies seeking to relocate key employees to Singapore?
 
 * What are the [guidelines](/build-my-team/relocate-key-employees/fair-consideration-framework/) I would need to take note of when relocating employees to Singapore?
 
