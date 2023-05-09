@@ -4,10 +4,10 @@ permalink: /build-my-team/hire-local-talent/ihl/
 description: Hire through Institutes of Higher Learning
 third_nav_title: Hire local talent
 ---
-## Hire graduates from Singapore's Institutes of Higher Learning
+## Hire graduates
 Companies can grow their teams by tapping into a steady stream of local graduates armed with skills across various disciplines.
 
-### Local Universities
+### Local universities
 
 | University | Description |
 | -------- | -------- |
@@ -18,7 +18,7 @@ Companies can grow their teams by tapping into a steady stream of local graduate
 | [Singapore University of Social Sciences (SUSS)](https://www.suss.edu.sg/about-suss/centres/student-success-centre/career-development-office)     | SUSS provides an applied education in the social sciences for both fresh school leavers and adult learners, as well as in disciplines that have a strong impact on human and community development.   | 
 | [Singapore University of Technology &amp; Design (SUTD)](https://www.sutd.edu.sg/Student-Development/Career-Services/Industry-Partners/Why-SUTD)     | SUTD offers a multi-disciplinary human-centric curriculum focused on Design with degree programmes that cut across engineering and architecture disciplines.    | 
 
-### Local Polytechnics
+### Local polytechnics
 Polytechnics provide a hands-on, practice-based learning experience for students. As an industry partner, your company may offer work attachments for students, ranging from 6 weeks to 6 months.
 <br><br>
 **Polytechnics**
@@ -32,7 +32,7 @@ Polytechnics provide a hands-on, practice-based learning experience for students
 <br>
 <br>
 
-[Back to top](#hire-graduates-from-singapores-institutes-of-higher-learning)<br><br>
+[Back to top](#Hire-graduates)<br><br>
 
 <hr>
 
