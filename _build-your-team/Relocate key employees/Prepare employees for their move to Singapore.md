@@ -7,7 +7,7 @@ third_nav_title: Relocate key employees
 ## Moving to Singapore
 
 
-Singapore has been consistently ranked best place for expats to live and work in Asia<sup><a target="_blank" href="https://www.mercer.com.sg/newsroom/2019-quality-of-living-survey.html">1</a></sup> and the safest country with the highest quality of living in Asia<sup><a target="_blank" href="https://www.expat.hsbc.com/expat-explorer/league-table/">2</a></sup>. 
+Singapore has been consistently ranked best place for expats to live and work in Asia<sup><a href="#ftn1">1</a></sup> and the safest country with the highest quality of living in Asia<sup><a href="#ftn2">2</a></sup>. 
 
 For those planning to live and work in Singapore, they would want to better understand:
 * [How is it like to live and work in Singapore?](#understanding-how-it-is-like-to-live-in-singapore)
@@ -118,6 +118,6 @@ Find a service provider that can help with your relocation needs <a target="_bla
 
 <br>
 
-<sub>1 <a target="_blank" href="https://www.mercer.com.sg/newsroom/2019-quality-of-living-survey.html">Mercer, “Singapore tops Mercer's 21st Quality of Living Ranking for Asia”, 13 March 2019</a><br>
-2 <a target="_blank" href="https://www.expat.hsbc.com/expat-explorer/league-table/">HSBC, Expat Explorer 2021</a>
+<sub>1 <a target="_blank" href="https://www.mercer.com.sg/newsroom/2019-quality-of-living-survey.html" id="ftn1">Mercer, “Singapore tops Mercer's 21st Quality of Living Ranking for Asia”, 13 March 2019</a><br>
+2 <a target="_blank" href="https://www.expat.hsbc.com/expat-explorer/league-table/" id="ftn2">HSBC, Expat Explorer 2021</a>
 	</sub>
