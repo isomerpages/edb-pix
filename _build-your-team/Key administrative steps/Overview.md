@@ -4,7 +4,7 @@ permalink: /build-my-team/admin/
 description: Overview
 third_nav_title: Key administrative steps
 ---
-# Key administrative steps for hiring or relocating
+## Key administrative steps for hiring or relocating
 
 Ready to build your team? There are some key administrative steps that you need to take before hiring or relocating employees in Singapore.
 
