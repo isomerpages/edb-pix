@@ -4,7 +4,7 @@ permalink: /build-my-team/hire-local-talent/ihl/
 description: Hire through Institutes of Higher Learning
 third_nav_title: Hire local talent
 ---
-# Hire graduates from Singapore's Institutes of Higher Learning
+## Hire graduates from Singapore's Institutes of Higher Learning
 Companies can grow their teams by tapping into a steady stream of local graduates armed with skills across various disciplines.
 
 ### Local Universities
