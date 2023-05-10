@@ -14,7 +14,7 @@ Key questions you might have include:
 * How can I get in touch with partners that can help me with [hiring](/build-my-team/hire-local-talent/portals-agencies/) or [relocating](/build-my-team/relocate-key-employees/prepare-employees-for-move-to-sg/#find-service-providers-to-assist-with-relocation) my key employees?
 * What are the [employment laws and guidelines](/build-my-team/employment-practices-in-sg/overview/) I should take note of as an employer in Singapore?
 
-You can find the answers to these questions in the relevant sections using the navigation bar on the left.
+You can find the answers to these questions in the relevant sections under the navigation menu.
 
 
 _We have developed this guide to address common questions companies may have about talent in Singapore, and have included some non-government resources we have found to ease your search for information. However, we do not endorse or promote any content in particular, and kindly ask you to exercise discretion when referring to these resources._
