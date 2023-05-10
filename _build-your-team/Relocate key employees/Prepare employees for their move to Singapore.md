@@ -17,15 +17,13 @@ For those planning to live and work in Singapore, they would want to better unde
 * [Who are some service providers that can help with my relocation to Singapore?](#find-service-providers-to-assist-with-relocation)
 
 _Just a quick note – we refer to several independent resources available on the internet targeted at people relocating to Singapore as part of this guide to ease your search for information. However, we do not endorse or promote any content in particular, and kindly ask you to exercise discretion when referring to these resources._
-
-<br>
+<br><br>
 
 ### Understanding how it is like to live in Singapore
 
 The Singapore Global Network has <a target="_blank" href="https://singaporeglobalnetwork.gov.sg/guides/">a series of guides</a> which covers many aspects of living and working in Singapore.
 
-You can also read <a target="_blank" href="https://www.edb.gov.sg/en/setting-up-in-singapore/business-guides/guide-to-living-in-singapore.html">this guide</a> to get a snapshot of living expenses in Singapore and find out about the health care, housing and public transport options available.
-
+You can also read <a target="_blank" href="https://www.edb.gov.sg/en/setting-up-in-singapore/business-guides/guide-to-living-in-singapore.html">this guide</a> to get a snapshot of living expenses in Singapore and find out about the health care, housing and public transport options available.<br><br>
 
 ### Find housing in Singapore
 
@@ -33,10 +31,7 @@ Most expatriates would consider renting when first relocating to Singapore. You 
 
 You can also consider co-living or serviced residences, which may provide greater flexibility as they offer shorter lease periods. Dollars and Sense, a local personal finance website, <a target="_blank" href="https://dollarsandsense.sg/price-guide-co-living-spaces-serviced-apartments/">offers a comprehensive guide to co-living and serviced residences in Singapore</a>.
 
-[Back to top](#moving-to-singapore)<br>
-
-<br>
-
+[Back to top](#moving-to-singapore)<br><br>
 
 
 ### Apply to enrol in Singapore’s education system
@@ -49,13 +44,13 @@ Read <a target="_blank" href="https://singaporeglobalnetwork.gov.sg/guides/educa
 
 Preschools in Singapore provide care and education for children between 2 months and below 7 years. Find out more about preschools in Singapore on the <a target="_blank" href="https://www.ecda.gov.sg/parents/choosing-a-preschool/choosing-a-preschool-for-your-child">Early Childhood Development Agency (ECDA) website</a>
 
-You can also search for a preschool using the <a target="_blank" href="https://go.gov.sg/ecda-psp">Preschool Search Portal</a>.
+You can also search for a preschool using the <a target="_blank" href="https://go.gov.sg/ecda-psp">Preschool Search Portal</a>.<br>
 
 ##### Mainstream  public schools
 
 Singapore’s mainstream public school system offers admission for international students. Learn more about the <a target="_blank" href="https://www.moe.gov.sg/international-students/studying-in-singapore">key considerations for parents</a> who are considering to enrol their child into Singapore’s mainstream education system.
 
-You can find detailed information on the <a target="_blank" href="https://www.moe.gov.sg/international-students/admission">admissions process for international students on the Ministry of Education website.</a>
+You can find detailed information on the <a target="_blank" href="https://www.moe.gov.sg/international-students/admission">admissions process for international students on the Ministry of Education website.</a><br>
 
 ##### Privately-funded international schools
 
@@ -69,11 +64,7 @@ Alternatively, parents who wish for their children to continue under their exist
 
 You can find information on international schools in Singapore on platforms such as the <a target="_blank" href="https://www.international-schools-database.com/in/singapore">International Schools Database</a> or <a target="_blank" href="https://www.sassymamasg.com/schools-guide/">Sassy Mama</a>
 
-[Back to top](#moving-to-singapore)<br>
-
-<br>
-
-
+[Back to top](#moving-to-singapore)<br><br>
 
 ### Join communities in Singapore
 
@@ -84,11 +75,11 @@ If you prefer to learn about living and working in Singapore through meeting peo
 The <a target="_blank" href="https://singaporeglobalnetwork.gov.sg">Singapore Global Network (SGN)</a> is a global community of over 104,000 members, aimed at creating meaningful connections between its members which comprise of Singaporeans, people who have worked or lived in Singapore or those simply interested in exploring opportunities in Singapore.
 
 Joining SGN is a good starting point for those looking to connect with Singaporeans and other who have lived and worked in Singapore.
-
+<br>
 ##### StartupSG – Singapore’s startup community
 
 <a target="_blank" href="https://www.startupsg.gov.sg/">StartupSG</a> is a network of over 4,500 start-ups, over 500 investors and over 200 incubators &amp; accelerators in Singapore. The network offers an <a target="_blank" href="https://www.startupsg.gov.sg/directory/startups/">open directory</a> you can access to connect directly with companies in the community, a recommendation engine which can suggest potential business partners and a platform for startups to directly upload their pitches to investors and other partners.
-
+<br>
 ##### Communities on social media
 
 There are also several independently formed communities on Facebook that you can join to connect with and seek advice from other expatriates living in Singapore:
@@ -98,6 +89,7 @@ There are also several independently formed communities on Facebook that you can
 * <a target="_blank" href="https://www.facebook.com/groups/americansinsingapore">American Expats in Singapore</a>
 * <a target="_blank" href="https://www.facebook.com/groups/spanishinsingapore/">Spanish Expats in Singapore </a>
 * <a target="_blank" href="https://www.facebook.com/groups/frenchinsingapore/">French Expats in Singapore </a>
+<br><br>
 
 
 ### Find service providers to assist with relocation
