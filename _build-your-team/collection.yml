@@ -1,0 +1,25 @@
+collections:
+  build-your-team:
+    output: true
+    order:
+      - What is in this guide?.md
+      - Hire local talent/.keep
+      - Hire local talent/Overview.md
+      - Hire local talent/Hire through job portals & recruitment agencies.md
+      - Hire local talent/Hire through Institutes of Higher Learning.md
+      - Hire local talent/Understand salary & benefits expectations.md
+      - Relocate key employees/.keep
+      - Relocate key employees/Overview.md
+      - Relocate key employees/Apply for work visas for key employees.md
+      - Relocate key employees/Programmes for fast growing tech companies.md
+      - Relocate key employees/Prepare employees for their move to Singapore.md
+      - Key administrative steps/.keep
+      - Key administrative steps/Overview.md
+      - Key administrative steps/For all companies.md
+      - Key administrative steps/For companies relocating foreign employees.md
+      - Employment practices in SG/.keep
+      - Employment practices in SG/Overview.md
+      - Employment practices in SG/Get to know the relevant government bodies.md
+      - Employment practices in SG/Understand Singapore's employment laws &
+        guidelines.md
+      - Employment practices in SG/Get resources & advice.md
