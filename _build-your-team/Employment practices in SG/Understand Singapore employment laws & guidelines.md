@@ -4,13 +4,13 @@ permalink: /build-my-team/employment-practices/employment-laws-guidelines/
 description: Understand Singapore employment laws & guidelines
 third_nav_title: Employment practices in SG
 ---
-### Familiarise yourself with Singapore’s employment laws
+## Familiarise yourself with Singapore’s employment laws
 
 <a target="_blank" href="https://www.mom.gov.sg/employment-practices/employment-act">The Employment Act</a> is Singapore’s main labour law. It outlines the basic terms and working conditions for all types of employees. It includes guidelines on paid public holiday &amp; leave entitlements for employees, and process requirements for employers.
 
 Foreign employees holding a work pass are also covered by the <a target="_blank" href="https://www.mom.gov.sg/legislation/employment-of-foreign-manpower-act">Employment of Foreign Manpower Act</a>, which outlines an employer’s responsibilities and obligations for employing foreigners.
 
-### Read guidelines for fair employment and consideration
+## Read guidelines for fair employment and consideration
 
 
 Employers should take note of the <a target="_blank" href="https://www.mom.gov.sg/employment-practices/fair-consideration-framework">Fair Consideration Framework</a>, which sets out requirements for all employers to consider the workforce in Singapore fairly for job opportunities.
