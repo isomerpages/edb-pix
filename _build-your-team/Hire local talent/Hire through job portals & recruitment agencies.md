@@ -4,7 +4,7 @@ permalink: /build-my-team/hire-local-talent/portals-agencies/
 description: Hire through job portals & recruitment agencies
 third_nav_title: Hire local talent
 ---
-### Job portals that local talent use
+## Job portals that local talent use
 
 | General | Tech/Startup-focused |
 | -------- | -------- |
@@ -14,7 +14,7 @@ third_nav_title: Hire local talent
 |  <a target="_blank" href="https://business.linkedin.com/talent-solutions">LinkedIn</a>[]()    | <a target="_blank" href="https://startupjobs.asia/auth/signup/startup">Startup Jobs Asia</a>     |
 |  <a target="_blank" href="https://www.stjobs.sg">STJobs</a>    | <a target="_blank" href="https://www.techinasia.com/jobs/employers">Tech in Asia</a>     |
 
-### Recruitment agencies
+## Recruitment agencies
 EDB Connections Concierge links you to a curated network of recruitment and HR solution providers that you may tap on to recruit talent in Singapore. For any enquiry sent via Connections Concierge, you can expect a response within three working days.&nbsp;
 
 Get in touch with a service provider that can help with your recruitment and talent needs&nbsp;<a target="_blank" href="https://www.edb.gov.sg/connections-concierge/service-providers.html?tab=general-service-providers&amp;servicecategory=recruitment&amp;hrsolutions">here.</a>
