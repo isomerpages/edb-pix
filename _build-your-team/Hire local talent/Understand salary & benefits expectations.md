@@ -19,7 +19,10 @@ EDB offers comprehensive guides for hiring talent in Singapore, which provide in
 * <a target="_blank" href="https://www.edb.gov.sg/en/setting-up-in-singapore/business-guides/guide-to-hiring-your-dream-tech-team-in-singapore.html">Guide to Hiring Your Dream Tech Team in Singapore</a>
 
 ### Other salary guides
-There are also many salary guides developed by recruitment companies available online that you may consider as reference. 
+There are a number of salary guides developed by recruitment companies we have discovered in our research that we have compiled here for your reference. 
+
+However, we do not endorse or promote any content in particular, and kindly ask you to exercise discretion when referring to these resources.
+<br>
 
 
 | General salary guides | Tech-focused salary guides |
