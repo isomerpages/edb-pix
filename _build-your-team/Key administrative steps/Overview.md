@@ -9,9 +9,9 @@ third_nav_title: Key administrative steps
 Ready to build your team? There are some key administrative steps that you need to take before hiring or relocating employees in Singapore.
 
 #### For all companies
-* [Register your business with the Accounting and Corporate Regulatory Authority (ACRA)](/build-my-team/admin/all/)
-* [Apply for a CPF Submission Number (CSN)](/build-my-team/admin/all/)
-* [Register for a Corppass Account](/build-my-team/admin/all/)
+1. [Register your business with the Accounting and Corporate Regulatory Authority (ACRA)](/build-my-team/admin/all/)
+2. [Apply for a CPF Submission Number (CSN)](/build-my-team/admin/all/)
+3. [Register for a Corppass Account](/build-my-team/admin/all/)
 
 #### For companies relocating foreign employees to Singapore
 In addition to the three steps above:
