@@ -1,5 +1,4 @@
 collections:
   find-a-connection:
     output: true
-    order:
-      - Connection 1.md
+    order: []
