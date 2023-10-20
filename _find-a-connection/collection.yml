@@ -1,5 +1,0 @@
-collections:
-  find-a-connection:
-    output: true
-    order:
-      - Connection Directory.md
