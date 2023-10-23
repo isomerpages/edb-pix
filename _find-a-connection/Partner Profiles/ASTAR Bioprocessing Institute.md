@@ -26,7 +26,7 @@ BTI partners with companies across various problem statements in three models:
 * Cultured food product developers looking for custom culture media
 * Cultured food product developers looking for custom edible scaffolds
 
-**Where is this offered? **
+**Where is this offered?** 
 Singapore
 
 ##### Request Introduction (Link to formsg)
