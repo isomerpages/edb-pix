@@ -16,7 +16,7 @@ sections:
           - title: Setting up my business in Singapore
             url: /set-up-my-business-in-singapore/
           - title: Finding a Connection
-            url: /find-a-connection/how-this-works
+            url: find-a-connection/how-this-works/
           - title: Building my team in Singapore
             url: /build-my-team/build/
           - title: Growing my business in Southeast Asia from Singapore
