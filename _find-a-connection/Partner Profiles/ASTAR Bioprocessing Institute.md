@@ -20,7 +20,7 @@ BTI partners with companies across various problem statements in three models:
 2. License agreement 
 3. Service agreement
 
-**Who is this suitable for? **
+**Who is this suitable for?** 
 * Cultured food product developers looking to co-develop custom cell lines 
 * Solution providers looking to supply to the culture meat industry
 * Cultured food product developers looking for custom culture media
@@ -28,4 +28,5 @@ BTI partners with companies across various problem statements in three models:
 
 **Where is this offered? **
 Singapore
-###### Request Introduction
+
+###### Request Introduction (Link to formsg)
