@@ -9,8 +9,8 @@ Welcome! **This connection feature is a limited release** - we would like to see
 We build this connection feature as we learnt that.....
 
 #### Requesting for a connection
-1. You can find the list of connections and their capabilities in the connection directory panel -insert link-.
-2. If you would like to connect with the partner, click on "Request to Connect". You would need to fill in a FormSG. 
+1. You can find the list of connections and their capabilities in the [connection directory panel](/find-a-connection/partner-directory/).
+2. If you would like to connect with the partner, click on "Request Introduction". You would need to fill in a FormSG detailing information about your request.
 3. You would receive a reply latest by -insert SLA-
 
 #### FAQs and Feedback
