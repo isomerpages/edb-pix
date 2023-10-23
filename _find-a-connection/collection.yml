@@ -2,6 +2,6 @@ collections:
   find-a-connection:
     output: true
     order:
-      - Partner Profiles/.keep
       - How this works.md
       - Partner Directory.md
+      - Partner Profiles/.keep
