@@ -1,0 +1,6 @@
+---
+title: ASTAR Bioprocessing Institute
+permalink: /find-a-connection/partner-profiles/astar-bioprocessing-institute/
+description: ""
+third_nav_title: Partner Profiles
+---
