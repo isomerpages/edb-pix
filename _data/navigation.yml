@@ -2,10 +2,10 @@ logo: /images/blankpng.png
 links:
   - title: Set up business
     url: /set-up-my-business-in-singapore/
+  - title: Find a Connection
+    collection: find-a-connection
   - title: Build Your Team
     collection: build-your-team
-  - title: Find A Connection
-    url: /connections
   - title: Grow business in SEA
     collection: grow-business-in-sea
   - title: Company case studies
