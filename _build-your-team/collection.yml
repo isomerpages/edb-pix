@@ -2,7 +2,6 @@ collections:
   build-your-team:
     output: true
     order:
-      - Browse Resources.md
       - What is in this guide?.md
       - Hire local talent/.keep
       - Hire local talent/Overview.md
@@ -24,3 +23,4 @@ collections:
       - Employment practices in SG/Understand Singapore's employment laws &
         guidelines.md
       - Employment practices in SG/Get resources & advice.md
+      - Browse Resources.md
