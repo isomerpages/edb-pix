@@ -2,7 +2,7 @@ collections:
   find-government-support:
     output: true
     order:
-      - Grow my business and new capabilities.md
-      - Sustainability.md
       - Government Assistance and Schemes.md
       - Talent and Workforce Development.md
+      - Grow my business and new capabilities.md
+      - Sustainability.md
