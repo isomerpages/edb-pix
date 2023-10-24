@@ -2,4 +2,5 @@ collections:
   find-government-support:
     output: true
     order:
+      - Talent Development.md
       - Government assistance and schemes.md
