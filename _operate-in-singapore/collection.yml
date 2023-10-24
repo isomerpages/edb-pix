@@ -2,5 +2,5 @@ collections:
   operate-in-singapore:
     output: true
     order:
-      - Finding Space for My Business.md
       - Set up my business in Singapore.md
+      - Finding Space for My Business.md
