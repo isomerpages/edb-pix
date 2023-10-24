@@ -1,4 +1,5 @@
 collections:
   operate-in-singapore:
     output: true
-    order: []
+    order:
+      - Set up my business in Singapore.md
