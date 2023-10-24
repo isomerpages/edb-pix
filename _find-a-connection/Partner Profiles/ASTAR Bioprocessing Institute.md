@@ -12,7 +12,9 @@ third_nav_title: Partner Profiles
 | -------- | -------- | 
 | Website |  (insert link)
 | Organisation Type| (insert type)
+
 <br>
+
 #### Ways to work with BTI
 ##### CRISP MEATS (Centre of Innovation for Sustainable Banking and Production of Cultivated Meats)
 <br>
