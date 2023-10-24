@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Build your first team/.keep
-      - Build your first team.md
       - What is in this guide?.md
       - Hire local talent/.keep
       - Hire local talent/Overview.md
