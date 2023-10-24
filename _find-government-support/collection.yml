@@ -1,4 +1,5 @@
 collections:
   find-government-support:
     output: true
-    order: []
+    order:
+      - Government assistance and schemes.md
