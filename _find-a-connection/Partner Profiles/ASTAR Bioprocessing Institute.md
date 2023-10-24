@@ -6,6 +6,8 @@ third_nav_title: Partner Profiles
 ---
 ### ASTAR Bioprocessing Institute
 #### Overview
+<br>
+
 | ![](/images/edb%20virtual%20background_10_preview.jpg)  | The Bioprocessing Technology Institute is a national research institute funded by ASTAR, with core expertise in bioprocess science and engineering. Established in 1990 as the Bioprocessing Technology Unit, it was renamed the Bioprocessing Technology Institute (BTI) in 2003. BTI has integrated capabilities to accelerate innovation in biologic, cell and gene therapy and cultured meat. | 
 | -------- | -------- |
 |Website | (insert link) |  
@@ -14,7 +16,7 @@ third_nav_title: Partner Profiles
 
 #### Ways to work with BTI
 ##### CRISP MEATS (Centre of Innovation for Sustainable Banking and Production of Cultivated Meats)
-Crisp Meats is an integrated platform poised to tackle some of the major challenges that the industry encounters in cultivated meat production. Hosted by BTI, in collaboration with other research entitites and institutes-of-higher-learning, the programme has five workstreams to tackle the market needs in cell banking, culture media development, engineering & scaffold development. 
+Crisp Meats is an integrated platform poised to tackle some of the major challenges that the industry encounters in cultivated meat production. Hosted by BTI, in collaboration with other research entitites and institutes-of-higher-learning, the programme has five workstreams to tackle the market needs in cell banking, culture media development, engineering &amp; scaffold development. 
 
 BTI partners with companies across various problem statements in three models: 
 1. Research collaboration agreement
