@@ -2,11 +2,11 @@ collections:
   build-your-team:
     output: true
     order:
-      - Build your first team/Understand salary & benefits expectations.md
       - Build your first team/.keep
       - Build your first team/Understand Singapore's employment laws &
         guidelines.md
       - Build your first team/Hiring in Singapore.md
+      - Build your first team/Understand salary & benefits expectations.md
       - Grow your team/Build a pipeline of local talent.md
       - Grow your team/.keep
       - What is in this guide?.md
