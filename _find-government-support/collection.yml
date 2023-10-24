@@ -1,0 +1,4 @@
+collections:
+  find-government-support:
+    output: true
+    order: []
