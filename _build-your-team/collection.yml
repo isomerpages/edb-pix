@@ -2,6 +2,7 @@ collections:
   build-your-team:
     output: true
     order:
+      - Develop your talent/.keep
       - Build your first team/.keep
       - Build your first team/Understand Singapore's employment laws &
         guidelines.md
