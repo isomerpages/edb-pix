@@ -21,7 +21,7 @@ Get in touch with a service provider that can help with your recruitment and tal
 
 
 ## Government recruitment services
-|  |  |
+|    |     |
 | -------- | -------- | 
 | [**MyCareersFuture**](https://employer.mycareersfuture.gov.sg/)| Find candidates to build your team by posting job openings on MyCareersFuture. |
 | [**Employment and Employability Institute (e2i)**](https://www.e2i.com.sg/businesses/manpower/recruitment-services/) | Partner e2i on your recruitment, training, and job redesign needs.
