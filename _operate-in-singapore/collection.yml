@@ -2,4 +2,5 @@ collections:
   operate-in-singapore:
     output: true
     order:
+      - Browse Recommendations.md
       - Set up my business in Singapore.md
