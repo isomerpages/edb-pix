@@ -77,3 +77,11 @@ It may take longer if additional information is required</td>
 				<td><a target="_blank" href="https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes/tech-pass.html">Visit EDB Website on Tech.Pass</a></td>
 			<td><a target="_blank" href="https://www.mom.gov.sg/passes-and-permits/entrepass">Visit MOM Website on EntrePass</a></td>
 </tr></tbody></table>
+
+
+<hr>
+
+
+##### Did you find what you need?
+
+[Send us your feedback](https://form.gov.sg/642693623cb98f001239be0d)
