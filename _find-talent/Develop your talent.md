@@ -10,7 +10,9 @@ Browse the following resources and government programmes according to the differ
 * [Developing new or deep capabilities](#Developing-new-or-deep-capabilities)
 * [Developing leadership talent](#Developing-leadership-talent)
 * [Skills advisory and transformation](#Skills-advisory-and-transformation)
-<br>
+
+
+
 ## Training and reskilling at risk jobs
 
 | Resource | Description |Website| 
