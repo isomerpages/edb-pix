@@ -1,5 +1,5 @@
 collections:
-  build-your-team:
+  find-talent:
     output: true
     order:
       - Build your first team/.keep
