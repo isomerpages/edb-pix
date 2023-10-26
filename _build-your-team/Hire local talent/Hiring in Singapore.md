@@ -20,18 +20,6 @@ EDB Connections Concierge links you to a curated network of recruitment and HR s
 Get in touch with a service provider that can help with your recruitment and talent needs&nbsp;<a target="_blank" href="https://www.edb.gov.sg/connections-concierge/service-providers.html?tab=general-service-providers&amp;servicecategory=recruitment&amp;hrsolutions">here.</a>
 
 
-## Government recruitment services
-|Organisation| Website |
-| -------- | -------- | 
-| **MyCareersFuture**<br> Find candidates to build your team by posting job openings on MyCareersFuture. | [Visit MyCareersFuture](https://employer.mycareersfuture.gov.sg/)|
-| **Employment and Employability Institute (e2i)**<br>Partner e2i on your recruitment, training, and job redesign needs. | [Visit e2i](https://www.e2i.com.sg/businesses/manpower/recruitment-services/) | 
-
-<br>
-<br>
-<br>
-
-[Back to top](#job-portals-that-local-talent-use)<br><br>
-
 <hr>
 
 ##### Did you find what you need?
