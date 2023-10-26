@@ -2,6 +2,7 @@ collections:
   find-talent:
     output: true
     order:
+      - Training and upskilling my team.md
       - Build your first team/.keep
       - Build your first team/Understand Singapore's employment laws &
         guidelines.md
