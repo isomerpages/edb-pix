@@ -12,7 +12,44 @@ All foreigners who intend to work in Singapore must have a valid work pass (comm
 * If you are a working professional or entrepreneur, you may apply for a relevant personalised work pass.  
 
 ## Employment Pass and S Pass
+The Employment Pass (EP) and S Pass allows foreign professionals, managers, executives and skilled workers to work in Singapore. An employer must apply for the EP or S Pass on behalf of the candidate. 
+
+This table provides an overview of the EP and S Pass: 
+<table>
+  <tbody><tr>
+    <th>Types of Work Passes </th>
+    <th>Employment Pass (EP)</th>
+    <th>S Pass</th>
+  </tr>
+  <tr>
+    <td><b>Who is this for?</b></td>
+    <td>Foreign professionals, managers and executives</td>
+    <td>Skilled workers who meet the  <a target="_blank" href="https://www.mom.gov.sg/passes-and-permits/s-pass/eligibility">eligibility criteria</a></td>
+    </tr>
+  <tr>
+    <td><b>Validity</b></td>
+    <td>2 years; or 5 years for tech professionals wef 1 Sep 2023</td>
+    <td>Up to 2 years</td>
+  </tr>
+  <tr>
+    <td><b>Min. fixed monthly salary</b></td>
+    <td>S$5,000, subject to progressive increase with age</td>
+    <td>S$3,150 to S$4,650, subject to progressive increase with age</td>
+    </tr>
+   <tr><td><b>How long does the application process usually take? </b></td>
+    <td>If you apply online: Processed or given an update within 10 business days.<br><br> For overseas company without a Singapore-registered company: <a target="_blank" href="https://www.mom.gov.sg/passes-and-permits/employment-pass/apply-for-a-pass">within 8 weeks</a> for most cases.</td>
+    <td><a target="_blank" href="https://www.mom.gov.sg/passes-and-permits/s-pass/apply-for-a-pass">Within 3 weeks for most cases</a></td>
+    </tr><tr><td><b>More information on eligibility and application process<b></b></b></td>
+		<td><a target="_blank" href="https://www.mom.gov.sg/passes-and-permits/employment-pass">Visit MOM Website on Employment Pass</a></td>
+				<td><a target="_blank" href="https://www.mom.gov.sg/passes-and-permits/s-pass">Visit MOM Website on S Pass</a></td>
+				</tr></tbody></table>
+
+#### Things to Note
+You may also use the S
+
 This table  provides an overview of the work visas your employees could apply for in order to have the right to work in Singapore:
+
+
 
 <table>
   <tbody><tr>
@@ -45,7 +82,7 @@ This table  provides an overview of the work visas your employees could apply fo
   <tr>
     <td><b>Min. fixed monthly salary</b></td>
     <td>S$5,000, subject to progressive increase with age</td>
-    <td>S$3,000 to S$3,500, subject to progressive increase with age</td>
+    <td>S$3,150 to S$4,650, subject to progressive increase with age</td>
     <td>S$30,000</td>
     <td>S$22,500 (wef 1 Sep 2023)</td>
     <td>S$20,000</td>
@@ -82,8 +119,6 @@ It may take longer if additional information is required</td>
 			<td><a target="_blank" href="https://www.mom.gov.sg/passes-and-permits/entrepass">Visit MOM Website on EntrePass</a></td>
 </tr></tbody></table>
 <br>
-
-## Things to Note
 
 
 
