@@ -10,7 +10,7 @@ Before you start building your team in Singapore, it helps to know the employmen
 
 Key questions you might have include:
 * What are the [channels for recruiting talent in Singapore?](/build-team/hire-local-talent/overview/) 
-* [What are the work visa options for my key employees?](/build-my-team/relocate-key-employees/work-visas/)
+* What are the [work visa options for my key employees](/build-my-team/relocate-key-employees/work-visas/)?
 * How much should I offer in terms of [salary &amp; benefits?](/build-my-team/hire-local-talent/salary-benefits/)
 * What are the [employment laws and guidelines](/build-my-team/employment-practices-in-sg/overview/) I should take note of as an employer in Singapore?
 
