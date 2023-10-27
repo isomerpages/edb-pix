@@ -29,13 +29,6 @@ Get in touch with a service provider that can help with your recruitment and tal
 
 <br>
 
-
-| Organisation | Description | Website |
-| -------- | -------- | -------- |
-| **MyCareersFuture**   | Find candidates to build your team by posting job openings on MyCareersFuture       | [Visit MyCareersFuture](https://employer.mycareersfuture.gov.sg/)      |
-| **Employment and Employability Institute (e2i)**    | Partner e2i on your recruitment, training, and job redesign needs.    | [Visit e2i](https://www.e2i.com.sg/businesses/manpower/recruitment-services/)     |
-
-
 <hr>
 
 ##### Did you find what you need?
