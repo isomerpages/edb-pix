@@ -9,7 +9,8 @@ third_nav_title: Build your first team
 All foreigners who intend to work in Singapore must have a valid work pass (commonly known as a work visa) before they start work.
 
 * If you are an **employer**, you may apply for the [Employment Pass and S Pass](#employment-pass-and-s-pass) for your foreign employees.
-* If you are a **working professional or entrepreneur**, you may apply for a relevant [](##)[personalised work pass](#personalised-work-pass).  
+* If you are a **working professional or entrepreneur**, you may apply for a relevant [personalised work pass](#personalised-work-pass).  
+* If you are a tech company **fast-growing tech company**, you may apply for the [Tech@SG programme](#tech@sg-programme).
 
 ## Employment Pass and S Pass
 The Employment Pass (EP) and S Pass allows foreign professionals, managers, executives and skilled workers to work in Singapore. An employer must apply for the EP or S Pass on behalf of the candidate. 
@@ -97,6 +98,8 @@ It may take longer if additional information is required</td>
 			<td><a target="_blank" href="https://www.mom.gov.sg/passes-and-permits/entrepass">Visit MOM Website on EntrePass</a></td>
 </tr></tbody></table>
 <br>
+
+## Tech@SG programme
 
 
 [Back to top](#work-visas)
