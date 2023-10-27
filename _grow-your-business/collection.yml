@@ -2,6 +2,7 @@ collections:
   grow-your-business:
     output: true
     order:
+      - Expanding in Southeast Asia/Grow in Southeast Asia from Singapore.md
       - Expanding in Southeast Asia/Southeast Asia's markets.md
       - Expanding in Southeast Asia/.keep
       - Connect with your industry.md
