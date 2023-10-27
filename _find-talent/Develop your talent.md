@@ -6,21 +6,21 @@ description: ""
 # Develop your Talent
 
 Browse the following resources and government programmes according to the different types of training and development needs: 
-* [Training and reskilling at-risk jobs](#Training-and-reskilling-at-risk-jobs)
-* [Developing new or deep capabilities](#Developing-new-or-deep-capabilities)
-* [Developing leadership talent](#Developing-leadership-talent)
-* [Skills advisory and transformation](#Skills-advisory-and-transformation)
+* [Training and reskilling at-risk jobs](#Trainingandreskillingatriskjobs)
+* [Developing new or deep capabilities](#Developingnewordeepcapabilities)
+* [Developing leadership talent](#Developingleadershiptalent)
+* [Skills advisory and transformation](#Skillsadvisoryandtransformation)
 
 
 
-## Training and reskilling at risk jobs
+### Training and reskilling at risk jobs
 
 | Resource | Description |Website| 
 | -------- | -------- | -------- |
 |    **Career Conversion Programme (CCP)** | Companies undergoing business transformation with workers at risk of redundancy can apply for the Redeployment / Job Redesign (JR) Reskilling CCP, which provides training support to prepare at-risk workers for new or redesigned job roles within the same company. |[Visit WSG](https://www.wsg.gov.sg/home/employers-industry-partners/workforce-development-job-redesign/career-conversion-programmes-employers)  | 
 
 
-## Developing new or deep capabilities 
+### Developing new or deep capabilities 
 
 | Resource | Description |Website| 
 | -------- | -------- | -------- |
@@ -28,14 +28,14 @@ Browse the following resources and government programmes according to the differ
 |**Training Grant for Company (TGC)**|Companies investing in manpower capability development to apply new technologies, industrial skills and professional know-how may apply for the TGC administered by EDB.|[Visit EDB](https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes.html)|
 
 
-## Developing leadership talent
+### Developing leadership talent
 
 | Resource | Description |Website| 
 | -------- | -------- | -------- |
 | **Singapore Global Leaders Network (SGLN)** | Companies grooming local talent for leadership roles may join the SGLN, where members can connect with other corporate leaders through workshops, networking events, a mentoring programme, and more.|[Visit SGLN](https://www.sgln.hcli.org/)|
 
 
-## Skills advisory and transformation
+### Skills advisory and transformation
 
 | Resource | Description |Website| 
 | -------- | -------- | -------- |
