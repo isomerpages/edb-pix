@@ -20,7 +20,6 @@ EDB Connections Concierge links you to a curated network of recruitment and HR s
 Get in touch with a service provider that can help with your recruitment and talent needs&nbsp;<a target="_blank" href="https://www.edb.gov.sg/connections-concierge/service-providers.html?tab=general-service-providers&amp;servicecategory=recruitment&amp;hrsolutions">here.</a>
 
 ## Government Recruitment Services
-<br>
 
 | Organisation | Website |
 | -------- | -------- |
