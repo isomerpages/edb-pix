@@ -1,5 +1,5 @@
 collections:
-  explore-business-opportunities:
+  grow-your-business:
     output: true
     order:
       - Connect with your industry.md
