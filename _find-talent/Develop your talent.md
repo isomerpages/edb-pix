@@ -6,11 +6,10 @@ description: ""
 # Develop your Talent
 
 Browse the following resources and government programmes according to the different types of training and development needs: 
-* [Training and reskilling at-risk jobs](#Trainingandreskillingatriskjobs)
-* [Developing new or deep capabilities](#Developingnewordeepcapabilities)
-* [Developing leadership talent](#Developingleadershiptalent)
-* [Skills advisory and transformation](#Skillsadvisoryandtransformation)
-
+* [Training and reskilling at-risk jobs](#training-and-reskilling-at-risk-jobs)
+* [Developing new or deep capabilities](#developing-new-or-deep-capabilities)
+* [Developing leadership talent](#developing-leadership-talent)
+* [Skills advisory and transformation](#skills-advisory-and-transformation)
 
 
 ### Training and reskilling at risk jobs
