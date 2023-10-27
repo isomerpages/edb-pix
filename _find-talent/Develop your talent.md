@@ -50,21 +50,6 @@ Browse the following resources and government programmes according to the differ
 <br>
 
 
-
-| Resource | Description | What is this for? |
-| -------- | -------- | -------- |
-| [Career Conversion Programme (CCP)](https://www.wsg.gov.sg/home/employers-industry-partners/workforce-development-job-redesign/career-conversion-programmes-employers)| Companies undergoing business transformation with workers at risk of redundancy can apply for the Redeployment / Job Redesign (JR) Reskilling CCP, which provides training support to prepare at-risk workers for new or redesigned job roles within the same company. | At-risk or vulnerable jobs |
-|[SkillsFuture Queen Bee Networks (SFQB)](https://www.gobusiness.gov.sg/enterprisejobskills/programmes-and-initiatives/upgrade-skills/skillsfuture-queen-bee-networks/)|Join a SFQB network to receive skills advisory and support from industry leaders in identifying and acquiring the skills needed for your business transformation.|SMEs looking for skills advisory|
-|Industrial Postgraduate Programme (IPP)|Companies can jointly scope research projects with a relevant Institute of Higher Learning (IHL) through the IPP and groom its employees as R&amp;D talent. Visit [NUS](https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/phd-master-of-engineering-industrial-postgraduate-programme/), [NTU](https://www.ntu.edu.sg/graduate-college/admissions/programme/industrial-postgraduate-programme-(ipp)), [SMU](https://graduatestudies.smu.edu.sg/phd/industrial-postgraduate-programme) or [SUTD](https://www.sutd.edu.sg/Admissions/Graduate/Industrial-Programmes/EDB-IPP) to find out more. |R&amp;D talent|
-|[Training Grant for Company (TGC)](https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes.html)|Companies investing in manpower capability development to apply new technologies, industrial skills and professional know-how may apply for the TGC administered by EDB|Developing deep, new capabilities|
-
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
 | Resource | Website | 
 | -------- | -------- | 
 |    **Career Conversion Programme (CCP)**<br>Companies undergoing business transformation with workers at risk of redundancy can apply for the Redeployment / Job Redesign (JR) Reskilling CCP, which provides training support to prepare at-risk workers for new or redesigned job roles within the same company. | <br> [Visit WSG](https://www.wsg.gov.sg/home/employers-industry-partners/workforce-development-job-redesign/career-conversion-programmes-employers)   | 
