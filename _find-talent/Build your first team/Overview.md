@@ -9,10 +9,10 @@ third_nav_title: Build your first team
 Before you start building your team in Singapore, it helps to know the employment landscape and what you need to do to hire or relocate employees to Singapore. <br>
 
 Key questions you might have include:
-* What are the [channels for recruiting talent in Singapore?](/build-team/hire-local-talent/overview/) 
-* What are the [work visa options for my key employees](/build-my-team/relocate-key-employees/work-visas/)?
+* What are the [channels for recruiting talent in Singapore?](/build-your-team/build-your-first-team/hiring-in-singapore/) 
+* What are the [work visa options for my key employees](/build-your-team/build-your-first-team/work-visas/)?
 * How much should I offer in terms of [salary &amp; benefits?](/build-my-team/hire-local-talent/salary-benefits/)
-* What are the [employment laws and guidelines](/build-my-team/employment-practices-in-sg/overview/) I should take note of as an employer in Singapore?
+* What are the [employment laws and guidelines]( /build-your-team/build-your-first-team/employment-laws-guidelines/) I should take note of as an employer in Singapore?
 
 You can find the answers to these questions in the relevant sections under the navigation menu.
 
