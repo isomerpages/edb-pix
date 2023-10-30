@@ -2,11 +2,11 @@ collections:
   grow-your-business:
     output: true
     order:
-      - Expanding in Southeast Asia/.keep
-      - Expanding in Southeast Asia/Grow in Southeast Asia from Singapore.md
-      - Expanding in Southeast Asia/Southeast Asia's markets.md
-      - Expanding in Southeast Asia/How others have expanded in Southeast Asia.md
-      - Expanding in Southeast Asia/Find partners to grow your business in
+      - Expand in Southeast Asia/.keep
+      - Expand in Southeast Asia/Grow in Southeast Asia from Singapore.md
+      - Expand in Southeast Asia/Southeast Asia's markets.md
+      - Expand in Southeast Asia/How others have expanded in Southeast Asia.md
+      - Expand in Southeast Asia/Find partners to grow your business in
         Southeast Asia.md
       - Find innovation partners.md
       - Growing your customer base.md
