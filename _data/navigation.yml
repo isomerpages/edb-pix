@@ -1,7 +1,7 @@
 logo: /images/blankpng.png
 links:
-  - title: Set up business
-    url: /set-up-my-business-in-singapore/
+  - title: Operate in Singapore
+    collection: operate-in-singapore
   - title: Find Talent
     collection: find-talent
   - title: Find Government Support
