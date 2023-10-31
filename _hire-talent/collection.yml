@@ -2,6 +2,7 @@ collections:
   hire-talent:
     output: true
     order:
+      - Hire Local Talent/Hire through Institutes of Higher Learning.md
       - Hire Local Talent/Hire through job portals and recruitment agencies.md
       - Hire Local Talent/Overview.md
       - Hire Local Talent/.keep
