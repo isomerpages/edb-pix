@@ -2,6 +2,7 @@ collections:
   hire-talent:
     output: true
     order:
+      - Relocate Key Employees/Overview.md
       - Relocate Key Employees/.keep
       - Hire Local Talent/Hire through Institutes of Higher Learning.md
       - Hire Local Talent/Hire through job portals and recruitment agencies.md
