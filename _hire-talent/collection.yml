@@ -2,6 +2,7 @@ collections:
   hire-talent:
     output: true
     order:
+      - Employment Practices in SG/.keep
       - Key administrative steps/For companies relocating foreign employees.md
       - Key administrative steps/For all companies.md
       - Key administrative steps/Overview.md
