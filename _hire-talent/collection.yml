@@ -2,6 +2,7 @@ collections:
   hire-talent:
     output: true
     order:
+      - Key administrative steps/For all companies.md
       - Key administrative steps/Overview.md
       - Key administrative steps/.keep
       - Relocate Key Employees/Prepare employees for their move to Singapore.md
