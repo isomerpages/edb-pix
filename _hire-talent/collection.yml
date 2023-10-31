@@ -2,6 +2,8 @@ collections:
   hire-talent:
     output: true
     order:
+      - Employment Practices in SG/Understand Singapore's employment laws &
+        guidelines.md
       - Employment Practices in SG/Get to know the relevant government bodies.md
       - Employment Practices in SG/Overview.md
       - Employment Practices in SG/.keep
