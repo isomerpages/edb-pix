@@ -5,7 +5,7 @@ description: ""
 ---
 ## Growing your customer base
 
-We have curated some resources below to help you secure your first customer and grow your customer base in Singapore.
+Browse the resources below to learn more about how you can secure your first customer and grow your customer base in Singapore.
 
 
 | Resource | Description | Website |
