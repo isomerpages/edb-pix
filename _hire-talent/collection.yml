@@ -2,6 +2,7 @@ collections:
   hire-talent:
     output: true
     order:
+      - What is in this guide?.md
       - Hiring talent in Singapore.md
       - Applying for work visas in Singapore.md
       - Living and working in Singapore.md
