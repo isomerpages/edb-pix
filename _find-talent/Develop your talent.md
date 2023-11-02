@@ -43,7 +43,5 @@ Browse the following resources and government programmes according to the differ
 |**Future of Marketing Tool**|Assess your organization’s marketing capabilities and plan a path towards marketing transformation.|[Start the tool](https://www.edb.gov.sg/en/future-of-marketing-tool.html)|
 
 <br>
-<br>
-<br>
 
 [Back to top](#develop-your-talent)
