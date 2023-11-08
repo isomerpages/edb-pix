@@ -4,8 +4,7 @@ permalink: /grow-business-in-sea/find-innovation-partners/
 description: ""
 variant: markdown
 ---
-## Innovation Partners
-Browse the following resources to find innovation partners or innovative solution providers for your business. 
+Browse the resources below to find innovation partners or innovative solution providers for your business. 
 
 | Resource | 
 | -------- | 
