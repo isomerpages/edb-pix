@@ -3,9 +3,8 @@ title: How others have expanded in Southeast Asia
 permalink: /grow-business-in-sea/how-others-have-expanded-in-sea/
 description: How others have expanded in Southeast Asia
 third_nav_title: Expand in Southeast Asia
+variant: markdown
 ---
-# How others have expanded in Southeast Asia
-
 Hear from&nbsp;other companies how they have expanded their businesses in Southeast Asia through Singapore, from entering new markets to navigating regulations in the region.<br>
 
 ##### Regional Expansion with Doctor Anywhere
