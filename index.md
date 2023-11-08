@@ -4,11 +4,11 @@ title: Grow your business in Singapore
 description: This site is in pilot stage for limited use and testing.
 image: /images/blankpng.png
 permalink: /
-notification: "This site is in pilot stage for limited use and testing. "
+notification: This site is in pilot stage for limited use and testing.
 sections:
   - hero:
       title: Grow your business in Singapore
-      subtitle: "Let us help you get started. "
+      subtitle: Let us help you get started.
       background: /images/stb_47454_annualphotoshoot_gardens_v1.jpg
       variant: floating
       alignment: right
@@ -39,8 +39,8 @@ sections:
       linktext: Learn more
       infoboxes:
         - title: Setting up your business
-          description: "Get a step-by-step guide on incorporating your business and
-            finding the right space for your business in Singapore "
+          description: Get a step-by-step guide on incorporating your business and finding
+            the right space for your business in Singapore
         - title: Find Talent
           description: Find resources from recruiting your first hire to developing your
             team
@@ -54,20 +54,19 @@ sections:
           description: Get a guide on incorporating your business and finding space for
             your business
           linktext: Learn more
-          url: ""
+          url: https://nav.edb.gov.sg/set-up-my-business-in-singapore/
         - title: Find Talent
           description: View recommended resources to help you from build, grow and develop
             your talent
           linktext: Learn more
           url: ""
         - title: Obtain Government Support
-          description: "Get an overview on the various types of government support
-            available "
+          description: Get an overview on the various types of government support available
           linktext: Learn more
           url: ""
         - title: Explore Business Opportunites
-          description: "Learn how you can get connected with potential business partners
-            and customers "
+          description: Learn how you can get connected with potential business partners
+            and customers
           linktext: Learn more
           url: ""
 ---
