@@ -39,12 +39,6 @@ sections:
             and customers
           linktext: Learn more
           url: https://nav.edb.gov.sg/explore-business-opportunities/grow-your-customer-base/
-  - infopic:
-      title: Discover curated resources
-      id: infopic
-      description: Find curated information and resources to help you navigate the
-        business landscape in Singapore, from setting up your business to
-        finding business opportunities
   - infobar:
       title: Can't find what you're looking for?
       description: This site is still in development and we are working to improve it
