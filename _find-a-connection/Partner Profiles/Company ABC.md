@@ -18,9 +18,10 @@ third_nav_title: Partner Profiles
 
 #### Ways to work with Company ABC
 ##### 1. Market Entry Strategy and Execution
-<br>
 Company ABC develops tailored market entry strategies aligned with clients' business objectives, considering factors such as target markets, customer segmentation, competitive positioning, and distribution channels.  
-We assist in developing go-to-market plans, pricing strategies, marketing campaigns, and sales execution to successfully penetrate the Southeast Asian market.  
+
+We assist in developing go-to-market plans, pricing strategies, marketing campaigns, and sales execution to successfully penetrate the Southeast Asian market. 
+
 We also provide project management support to ensure a smooth and efficient execution of market entry initiatives.
 
 **Who is this suitable for?** 
