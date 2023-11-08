@@ -2,8 +2,9 @@
 title: Finding space for my business
 permalink: /operate-in-singapore/finding-space/
 description: ""
+variant: markdown
 ---
-Browse the resources that we have curated below to find a suitable space for your business in Singapore.
+Browse the resources below to find a suitable space for your business in Singapore.
 
 
 | Resource | 
