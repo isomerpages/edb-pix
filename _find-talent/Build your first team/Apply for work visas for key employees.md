@@ -3,6 +3,7 @@ title: Apply for work visas for key employees
 permalink: /build-your-team/build-your-first-team/work-visas/
 description: ""
 third_nav_title: Build your first team
+variant: markdown
 ---
 ## Work visas
 
@@ -46,8 +47,8 @@ This table provides an overview of the EP and S Pass:
 				</tr></tbody></table>
 
 #### Things to Note
-* All employers must adhere to the [Fair Consideration Framework (FCF)](https://www.mom.gov.sg/employment-practices/fair-consideration-framework), which requires employers submitting EP or S Pass applications to first advertise on&nbsp;[MyCareersFuture](https://www.mycareersfuture.gov.sg/)&nbsp;and fairly consider all candidates.
-* Employers may also use the [Employment / S Pass Self-Assessment Tool (SAT)](https://www.mom.gov.sg/eservices/services/employment-s-pass-self-assessment-tool) to check if your candidate qualify for an EP or S Pass before you apply or renew.
+* All employers must adhere to the <a target="_blank" href="https://www.mom.gov.sg/employment-practices/fair-consideration-framework">Fair Consideration Framework (FCF)</a>, which requires employers submitting EP or S Pass applications to first advertise on <a target="_blank" href="https://www.mycareersfuture.gov.sg/">MyCareersFuture</a> and fairly consider all candidates.
+* Employers may also use the <a target="_blank" href="https://www.mom.gov.sg/eservices/services/employment-s-pass-self-assessment-tool">Employment / S Pass Self-Assessment Tool (SAT)</a> to check if your candidate qualify for an EP or S Pass before you apply or renew.
 
 ## Personalised Work Pass
 This table  provides an overview of the personalised work passes that an individual could directly apply for in order to have the right to work in Singapore:
