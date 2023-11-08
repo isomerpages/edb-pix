@@ -2,6 +2,7 @@
 title: Develop your talent
 permalink: /find-talent/develop-your-talent/
 description: ""
+variant: markdown
 ---
 # Develop your Talent
 
@@ -28,6 +29,7 @@ Browse the following resources and government programmes according to the differ
 
 
 ### Developing leadership talent
+<br>
 | Resource | 
 | -------- | 
 | **Singapore Global Leaders Network (SGLN)**<br>Companies grooming local talent for leadership roles may join the SGLN, where members can connect with other corporate leaders through workshops, networking events, a mentoring programme, and more.<br><br> [Visit SGLN](https://www.sgln.hcli.org/)<br>|
