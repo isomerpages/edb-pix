@@ -24,21 +24,21 @@ sections:
           description: Get a guide on incorporating your business and finding space for
             your business
           linktext: Learn more
-          url: https://nav.edb.gov.sg/set-up-my-business-in-singapore/
+          url: /set-up-my-business-in-singapore/
         - title: Find Talent
           description: View recommended resources to help you from build, grow and develop
             your talent
           linktext: Learn more
-          url: https://nav.edb.gov.sg/find-talent/build-your-first-team/overview/
+          url: /find-talent/build-your-first-team/overview/
         - title: Obtain Government Support
           description: Get an overview on the various types of government support available
           linktext: Learn more
-          url: https://nav.edb.gov.sg/government-support/
+          url: /government-support/
         - title: Explore Business Opportunites
           description: Learn how you can get connected with potential business partners
             and customers
           linktext: Learn more
-          url: https://nav.edb.gov.sg/explore-business-opportunities/grow-your-customer-base/
+          url: /explore-business-opportunities/grow-your-customer-base/
   - infobar:
       title: Can't find what you're looking for?
       description: This site is still in development and we are working to improve it
