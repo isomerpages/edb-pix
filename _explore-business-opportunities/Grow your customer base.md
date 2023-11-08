@@ -4,8 +4,6 @@ permalink: /explore-business-opportunities/grow-your-customer-base/
 description: ""
 variant: markdown
 ---
-## Growing your customer base
-
 Browse the resources below to learn more about how you can secure your first customer and grow your customer base in Singapore.
 
 
