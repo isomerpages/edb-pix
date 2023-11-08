@@ -3,6 +3,7 @@ title: Hiring in Singapore
 permalink: /build-your-team/build-your-first-team/hiring-in-singapore/
 description: ""
 third_nav_title: Build your first team
+variant: markdown
 ---
 ## Job Portals 
 
@@ -23,8 +24,8 @@ Get in touch with a service provider that can help with your recruitment and tal
 
 | Organisation | Website |
 | -------- | -------- |
-| **MyCareersFuture**<br> Find candidates to build your team by posting job openings on MyCareersFuture. | <br>[Visit MyCareersFuture](https://employer.mycareersfuture.gov.sg/) |
-|**Employment and Employability Institute (e2i)**<br>Partner e2i on your recruitment, training, and job redesign needs. |<br>[Visit e2i](https://www.e2i.com.sg/businesses/manpower/recruitment-services/) |
+| **MyCareersFuture**<br> Find candidates to build your team by posting job openings on MyCareersFuture. | <br><a target="_blank" href="https://employer.mycareersfuture.gov.sg/">Visit MyCareersFuture</a> |
+|**Employment and Employability Institute (e2i)**<br>Partner e2i on your recruitment, training, and job redesign needs. |<br><a target="_blank" href="https://www.e2i.com.sg/businesses/manpower/recruitment-services/">Visit e2i</a>|
 
 <br>
 
