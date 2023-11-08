@@ -3,6 +3,7 @@ title: Grow in Southeast Asia from Singapore
 permalink: /grow-business-in-sea/grow-in-sea-from-singapore/
 description: Grow in Southeast Asia from Singapore
 third_nav_title: Expand in Southeast Asia
+variant: markdown
 ---
 # Grow in Southeast Asia from Singapore
 <br>
@@ -23,9 +24,9 @@ This guide will share:&nbsp;
 [View A SEA of Opportunities](https://www.edb.gov.sg/en/setting-up-in-singapore/business-guides/a-sea-of-opportunities-understanding-southeast-asia.html)
 <br>
 <br>
-### 3 ways to grow  your business in Southeast Asia through Singapore
+## 3 ways to grow  your business in Southeast Asia through Singapore
 
-##### 1. Leverage Singapore’s vibrant regional trade connections
+#### 1. Leverage Singapore’s vibrant regional trade connections
 Singapore is part of a rich network of Free Trade Agreements (FTAs) that cover over 60% of the world’s GDP, which your business can tap on.<br>
 <br>
 
@@ -44,7 +45,7 @@ In this video, EY will be sharing insights on how companies could leverage Singa
 
 <br>
 
-##### 2. Establish integrated regional operations with Singapore as a control tower
+#### 2. Establish integrated regional operations with Singapore as a control tower
 You can tap on Singapore’s world-class business ecosystem to establish your regional headquarters, while leveraging cost-competitive manufacturing solutions in the proximate neighbourhood.<br>
 <br>
 
@@ -62,7 +63,7 @@ In this video, learn more about Nongsa Digital Park, an emerging digital cluster
 
 <br>
 
-##### 3. Access talent in Southeast Asia from Singapore
+#### 3. Access talent in Southeast Asia from Singapore
 Half of Fortune 500 companies have established their regional headquarters in Singapore, leveraging the skilled workforce and talent in Southeast Asia.<br>
 <br>
 
