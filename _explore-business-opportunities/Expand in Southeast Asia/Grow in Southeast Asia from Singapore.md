@@ -34,14 +34,14 @@ Singapore is part of a rich network of Free Trade Agreements (FTAs) that cover o
 <b>Trade in Goods: Benefits of Free Trade Agreements</b><br>
 This guidebook, produced by the Singapore Business Federation (SBF), helps your business find the right FTA for your needs and learn how to fully enjoy the benefits of these agreements.<br>
 	
-[View Trade in Goods: Benefits of Free Trade Agreements]( https://www.edb.gov.sg/en/business-insights/market-and-industry-reports/trade-in-goods-benefits-of-free-trade-agreements.html)<br>
+<a target="_blank" href="https://www.edb.gov.sg/en/business-insights/market-and-industry-reports/trade-in-goods-benefits-of-free-trade-agreements.html">View Trade in Goods: Benefits of Free Trade Agreements</a><br>
 
 <br>
 
 <b>Leveraging Singapore’s Free Trade Agreements (FTAs)</b><br>
 In this video, EY will be sharing insights on how companies could leverage Singapore’s FTAs to accelerate their growth in SEA.<br>
 
-[View Leveraging Singapore's Free Trade Agreements](https://edbsingapore.thinkific.com/courses/ey-leveraging-singapore-s-free-trade-agreements-ftas)<br>
+<a target="_blank" href="https://edbsingapore.thinkific.com/courses/ey-leveraging-singapore-s-free-trade-agreements-ftas">View Leveraging Singapore's Free Trade Agreements</a><br>
 
 <br>
 
@@ -52,14 +52,14 @@ You can tap on Singapore’s world-class business ecosystem to establish your re
 <b>Participating in the Southeast Asia Manufacturing Alliance</b><br>
 In this video, learn how you can establish your manufacturing operations in the network of industrial parks established by the Southeast Asia Manufacturing Alliance.<br>
 
-[View Participating in the Southeast Asia Manufacturing Alliance](https://edbsingapore.thinkific.com/courses/participating-sma)<br>
+<a target="_blank" href="https://edbsingapore.thinkific.com/courses/participating-sma">View Participating in the Southeast Asia Manufacturing Alliance</a><br>
 
 <br>
 
 <b>Using Nongsa as Your Digital Bridge to SEA</b><br>
 In this video, learn more about Nongsa Digital Park, an emerging digital cluster in Batam, and how it offers convenient and cost-efficient tech solutions for companies expanding in Southeast Asia.<br>
 
-[View Using Nongsa as Your Digital Bridge to SEA](https://edbsingapore.thinkific.com/courses/nongsa-your-digital-bridge-to-sea)<br>
+<a target="_blank" href="https://edbsingapore.thinkific.com/courses/nongsa-your-digital-bridge-to-sea">View Using Nongsa as Your Digital Bridge to SEA</a><br>
 
 <br>
 
@@ -70,7 +70,7 @@ Half of Fortune 500 companies have established their regional headquarters in Si
 <b>Exploring Differentiated Talent Across SEA</b><br>
 In this video, learn more about the differentiated talent landscape you can access across Singapore, Vietnam and Indonesia.<br>
 
-[View Exploring Differentiated Talent Across SEA](https://edbsingapore.thinkific.com/courses/glints-exploring-differentiated-talent-across-sea)<br>
+<a target="_blank" href="https://edbsingapore.thinkific.com/courses/glints-exploring-differentiated-talent-across-sea">View Exploring Differentiated Talent Across SEA</a><br>
 <br>
 <br>
 <br>
