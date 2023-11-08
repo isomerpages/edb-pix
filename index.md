@@ -59,14 +59,14 @@ sections:
           description: View recommended resources to help you from build, grow and develop
             your talent
           linktext: Learn more
-          url: ""
+          url: https://nav.edb.gov.sg/find-talent/build-your-first-team/overview/
         - title: Obtain Government Support
           description: Get an overview on the various types of government support available
           linktext: Learn more
-          url: ""
+          url: https://nav.edb.gov.sg/government-support/
         - title: Explore Business Opportunites
           description: Learn how you can get connected with potential business partners
             and customers
           linktext: Learn more
-          url: ""
+          url: https://nav.edb.gov.sg/explore-business-opportunities/grow-your-customer-base/
 ---
