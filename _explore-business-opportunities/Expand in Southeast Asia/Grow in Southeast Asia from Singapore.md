@@ -5,25 +5,6 @@ description: Grow in Southeast Asia from Singapore
 third_nav_title: Expand in Southeast Asia
 variant: markdown
 ---
-# Grow in Southeast Asia from Singapore
-<br>
-
-<b>A SEA of Opportunities</b><br>
-Singapore’s strategic location means that we are an ideal hub from which you can access Southeast Asia and its growing consumer market. Download the guide below to learn more about how you can grow your business in Southeast Asia through Singapore.
-
-This guide will share:&nbsp;
-
-*   Overview of the Southeast Asia (SEA) countries, including key sectors, talent pools, incorporation processes and tax systems&nbsp;
-    
-*   Megatrends shaping growth in the region&nbsp;
-   
-*   Tips from business leaders who have found success in the region&nbsp;
-    
-*   How Singapore is your gateway into SEA, from a business “control tower”, to an innovation destination
-
-[View A SEA of Opportunities](https://www.edb.gov.sg/en/setting-up-in-singapore/business-guides/a-sea-of-opportunities-understanding-southeast-asia.html)
-<br>
-<br>
 ## 3 ways to grow  your business in Southeast Asia through Singapore
 
 #### 1. Leverage Singapore’s vibrant regional trade connections
@@ -39,7 +20,7 @@ This guidebook, produced by the Singapore Business Federation (SBF), helps your 
 <br>
 
 <b>Leveraging Singapore’s Free Trade Agreements (FTAs)</b><br>
-In this video, EY will be sharing insights on how companies could leverage Singapore’s FTAs to accelerate their growth in SEA.<br>
+In this video, EY will be sharing insights on how companies could leverage Singapore’s FTAs to accelerate their growth in Southeast Asia (SEA).<br>
 
 <a target="_blank" href="https://edbsingapore.thinkific.com/courses/ey-leveraging-singapore-s-free-trade-agreements-ftas">View Leveraging Singapore's Free Trade Agreements</a><br>
 
@@ -73,7 +54,13 @@ In this video, learn more about the differentiated talent landscape you can acce
 <a target="_blank" href="https://edbsingapore.thinkific.com/courses/glints-exploring-differentiated-talent-across-sea">View Exploring Differentiated Talent Across SEA</a><br>
 <br>
 <br>
-<br>
+
+## Learn more about growing in Southeast Asia 
+
+| Resource |
+| -------- | 
+| **A SEA of Opportunities**<br> Download this guide to get an overview of Southeast Asia (SEA) countries, megatrends shaping growth in the region, tips from business leaders who have found success in the region, and learn how Singapore can be your gateway into SEA.<br><br> <a target="_blank" href="https://www.edb.gov.sg/en/setting-up-in-singapore/business-guides/a-sea-of-opportunities-understanding-southeast-asia.html">Download guide</a> |
+
 
 [Back to top](#grow-in-southeast-asia-from-singapore)<br>
 
