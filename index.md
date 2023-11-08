@@ -39,6 +39,7 @@ sections:
             and customers
           linktext: Learn more
           url: /explore-business-opportunities/grow-your-customer-base/
+      subtitle: Find resources for your needs
   - infobar:
       title: Can't find what you're looking for?
       description: This site is still in development and we are working to improve it
