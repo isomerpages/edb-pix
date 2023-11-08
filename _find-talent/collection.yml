@@ -2,7 +2,6 @@ collections:
   find-talent:
     output: true
     order:
-      - Build your first team/Test page for accordions.md
       - Build your first team/.keep
       - Build your first team/Overview.md
       - Build your first team/Hiring in Singapore.md
