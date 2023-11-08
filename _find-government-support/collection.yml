@@ -1,5 +1,4 @@
 collections:
   find-government-support:
     output: true
-    order:
-      - Find Government Support.md
+    order: []
