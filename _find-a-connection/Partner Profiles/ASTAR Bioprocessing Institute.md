@@ -18,10 +18,10 @@ variant: markdown
 
 #### Ways to work with IMDA
 ##### IMDA Accreditation Programme and IMDA Spark Programme
-<br>
+
 **IMDA Accreditation** aims to accelerate the growth of innovative Singapore-based enterprise tech product companies, by establishing their credentials and positioning them as qualified contenders to government and large enterprise buyers, opening up opportunities for their solutions to be showcase and adopted globally. Selected companies are placed on a streamlined procurement process for Singapore Government ICT projects. 
 
-**IMDA Spark** aims to address the key challenges and support the growth of promising Singapore-based infocomn and media startups by providing selected government tools as well as creating a vibrant and collaborative ecoystem and network.
+**IMDA Spark** aims to address the key challenges and support the growth of promising Singapore-based infocomn and media startups by providing selected government tools as well as creating a vibrant and collaborative ecoystem and network. 
 
 **Who is this suitable for?** 
 * Enterprise technology product companies and startups who have or plans to have a presence in Singapore.
