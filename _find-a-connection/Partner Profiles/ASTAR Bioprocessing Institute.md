@@ -3,33 +3,28 @@ title: ASTAR Bioprocessing Institute
 permalink: /find-a-connection/partner-profiles/astar-bioprocessing-institute/
 description: ""
 third_nav_title: Partner Profiles
+variant: markdown
 ---
-### ASTAR Bioprocessing Institute
+### Infocomn Media Development Authority of Singapore (IMDA)
 #### Overview
 <br>
 
-| ![](/images/edb%20virtual%20background_10_preview.jpg) | The Bioprocessing Technology Institute is a national research institute funded by ASTAR, with core expertise in bioprocess science and engineering. Established in 1990 as the Bioprocessing Technology Unit, it was renamed the Bioprocessing Technology Institute (BTI) in 2003. BTI has integrated capabilities to accelerate innovation in biologic, cell and gene therapy and cultured meat. | 
+| ![](https://upload.wikimedia.org/wikipedia/en/5/5a/Infocomm_Media_Development_Authority_logo.svg) | The Infocomn Media Development Authority (IMDA) leads Singapore's digital transformation with infocomn media. To do this, IMDA will develop a dynamic digital economy and a cohesive digital society, driven by an exceptional infocomm media (ICM) ecosystem - by development talent, strengthening business capabilities, and enhancing Singapore's ICM infrastructure. IMDA also regulates the telecommunications and media sectors to safeguard consumer interests while fostering a pro-business environment, and enhances Singapore's data protection regime through the Personal Data Protection Commission | 
 | -------- | -------- | 
-| Website |  (insert link)
-| Organisation Type| (insert type)|
+| Website | www.imda.gov.sg/accreditation
+| Organisation Type| Government|
 
 <br>
 
-#### Ways to work with BTI
-##### CRISP MEATS (Centre of Innovation for Sustainable Banking and Production of Cultivated Meats)
+#### Ways to work with IMDA
+##### IMDA Accreditation Programme and IMDA Spark Programme
 <br>
-Crisp Meats is an integrated platform poised to tackle some of the major challenges that the industry encounters in cultivated meat production. Hosted by BTI, in collaboration with other research entitites and institutes-of-higher-learning, the programme has five workstreams to tackle the market needs in cell banking, culture media development, engineering &amp; scaffold development. 
+**IMDA Accreditation** aims to accelerate the growth of innovative Singapore-based enterprise tech product companies, by establishing their credentials and positioning them as qualified contenders to government and large enterprise buyers, opening up opportunities for their solutions to be showcase and adopted globally. Selected companies are placed on a streamlined procurement process for Singapore Government ICT projects. 
 
-BTI partners with companies across various problem statements in three models: 
-1. Research collaboration agreement
-2. License agreement 
-3. Service agreement
+**IMDA Spark** aims to address the key challenges and support the growth of promising Singapore-based infocomn and media startups by providing selected government tools as well as creating a vibrant and collaborative ecoystem and network.
 
 **Who is this suitable for?** 
-* Cultured food product developers looking to co-develop custom cell lines 
-* Solution providers looking to supply to the culture meat industry
-* Cultured food product developers looking for custom culture media
-* Cultured food product developers looking for custom edible scaffolds
+* Enterprise technology product companies and startups who have or plans to have a presence in Singapore.
 
 **Where is this offered?** 
 Singapore
