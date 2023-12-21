@@ -12,7 +12,7 @@ variant: markdown
 | ![](https://upload.wikimedia.org/wikipedia/en/5/5a/Infocomm_Media_Development_Authority_logo.svg) | The Infocomn Media Development Authority (IMDA) leads Singapore's digital transformation with infocomn media. To do this, IMDA will develop a dynamic digital economy and a cohesive digital society, driven by an exceptional infocomm media (ICM) ecosystem - by development talent, strengthening business capabilities, and enhancing Singapore's ICM infrastructure. IMDA also regulates the telecommunications and media sectors to safeguard consumer interests while fostering a pro-business environment, and enhances Singapore's data protection regime through the Personal Data Protection Commission | 
 | -------- | -------- | 
 | Website | https://www.imda.gov.sg/accreditation
-| Organisation Type| Government|
+
 
 <br>
 
