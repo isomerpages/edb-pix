@@ -12,8 +12,6 @@ third_nav_title: Partner Profiles
 | ![](/images/Open_Innovation_Platform_full_colour.png) | IMDA Open Innovation Platform helps corporates crowdsource innovation solutions from a global network of over 13,000 tech solution providers. OIP provides structured, high-touch innovation support - from diagnosing businesses' challenges to refining the problem statement, assessing proposals and setting key performance indicators to ensure the right outcomes. To-date, we have facilitated over 300 challenges, with more than SGD$13 million in prize money and support.  | 
 | -------- | -------- | 
 | Website |  https://www.openinnovation.sg
-| Organisation Type| Government 
-
 <br>
 
 #### Ways to work with IMDA Open Innovation Platform
