@@ -13,7 +13,6 @@ variant: markdown
 | -------- | -------- | 
 | Website | https://www.imda.gov.sg/accreditation
 
-
 <br>
 
 #### Ways to work with IMDA
