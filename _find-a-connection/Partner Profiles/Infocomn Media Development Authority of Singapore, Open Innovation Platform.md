@@ -23,7 +23,7 @@ IMDA Open Innovation Platform (OIP) connects businesses with a global network of
 * Corporates who may have limited R&amp;D resources, who wish to access a wider pool of talent and expertise without significant upfront costs. 
 * Corporates who are looking to speed up the innovation cycles (ideation, prototyping and testing processes) and bring innovative solutions to market faster.
 
-##### [Request Introduction](https://form.gov.sg/6530993c6043620012ab94c1?6530a25523d653001217d3a6=ASTAR%20Bioprocessing%20Institute)
+##### [Request Introduction](https://form.gov.sg/6530993c6043620012ab94c1?6530a25523d653001217d3a6=Infocomm%20Media%20Development%20Authority%20of%20Singapore,%20IMDA:%20Accelerating%20Innovation%20and%20Market%20Entry)
 
 ##### 2. Increased Efficiency and Cost Savings 
 Businesses can tap on IMDA's Discovery Engine, a self-help portal that allows users to streamline their search for qualified and validated tech solvers. By eliminating the need to screen numerous potential providers, users can quickly identify ideal solutions aligned with their specific needs. Intuitive filters like Sectors, Technology Area and Location further simplify the search process, ensuring businesses find the perfect match for their unique challenges. 
@@ -31,4 +31,4 @@ Businesses can tap on IMDA's Discovery Engine, a self-help portal that allows us
 **Who is this suitable for?** 
 * Corporates who are looking to speed up the innovation cycles (ideation, prototyping and testing processes) and bring innovative solutions to market faster.
 
-##### [Request Introduction](https://form.gov.sg/6530993c6043620012ab94c1?6530a25523d653001217d3a6=ASTAR%20Bioprocessing%20Institute)
+##### [Request Introduction](https://form.gov.sg/6530993c6043620012ab94c1?6530a25523d653001217d3a6=Infocomm%20Media%20Development%20Authority%20of%20Singapore,%20IMDA:%20Increased%20Efficiency%20and%20Cost%20Savings)
