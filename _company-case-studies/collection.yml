@@ -1,0 +1,19 @@
+collections:
+  company-case-studies:
+    output: true
+    order:
+      - Case studies by industry/.keep
+      - Case studies by industry/Aerospace.md
+      - Case studies by industry/Consumer business.md
+      - Case studies by industry/Creative industries.md
+      - Case studies by industry/Electronic.md
+      - Case studies by industry/Energy & chemicals.md
+      - Case studies by industry/Information & communications technology.md
+      - Case studies by industry/Logistics & supply chain management.md
+      - Case studies by industry/Medical technology.md
+      - Case studies by industry/Natural resources.md
+      - Case studies by industry/Oil & gas equipment and services.md
+      - Case studies by industry/Pharmaceuticals & biotechnology.md
+      - Case studies by industry/Precision engineering.md
+      - Case studies by industry/Professional services.md
+      - Case studies by industry/Urban solutions & sustainability.md

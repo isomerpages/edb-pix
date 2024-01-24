@@ -1,0 +1,16 @@
+collections:
+  find-a-connection:
+    output: true
+    order:
+      - How this works.md
+      - Partner Directory.md
+      - Partner Profiles/.keep
+      - Partner Profiles/(SAMPLE PROFILE) Company ABC.md
+      - Partner Profiles/Advanced Cell Therapy and Research Institute, Singapore
+        (ACTRIS).md
+      - Partner Profiles/Health Sciences Authority Innovation Office.md
+      - Partner Profiles/Infocomm Media Development Authority of Singapore,
+        Accreditation.md
+      - Partner Profiles/Infocomn Media Development Authority of Singapore, Open
+        Innovation Platform.md
+      - Partner Profiles/Republic Polytechnic.md
