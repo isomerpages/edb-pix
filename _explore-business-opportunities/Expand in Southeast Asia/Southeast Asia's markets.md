@@ -5,7 +5,6 @@ description: Southeast Asia's markets
 third_nav_title: Expand in Southeast Asia
 variant: markdown
 ---
-
 | We have made changes to this site. For information about investing in Singapore, please visit EDB's Corporate Website at https://www.edb.gov.sg. If you are looking for resources to help you set up and grow your business in Singapore, please visit our pilot tool, EDB Nav at https://invest.edb.gov.sg.| 
 | -------- | 
 
@@ -26,22 +25,3 @@ Business opportunities in Southeast Asia have increased dramatically, with the r
 <br>
 
 For more information on capturing Southeast Asia growth opportunities from Singapore, click [here](https://www.edb.gov.sg/en/business-insights/insights/capturing-southeast-asias-growth-opportunities-from-singapore.html).
-### Country Guides
-Learn more about each Southeast Asian country through the following country guides.<br>
-
-|  |  |  |
-| -------- | -------- | -------- |
-| <a target="_blank" href="https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/market-guides/southeast-asia/Cambodia/overview">Cambodia</a><br> | <a target="_blank" href="https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/market-guides/southeast-asia/Indonesia/overview">Indonesia</a><br> | <a target="_blank" href="https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/market-guides/southeast-asia/malaysia/overview">Malaysia</a><br>  |
-|<a target="_blank" href="https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/market-guides/southeast-asia/myanmar/overview">Myanmar</a> <br> | <a target="_blank" href="https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/market-guides/southeast-asia/philippines/overview">Philippines</a>[]()<br> |<a target="_blank" href="https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/market-guides/southeast-asia/thailand/overview">Thailand</a><br> |
-|<a target="_blank" href="https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/market-guides/southeast-asia/vietnam/overview">Vietnam</a><br>  | <a target="_blank" href="https://www.enterprisesg.gov.sg/Grow-Your-Business/go-global/market-guides/southeast-asia/Laos/overview">Laos</a>[]() |  |
-|  |  |  |
-
-<br>
-<br>
-
-[Back to top](#southeast-asias-markets)
-<br>
-<hr>
-
-##### Did you find what you need?
-[Send us your feedback](https://form.gov.sg/642693623cb98f001239be0d)
