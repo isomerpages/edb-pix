@@ -26,7 +26,3 @@ Business opportunities in Southeast Asia have increased dramatically, with the r
 
 For more information on capturing Southeast Asia growth opportunities from Singapore, click [here](https://www.edb.gov.sg/en/business-insights/insights/capturing-southeast-asias-growth-opportunities-from-singapore.html).
 
-<hr>
-
-##### Did you find what you need?
-[Send us your feedback](https://form.gov.sg/642693623cb98f001239be0d)
