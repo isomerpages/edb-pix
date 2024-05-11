@@ -35,11 +35,4 @@ companies expanding in the region. The firms have expertise ranging from
 due diligence services on acquisitions in Southeast Asia to advisory on
 cross-border investments.&nbsp;&nbsp;</p>
 <p>To download the e-brochure, click <a href="https://www.enterprisesg.gov.sg/all-forms/professional-services-partner-guide" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p>
-<br>
-<br>
-</p>
-<hr>
-<h5>Did you find what you need?</h5>
-<p><a href="https://form.gov.sg/642693623cb98f001239be0d" rel="noopener noreferrer nofollow" target="_blank">Send us your feedback</a>
-</p>
+<p></p>
