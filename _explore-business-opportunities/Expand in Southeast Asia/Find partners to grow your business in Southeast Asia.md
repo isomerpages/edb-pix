@@ -16,7 +16,7 @@ To find a service provider for market entry advisory, click [here](https://www.e
 #### Guide to Professional Services Firms
 You may also download this e-brochure that contains a specially curated digital catalogue of professional services firms with track record in serving companies expanding in the region. The firms have expertise ranging from due diligence services on acquisitions in Southeast Asia to advisory on cross-border investments.&nbsp;&nbsp;
 
-To download the e-brochure, click [here](https://www.enterprisesg.gov.sg/-/media/BE5679CAABF0431588A0E3E6F6B68167.ashx).
+To download the e-brochure, click [here](https://www.enterprisesg.gov.sg/all-forms/professional-services-partner-guide).
 
 <br>
 <br>
