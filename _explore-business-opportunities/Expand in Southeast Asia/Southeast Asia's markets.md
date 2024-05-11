@@ -75,5 +75,5 @@ purchasing power by 2030</p>
 </tr>
 </tbody>
 </table>
-<p>For more information on capturing Southeast Asia growth opportunities
-from Singapore, click <a href="https://www.edb.gov.sg/en/business-insights/insights/capturing-southeast-asias-growth-opportunities-from-singapore.html" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Source: <a href="https://www.edb.gov.sg/en/business-insights/insights/capturing-southeast-asias-growth-opportunities-from-singapore.html" rel="noopener noreferrer nofollow" target="_blank">Capturing Southeast Asia's Growth Opportunities from Singapore</a> (Economic
+Development Board) .</p>
