@@ -13,9 +13,9 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <p>We have made changes to this site. For information about investing in
-Singapore, please visit EDB's Corporate Website at https://www.edb.gov.sg.
-If you are looking for resources to help you set up and grow your business
-in Singapore, please visit our pilot tool, EDB Nav at <a href="https://invest.edb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://invest.edb.gov.sg</a>.</p>
+Singapore, please visit EDB's Corporate Website at <a href="https://www.edb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.edb.gov.sg</a>. If you are looking
+for resources to help you set up and grow your business in Singapore, please
+visit our pilot tool, EDB Nav at <a href="https://invest.edb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://invest.edb.gov.sg</a>.</p>
 </th>
 </tr>
 <tr>
