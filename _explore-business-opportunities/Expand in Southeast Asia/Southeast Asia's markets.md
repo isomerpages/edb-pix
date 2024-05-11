@@ -7,6 +7,7 @@ variant: markdown
 ---
 | We have made changes to this site. For information about investing in Singapore, please visit EDB's Corporate Website at https://www.edb.gov.sg. If you are looking for resources to help you set up and grow your business in Singapore, please visit our pilot tool, EDB Nav at https://invest.edb.gov.sg.| 
 | -------- | 
+| |
 
 # Southeast Asia's Markets
 
